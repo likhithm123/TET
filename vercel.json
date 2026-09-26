@@ -1,4 +1,12 @@
 {
-  "outputDirectory": "app",
-  "cleanUrls": true
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/app/index.html" },
+    { "source": "/css/:path*", "destination": "/app/css/:path*" },
+    { "source": "/js/:path*", "destination": "/app/js/:path*" },
+    { "source": "/data/:path*", "destination": "/app/data/:path*" },
+    { "source": "/assets/:path*", "destination": "/app/assets/:path*" },
+    { "source": "/TET_Paper_2A_Master_Question_Bank.pdf", "destination": "/app/TET_Paper_2A_Master_Question_Bank.pdf" },
+    { "source": "/((?!app/).*)", "destination": "/app/$1" }
+  ]
 }

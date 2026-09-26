@@ -22,9 +22,6 @@ const I18N = {
     score_label: "Score",
     qno_prefix: "Question",
     of_label: "of",
-    lang_both: "ENG + TEL",
-    lang_en: "ENG Only",
-    lang_te: "TEL Only",
     q_jump_lbl: "Jump to Q#:",
     auto_advance: "Auto-Next",
     feedback_correct: "Correct! +1 Mark",
@@ -34,6 +31,7 @@ const I18N = {
     next_q: "Next",
     submit_sub: "Submit Subject",
     drawer_title: "Question Navigator",
+    drawer_title_short: "Questions",
     legend_correct: "Correct",
     legend_wrong: "Wrong",
     legend_unanswered: "Unanswered",
@@ -45,13 +43,24 @@ const I18N = {
     btn_next_sub: "Proceed to Next Subject",
     btn_review: "Review Questions",
     btn_hub: "Subject Hub",
+    btn_back_to_sub: "Back to Subjects",
     retake_sub: "Retake Subject",
     btn_reset_all: "Reset Test Progress",
     reset_modal_title: "Reset All Progress?",
     reset_modal_desc: "This will permanently clear all your saved answers, subject scores, and test history across all 6 subjects so you can start fresh.",
     btn_cancel: "Cancel",
     btn_confirm_reset: "Yes, Reset Everything",
-    toast_reset_done: "All test progress has been reset successfully!"
+    toast_reset_done: "All test progress has been reset successfully!",
+    btn_reset_sub: "Reset Subject",
+    btn_reset_sub_short: "Reset",
+    reset_sub_modal_title: "Reset Subject Progress?",
+    reset_sub_modal_desc: "This will clear all saved answers and score for {sub} so you can start fresh.",
+    btn_confirm_reset_sub: "Yes, Reset Subject",
+    toast_sub_reset_done: "Subject progress has been reset successfully!",
+    nav_volume: "Volume",
+    nav_volume_off: "Muted",
+    nav_theme_dark: "Dark",
+    nav_theme_light: "Light"
   },
   te: {
     brand_title: "టెట్ 2A పరీక్షా వేదిక (CBT)",
@@ -69,9 +78,6 @@ const I18N = {
     score_label: "స్కోరు",
     qno_prefix: "ప్రశ్న సంఖ్య",
     of_label: "నుండి",
-    lang_both: "ద్విభాష (ENG + TEL)",
-    lang_en: "ఆంగ్లం మాత్రమే",
-    lang_te: "తెలుగు మాత్రమే",
     q_jump_lbl: "ప్రశ్నకు వెళ్ళు:",
     auto_advance: "ఆటో-నెక్స్ట్",
     feedback_correct: "సరైన సమాధానం! +1 మార్కు లభించింది",
@@ -81,6 +87,7 @@ const I18N = {
     next_q: "తరువాతి",
     submit_sub: "సబ్జెక్ట్ సబ్మిట్ చేయండి",
     drawer_title: "ప్రశ్నల నావిగేటర్",
+    drawer_title_short: "ప్రశ్నలు",
     legend_correct: "సరైనవి",
     legend_wrong: "తప్పులు",
     legend_unanswered: "రాయనివి",
@@ -92,13 +99,24 @@ const I18N = {
     btn_next_sub: "తదుపరి సబ్జెక్ట్‌కు వెళ్ళండి",
     btn_review: "సమాధానాలను సమీక్షించండి",
     btn_hub: "హోమ్ పేజీకి వెళ్ళండి",
+    btn_back_to_sub: "సబ్జెక్టులు",
     retake_sub: "మళ్లీ రాయండి",
     btn_reset_all: "ప్రాక్టీస్ రీసెట్ చేయండి",
     reset_modal_title: "అన్ని రికార్డులను రీసెట్ చేయాలా?",
     reset_modal_desc: "ఇది మొత్తం 6 సబ్జెక్టులలోని మీ సమాధానాలు, స్కోర్లు మరియు ప్రాక్టీస్ హిస్టరీని శాశ్వతంగా తొలగిస్తుంది. మీరు మళ్ళీ మొదటి నుండి రాయవచ్చు.",
     btn_cancel: "రద్దు చేయి",
     btn_confirm_reset: "అవును, పూర్తిగా రీసెట్ చేయి",
-    toast_reset_done: "పరీక్షా రికార్డులన్నీ విజయవంతంగా రీసెట్ చేయబడ్డాయి!"
+    toast_reset_done: "పరీక్షా రికార్డులన్నీ విజయవంతంగా రీసెట్ చేయబడ్డాయి!",
+    btn_reset_sub: "సబ్జెక్ట్ రీసెట్",
+    btn_reset_sub_short: "రీసెట్",
+    reset_sub_modal_title: "సబ్జెక్ట్ ప్రాక్టీస్ రీసెట్ చేయాలా?",
+    reset_sub_modal_desc: "{sub} లోని మీ సమాధానాలు మరియు స్కోరు పూర్తిగా తొలగించబడతాయి. మీరు మొదటి నుండి రాయవచ్చు.",
+    btn_confirm_reset_sub: "అవును, సబ్జెక్ట్ రీసెట్ చేయి",
+    toast_sub_reset_done: "సబ్జెక్ట్ రికార్డులు విజయవంతంగా రీసెట్ చేయబడ్డాయి!",
+    nav_volume: "వాల్యూమ్",
+    nav_volume_off: "మ్యూట్",
+    nav_theme_dark: "డార్క్",
+    nav_theme_light: "లైట్"
   }
 };
 
@@ -211,6 +229,8 @@ class App {
     
     this.initElements();
     this.applyTheme();
+    this.updateSoundButton();
+    this.updateLangButton();
     this.attachEventListeners();
     this.loadSubjects();
   }
@@ -280,9 +300,13 @@ class App {
 
     // Reset Progress Elements
     this.resetProgressBtn = document.getElementById('reset-progress-btn');
+    this.resetCurrentSubBtn = document.getElementById('reset-current-sub-btn');
     this.resetModal = document.getElementById('reset-modal');
+    this.resetModalTitle = document.getElementById('reset-modal-title');
+    this.resetModalDesc = document.getElementById('reset-modal-desc');
     this.cancelResetBtn = document.getElementById('cancel-reset-btn');
     this.confirmResetBtn = document.getElementById('confirm-reset-btn');
+    this.resetTargetSubject = null;
     this.toastContainer = document.getElementById('toast-container');
   }
 
@@ -321,11 +345,18 @@ class App {
     if (this.resetProgressBtn) {
       this.resetProgressBtn.addEventListener('click', () => this.openResetModal());
     }
+    if (this.resetCurrentSubBtn) {
+      this.resetCurrentSubBtn.addEventListener('click', () => {
+        if (this.currentSubject) {
+          this.openResetModal(this.currentSubject.id);
+        }
+      });
+    }
     if (this.cancelResetBtn) {
       this.cancelResetBtn.addEventListener('click', () => this.closeResetModal());
     }
     if (this.confirmResetBtn) {
-      this.confirmResetBtn.addEventListener('click', () => this.executeResetAll());
+      this.confirmResetBtn.addEventListener('click', () => this.executeReset());
     }
     if (this.resetModal) {
       this.resetModal.addEventListener('click', (e) => {
@@ -351,16 +382,6 @@ class App {
         if (e.key === 'Enter') this.handleQuickJump();
       });
     }
-
-    // Language view pills
-    document.querySelectorAll('.lang-mode-pill').forEach(pill => {
-      pill.addEventListener('click', (e) => {
-        document.querySelectorAll('.lang-mode-pill').forEach(p => p.classList.remove('active'));
-        e.target.classList.add('active');
-        this.questionLangMode = e.target.dataset.mode;
-        this.renderCurrentQuestion();
-      });
-    });
 
     // Keyboard Shortcuts
     window.addEventListener('keydown', (e) => {
@@ -395,7 +416,23 @@ class App {
 
   applyTheme() {
     document.documentElement.setAttribute('data-theme', this.theme);
-    this.themeToggleBtn.textContent = this.theme === 'dark' ? '☀️' : '🌙';
+    this.updateThemeButton();
+  }
+
+  updateThemeButton() {
+    const iconEl = document.getElementById('theme-icon');
+    const labelEl = document.getElementById('theme-label');
+    const isEn = this.uiLang === 'en';
+    const isDark = this.theme === 'dark';
+    
+    if (iconEl) iconEl.textContent = isDark ? '☀️' : '🌙';
+    if (labelEl) {
+      if (isEn) {
+        labelEl.textContent = isDark ? 'Dark' : 'Light';
+      } else {
+        labelEl.textContent = isDark ? 'డార్క్' : 'లైట్';
+      }
+    }
   }
 
   toggleTheme() {
@@ -405,6 +442,36 @@ class App {
     this.sound.playClick();
   }
 
+  updateSoundButton() {
+    const iconEl = document.getElementById('sound-icon');
+    const labelEl = document.getElementById('sound-label');
+    const isEn = this.uiLang === 'en';
+    
+    if (iconEl) iconEl.textContent = this.sound.enabled ? '🔊' : '🔇';
+    if (labelEl) {
+      if (this.sound.enabled) {
+        labelEl.textContent = isEn ? 'Volume' : 'వాల్యూమ్';
+      } else {
+        labelEl.textContent = isEn ? 'Muted' : 'మ్యూట్';
+      }
+    }
+    if (this.soundToggleBtn) {
+      this.soundToggleBtn.classList.toggle('is-muted', !this.sound.enabled);
+    }
+  }
+
+  toggleSound() {
+    this.sound.enabled = !this.sound.enabled;
+    this.updateSoundButton();
+  }
+
+  updateLangButton() {
+    const labelEl = document.getElementById('lang-label');
+    if (labelEl) {
+      labelEl.textContent = this.uiLang === 'en' ? 'తెలుగు' : 'English';
+    }
+  }
+
   toggleLanguage() {
     this.uiLang = this.uiLang === 'en' ? 'te' : 'en';
     localStorage.setItem('tet_lang', this.uiLang);
@@ -412,15 +479,23 @@ class App {
     this.sound.playClick();
   }
 
-  toggleSound() {
-    this.sound.enabled = !this.sound.enabled;
-    this.soundToggleBtn.textContent = this.sound.enabled ? '🔊' : '🔇';
-    this.soundToggleBtn.style.opacity = this.sound.enabled ? '1' : '0.6';
-  }
-
   updateLocalization() {
     const t = I18N[this.uiLang];
-    this.langToggleBtn.textContent = this.uiLang === 'en' ? 'తెలుగు' : 'English';
+    document.documentElement.setAttribute('lang', this.uiLang);
+    
+    // Fix Telugu font rendering in header if Telugu selected
+    const brandTitleEl = document.querySelector('[data-i18n="brand_title"]');
+    if (brandTitleEl) {
+      if (this.uiLang === 'te') {
+        brandTitleEl.classList.add('is-telugu');
+      } else {
+        brandTitleEl.classList.remove('is-telugu');
+      }
+    }
+
+    this.updateLangButton();
+    this.updateThemeButton();
+    this.updateSoundButton();
     
     document.querySelectorAll('[data-i18n]').forEach(el => {
       const key = el.getAttribute('data-i18n');
@@ -485,13 +560,28 @@ class App {
             <div class="progress-fill" style="width: ${pct}%"></div>
           </div>
         </div>
-        <button class="subject-start-btn" data-sub-id="${sub.id}">
-          <span>${btnText}</span>
-          <span>→</span>
-        </button>
+        <div class="subject-card-actions">
+          <button class="subject-start-btn" data-sub-id="${sub.id}">
+            <span>${btnText}</span>
+            <span>→</span>
+          </button>
+          ${answeredCount > 0 ? `
+            <button class="subject-card-reset-btn" data-reset-sub-id="${sub.id}" title="${t.btn_reset_sub}">
+              <span>🔄</span>
+              <span>${t.btn_reset_sub_short}</span>
+            </button>
+          ` : ''}
+        </div>
       `;
       
-      card.addEventListener('click', () => {
+      card.addEventListener('click', (e) => {
+        const resetBtn = e.target.closest('.subject-card-reset-btn');
+        if (resetBtn) {
+          e.stopPropagation();
+          const targetSubId = resetBtn.dataset.resetSubId || sub.id;
+          this.openResetModal(targetSubId);
+          return;
+        }
         this.sound.playClick();
         this.startSubject(sub.id);
       });
@@ -563,25 +653,79 @@ class App {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
-  openResetModal() {
+  openResetModal(subId = null) {
     this.sound.playClick();
+    this.resetTargetSubject = subId;
+    const t = I18N[this.uiLang];
+    
+    if (subId) {
+      const sub = this.subjects.find(s => s.id === subId);
+      const subName = sub ? (this.uiLang === 'te' ? sub.title_te : sub.title) : '';
+      if (this.resetModalTitle) {
+        this.resetModalTitle.textContent = `${t.btn_reset_sub}: ${subName}`;
+      }
+      if (this.resetModalDesc) {
+        this.resetModalDesc.textContent = t.reset_sub_modal_desc.replace('{sub}', subName);
+      }
+      if (this.confirmResetBtn) {
+        this.confirmResetBtn.textContent = t.btn_confirm_reset_sub;
+      }
+    } else {
+      if (this.resetModalTitle) {
+        this.resetModalTitle.textContent = t.reset_modal_title;
+      }
+      if (this.resetModalDesc) {
+        this.resetModalDesc.textContent = t.reset_modal_desc;
+      }
+      if (this.confirmResetBtn) {
+        this.confirmResetBtn.textContent = t.btn_confirm_reset;
+      }
+    }
+    
     if (this.resetModal) this.resetModal.classList.add('active');
   }
 
   closeResetModal() {
     this.sound.playClick();
     if (this.resetModal) this.resetModal.classList.remove('active');
+    this.resetTargetSubject = null;
   }
 
-  executeResetAll() {
+  executeReset() {
+    const targetSubId = this.resetTargetSubject;
     this.closeResetModal();
-    localStorage.removeItem('tet_progress');
-    this.savedProgress = {};
-    this.renderSubjectCards();
-    this.updateGlobalStats();
-    this.sound.playCorrect();
     const t = I18N[this.uiLang];
-    this.showToast(t.toast_reset_done);
+    
+    if (targetSubId) {
+      delete this.savedProgress[targetSubId];
+      localStorage.setItem('tet_progress', JSON.stringify(this.savedProgress));
+      
+      // If currently practicing this subject in test view, reset position & UI
+      if (this.currentSubject && this.currentSubject.id === targetSubId) {
+        this.currentIndex = 0;
+        this.renderQuestionStrip();
+        this.renderCurrentQuestion();
+        this.updateProgressCounters();
+      }
+      
+      this.renderSubjectCards();
+      this.updateGlobalStats();
+      this.sound.playCorrect();
+      this.showToast(t.toast_sub_reset_done);
+    } else {
+      localStorage.removeItem('tet_progress');
+      this.savedProgress = {};
+      if (this.currentSubject) {
+        this.currentIndex = 0;
+        this.renderQuestionStrip();
+        this.renderCurrentQuestion();
+        this.updateProgressCounters();
+      }
+      this.renderSubjectCards();
+      this.updateGlobalStats();
+      this.sound.playCorrect();
+      this.showToast(t.toast_reset_done);
+    }
   }
 
   showToast(message) {

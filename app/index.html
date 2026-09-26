@@ -22,31 +22,41 @@
   <!-- Sticky Header -->
   <header class="app-header">
     <div class="header-container">
-      <a href="#" id="brand-home-link" class="brand">
-        <div class="brand-icon">🎓</div>
-        <div class="brand-text">
-          <h1 data-i18n="brand_title">TET 2A Knowledge Master</h1>
-          <p data-i18n="brand_sub">AP & TS TET Question Bank</p>
-        </div>
-      </a>
+      <!-- Main Brand Row with Score Ticker -->
+      <div class="header-main-row">
+        <a href="#" id="brand-home-link" class="brand">
+          <div class="brand-icon">🎓</div>
+          <div class="brand-text">
+            <h1 data-i18n="brand_title">TET 2A Knowledge Master</h1>
+            <p data-i18n="brand_sub">AP & TS TET Question Bank</p>
+          </div>
+        </a>
 
-      <div class="header-actions">
         <!-- Live Total Score Ticker -->
         <div id="global-score-ticker" class="score-ticker" title="Total Score Across All Subjects">
           <span>⚡</span>
           <span id="global-score-val">+0</span>
         </div>
+      </div>
 
-        <!-- Sound Toggle -->
-        <button id="sound-toggle-btn" class="icon-btn" title="Toggle Sound">🔊</button>
+      <!-- Highlighted Controls Row: Volume, Theme, and Language with Text (Row below on mobile) -->
+      <div class="header-controls-row">
+        <!-- Sound / Volume Toggle with Text -->
+        <button id="sound-toggle-btn" class="header-ctrl-btn volume-btn" title="Toggle Sound / Volume">
+          <span class="ctrl-icon" id="sound-icon">🔊</span>
+          <span class="ctrl-text" id="sound-label" data-i18n="nav_volume">Volume</span>
+        </button>
 
-        <!-- Theme Toggle -->
-        <button id="theme-toggle-btn" class="icon-btn" title="Toggle Theme">☀️</button>
+        <!-- Theme Toggle with Text -->
+        <button id="theme-toggle-btn" class="header-ctrl-btn theme-btn" title="Toggle Theme">
+          <span class="ctrl-icon" id="theme-icon">☀️</span>
+          <span class="ctrl-text" id="theme-label" data-i18n="nav_theme_dark">Dark</span>
+        </button>
 
-        <!-- Language Toggle -->
-        <button id="lang-toggle-btn" class="lang-toggle-btn" title="Switch Language">
-          <span>🌐</span>
-          <span>తెలుగు</span>
+        <!-- Language Toggle with Text -->
+        <button id="lang-toggle-btn" class="header-ctrl-btn lang-btn" title="Switch Language">
+          <span class="ctrl-icon">🌐</span>
+          <span class="ctrl-text" id="lang-label">తెలుగు</span>
         </button>
       </div>
     </div>
@@ -110,23 +120,25 @@
       <!-- Test Header Bar -->
       <div class="test-top-bar">
         <div class="test-subject-info">
-          <button id="test-back-btn" class="test-back-btn">
-            <span>←</span>
-            <span data-i18n="btn_hub">Hub</span>
+          <button id="test-back-btn" class="test-back-btn highlighted-back-btn" title="Back to Subjects">
+            <span class="back-icon">←</span>
+            <span class="back-text" data-i18n="btn_back_to_sub">Back to Subjects</span>
           </button>
           <span class="test-subject-name" id="test-subject-name">Subject Name</span>
         </div>
 
         <div class="test-controls-right">
-          <!-- Language Display Pills -->
-          <div class="lang-mode-pills" title="Toggle Question View Language">
-            <button class="lang-mode-pill active" data-mode="both" data-i18n="lang_both">ENG + TEL</button>
-            <button class="lang-mode-pill" data-mode="en" data-i18n="lang_en">ENG Only</button>
-            <button class="lang-mode-pill" data-mode="te" data-i18n="lang_te">TEL Only</button>
-          </div>
+          <!-- Reset Current Subject Button -->
+          <button id="reset-current-sub-btn" class="reset-sub-ctrl-btn" title="Reset Subject Progress">
+            <span class="reset-icon">🔄</span>
+            <span class="reset-text" data-i18n="btn_reset_sub_short">Reset</span>
+          </button>
 
           <!-- Navigator Drawer Button -->
-          <button id="open-drawer-btn" class="icon-btn" title="Open Full Question Grid">☰</button>
+          <button id="open-drawer-btn" class="drawer-trigger-btn" title="Open Full Question Grid">
+            <span class="drawer-icon">☰</span>
+            <span class="drawer-text" data-i18n="drawer_title_short">Questions</span>
+          </button>
         </div>
       </div>
 
@@ -292,8 +304,8 @@
   <div id="reset-modal" class="modal-overlay">
     <div class="reset-modal-card">
       <div class="reset-modal-icon">⚠️</div>
-      <h3 class="modal-title" data-i18n="reset_modal_title">Reset All Progress?</h3>
-      <p class="modal-subtitle" data-i18n="reset_modal_desc">
+      <h3 id="reset-modal-title" class="modal-title" data-i18n="reset_modal_title">Reset All Progress?</h3>
+      <p id="reset-modal-desc" class="modal-subtitle" data-i18n="reset_modal_desc">
         This will permanently clear all your saved answers, subject scores, and test history across all 6 subjects so you can start fresh.
       </p>
       <div class="modal-actions-horizontal">

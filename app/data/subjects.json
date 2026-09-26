@@ -1,0 +1,80 @@
+[
+  {
+    "id": "cdp",
+    "title": "Child Development & Pedagogy (CDP)",
+    "title_te": "శిశు వికాసం మరియు పెడగోగి (CDP)",
+    "description": "Educational Psychology, Learning Theories, Growth & Stages",
+    "description_te": "విద్యా మనోవిజ్ఞాన శాస్త్రం, వికాస దశలు, అభ్యసన ప్రక్రియ",
+    "total_questions": 630,
+    "icon": "🧠",
+    "color": "#6366f1",
+    "gradient": "linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%)",
+    "order": 1,
+    "next_subject": "telugu"
+  },
+  {
+    "id": "telugu",
+    "title": "Telugu Language 1",
+    "title_te": "తెలుగు భాష 1",
+    "description": "Telugu Literature, Grammar, Poetry, Sandhi, Samasa",
+    "description_te": "పద్య భాగం, గద్య భాగం, వ్యాకరణాంశాలు, ఛందస్సు, అలంకారాలు",
+    "total_questions": 629,
+    "icon": "📜",
+    "color": "#ec4899",
+    "gradient": "linear-gradient(135deg, #e11d48 0%, #db2777 100%)",
+    "order": 2,
+    "next_subject": "english"
+  },
+  {
+    "id": "english",
+    "title": "English Language 2",
+    "title_te": "ఆంగ్ల భాష 2",
+    "description": "Synonyms, Antonyms, Voices, Grammar, Reading Comprehension",
+    "description_te": "పదజాలం, క్రియా పదాలు, వాయిస్, వ్యాకరణం, రీడింగ్ ప్యాసేజ్‌లు",
+    "total_questions": 720,
+    "icon": "📚",
+    "color": "#0ea5e9",
+    "gradient": "linear-gradient(135deg, #0284c7 0%, #06b6d4 100%)",
+    "order": 3,
+    "next_subject": "maths"
+  },
+  {
+    "id": "maths",
+    "title": "Mathematics",
+    "title_te": "గణిత శాస్త్రము",
+    "description": "Number System, Arithmetic, Algebra, Geometry, Mensuration",
+    "description_te": "సంఖ్యా వ్యవస్థ, అంకగణితం, బీజగణితం, రేఖాగణితం, క్షేత్రమితి",
+    "total_questions": 240,
+    "icon": "📐",
+    "color": "#10b981",
+    "gradient": "linear-gradient(135deg, #059669 0%, #10b981 100%)",
+    "order": 4,
+    "next_subject": "physics"
+  },
+  {
+    "id": "physics",
+    "title": "Physical Science",
+    "title_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "description": "Motion, Force, Electricity, Light, Sound, Chemical Reactions",
+    "description_te": "గతి శాస్త్రం, బలం, కాంతి, విద్యుత్, రసాయన చర్యలు",
+    "total_questions": 240,
+    "icon": "⚡",
+    "color": "#f59e0b",
+    "gradient": "linear-gradient(135deg, #d97706 0%, #f59e0b 100%)",
+    "order": 5,
+    "next_subject": "biology"
+  },
+  {
+    "id": "biology",
+    "title": "Biological Science",
+    "title_te": "జీవ శాస్త్రము",
+    "description": "Plant Biology, Human Physiology, Ecology, Cell Biology",
+    "description_te": "వృక్ష శాస్త్రం, జంతు శాస్త్రం, కణ జీవశాస్త్రం, జీవావరణం",
+    "total_questions": 240,
+    "icon": "🔬",
+    "color": "#8b5cf6",
+    "gradient": "linear-gradient(135deg, #7c3aed 0%, #8b5cf6 100%)",
+    "order": 6,
+    "next_subject": "cdp"
+  }
+]

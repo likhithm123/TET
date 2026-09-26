@@ -1,0 +1,3842 @@
+[
+  {
+    "id": "bio_1",
+    "qno": 1,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Plants having parallel venation of leaves have this type of \nroot system \nపత్రాలలో సమాంతర ఈనెల వ్యాపనాం కలిగిన మొకకలు ఈ రకమైన \nవేరు వ్ావ్సథను కలిగి ఉాంటాయి.",
+    "options": [
+      "Tap Root System   తలిి వేరు వ్ావ్సథ",
+      "Main Root System   ప్రధాన వేరు వ్ావ్సథ",
+      "Parallel Root System   సమాంతర వేరు వ్ావ్సథ",
+      "Fibrous Root System   గుబురు వేరు వ్ావ్సథ"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_1.webp"
+  },
+  {
+    "id": "bio_2",
+    "qno": 2,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The innermost part of the flower is A and it produces B. \nFind out A and B. \nపుష్పాం లోపలిభాగాం A మరియు అది B ను ఉతపత్తి చేస్ిాంది. A \nమరియు B లను కనుగొనాండి.",
+    "options": [
+      "A-Stamen B - Pollen   A- కేసరాం B – పరాగ రేణువు",
+      "A – Pistil B - Ovary   A – అాండకోశాం B – అాండాశయాం",
+      "A -Pistil B - Ovules   A – అాండకోశాం B – అాండాలు",
+      "A – Stamen B - Ovules   A- కేసరాం B – అాండాలు"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_2.webp"
+  },
+  {
+    "id": "bio_3",
+    "qno": 3,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Nodes and internodes are present in this plant part \n కణుపులు, కణుపు నడిమిభాగాలు మొకక లోని ఈ భాగాంలో ఉాంటాయి",
+    "options": [
+      "Stem   కాండాం",
+      "Root   వేరు",
+      "Leaf   పత్రాం",
+      "Bud   మొగగ"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_3.webp"
+  },
+  {
+    "id": "bio_4",
+    "qno": 4,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Insectivorous leaves are found in this plant \n కీటకహార పత్రాలు ఈ మొకకలో కనిపిస్తియి.",
+    "options": [
+      "Vanda   వ్యాండా",
+      "Pitcher plant   పిటచర్ ప్ిాంట్",
+      "Bryophyllum   బ్రయోఫిలిాం",
+      "Pea   బఠాణీ"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_4.webp"
+  },
+  {
+    "id": "bio_5",
+    "qno": 5,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The external stimuli are received through these parts in \n living organisms \n సజీవులలో బాహ్ాప్రచోదనాలను గ్రహాంచే శరీర భాగాలు",
+    "options": [
+      "Brain and Spinal cord   మెదడు మరియు వెనుుప్ము",
+      "Nerves   నాడులు",
+      "Sense organs   జ్ఞానాంద్రియాలు",
+      "Muscles   కాండరాలు"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_5.webp"
+  },
+  {
+    "id": "bio_6",
+    "qno": 6,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Identify the parasitic plant \n పరానుజీవ్ మొకకను గురిిాంచాండి",
+    "options": [
+      "Maize   మొకకజొను",
+      "Opuntia   ఒపనిియా",
+      "Cuscuta   కస్కటా",
+      "Banyan   మర్రి"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_6.webp"
+  },
+  {
+    "id": "bio_7",
+    "qno": 7,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This is not example of herb \n ఇది గుల్మానికి ఉదాహ్రణ కదు",
+    "options": [
+      "Banyan   మర్రి",
+      "Parthenium   ప్రీథనియాం",
+      "Marigold   బాంత్త",
+      "Tulasi   తులసి"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_7.webp"
+  },
+  {
+    "id": "bio_8",
+    "qno": 8,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Find the mismatch. \n సరికని జతను గురిిాంచాండి.",
+    "options": [
+      "Leaf - Petiole   పత్రాం – వ్ ాంతాం",
+      "Flower - Venation   పుష్పాం – ఈనెల వ్యాపనాం",
+      "Pistil -Ovary   అాండకోశాం – అాండాశయాం",
+      "Stamen – Filament   కేసరాం – కేసరదాండాం"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_8.webp"
+  },
+  {
+    "id": "bio_9",
+    "qno": 9,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "There is a main root and several lateral roots are present \nin A while all roots are similar in B. Find out A and B. \n A లో ఒక ప్రధాన వేరు మరియు అనక ప్ర్వవేరుి ఉాంటాయి. కనీ B \nలో అనిు వేరుి ఒకేవిధాంగా ఉాంటాయి. A మరియు B లను \nకనుగొనాండి.",
+    "options": [
+      "A – Main Root System B – Lateral Root System   A – ప్రధాన వేరు వ్ావ్సథ B – ప్ర్వ వేరు వ్ావ్సథ",
+      "A - Lateral Root System B – Main Root System   A – ప్ర్వ వేరు వ్ావ్సథ B – ప్రధాన వేరు వ్ావ్సథ",
+      "A – Tap Root System B – Fibrous Root System   A – తలిి వేరు వ్ావ్సథ B – గుబురు వేరు వ్ావ్సథ",
+      "A – Main Root System B – Fibrous Root System   A – ప్రధాన వేరు వ్ావ్సథ B – గుబురు వేరు వ్ావ్సథ"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_9.webp"
+  },
+  {
+    "id": "bio_10",
+    "qno": 10,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Dolphins and Whales respire through \n డాలిినుి మరియు త్తమిాంగల్మలు దీని దాారా శ్వాసిస్తియి",
+    "options": [
+      "Gills   మొపపలు",
+      "Skin   చరాాం",
+      "Mouth   నోరు",
+      "Blowholes   శ్వాస రాంధ్రాలు"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_10.webp"
+  },
+  {
+    "id": "bio_11",
+    "qno": 11,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Match the following. \n జత పరచాండి. \n (A) Potato (i) Eggs \n బాంగాళా దుాంప గ్రుడుి \n (B) Rose (ii) Cutting \n గుల్మబీ ఛేదనాలు \n (C) Bird (iii) Eyes \n పక్షి కనుులు",
+    "options": [
+      "A - ii B – iii C - i",
+      "A - iii B – ii C - i",
+      "A - i B – iii C – ii",
+      "A - i B – ii C - iii"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_11.webp"
+  },
+  {
+    "id": "bio_12",
+    "qno": 12,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Respiration in plants takes place \n మొకకలలో శ్వాసక్రియ ఇల్మ జరుగుతుాంది",
+    "options": [
+      "During day time only   పగటి సమయాంలో మత్రమే",
+      "During night time only   రాత్రి సమయాంలో మత్రమే",
+      "At afternoon time only   మదాాహ్ుాం సమయాంలో మత్రమే",
+      "During day and night   పగలు మరియు రాత్రివేళలలో"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_12.webp"
+  },
+  {
+    "id": "bio_13",
+    "qno": 13,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The joint that connects the neck with head is \n మెడను తలతో కలిపే భాగాంలో ఉాండే కీలు",
+    "options": [
+      "Ball and socket joint   బాంత్త గినెు కీలు",
+      "Pivot joint   బాంగరపు కీలు",
+      "Hinge joint   మడతబాందు కీలు",
+      "Fixed joint   కదలని కీలు"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_13.webp"
+  },
+  {
+    "id": "bio_14",
+    "qno": 14,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The fixed joint is present in \n కదలని కీలు కలిగిన భాగాం",
+    "options": [
+      "Shoulder   భుజాం",
+      "Neck   మెడ",
+      "Upper jaw   పై దవ్డ",
+      "Elbow   మోచేయి"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_14.webp"
+  },
+  {
+    "id": "bio_15",
+    "qno": 15,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Number of bones in human skeleton at the time of birth \n పుట్టుక సమయాంలో మనవ్ ఆసిథపాంజరాంలోని ఎముకల సాంఖ్ా",
+    "options": [
+      "305",
+      "206",
+      "310",
+      "246"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_15.webp"
+  },
+  {
+    "id": "bio_16",
+    "qno": 16,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Pelvic bones are seen in \n కటివ్లయ ఎముకలు కనిపిాంచే భాగాం",
+    "options": [
+      "Shoulder   భుజాం",
+      "Elbow   మోచేయి",
+      "Skull   పుర్రె",
+      "Below stomach   పొటు కిాంద"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_16.webp"
+  },
+  {
+    "id": "bio_17",
+    "qno": 17,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Cartilage is found in this part of the body \n మ దుల్మసిథని కలిగి ఉాండే శరీరభాగాం",
+    "options": [
+      "Ear lobe   చెవి తమెా",
+      "Skin   చరాాం",
+      "Heart   గుాండె",
+      "Eye   కనుు"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_17.webp"
+  },
+  {
+    "id": "bio_18",
+    "qno": 18,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Organism having hard outer skeleton \n గటిుగా ఉను బాహ్ా ఆసిథ పాంజరాంను కలిగిన జీవి",
+    "options": [
+      "Fish   చేప",
+      "Cockroach   బదిదాంక",
+      "Earthworm   వ్యనప్ము",
+      "Bird   పక్షి"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_18.webp"
+  },
+  {
+    "id": "bio_19",
+    "qno": 19,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The part of the plant that got modified into spines in \n \n Desert plants is \n ఎడారి మొకకలోి ముళ్ళుగా రూప్ాంతరాం చెాందిన భాగాం",
+    "options": [
+      "Stem   కాండాం",
+      "Flowers   పుష్పపలు",
+      "Leaves   పత్రాలు",
+      "Roots   వేరుి"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_19.webp"
+  },
+  {
+    "id": "bio_20",
+    "qno": 20,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Find the odd one among the following \n క్రిాంది వ్యనిలో భినుమైన దానిని కనుగొనాండి.",
+    "options": [
+      "Rocks   రాళ్ళు",
+      "Sunlight   సూరారశ్మా",
+      "Soil   మటిు",
+      "Animals   జాంతువులు"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_20.webp"
+  },
+  {
+    "id": "bio_21",
+    "qno": 21,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The organism that breathes through the blowhole \n శ్వాసరాంధ్రాం దాారా శ్వాసిాంచే జీవి",
+    "options": [
+      "Dolphin డాలిిన్",
+      "Fish చేప",
+      "Octopus ఆకోుపస్",
+      "Squid సికవడ్"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_21.webp"
+  },
+  {
+    "id": "bio_22",
+    "qno": 22,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The cone shaped trees with sloping branches are \n generally seen in this area \n శాంఖు ఆకరాంలో ఉాండి, వ్యలుగా ఉను కొమాలు గల మొకకలు \n స్తధారణాంగా ఈ ప్రాంతాంలో ఉాంటాయి",
+    "options": [
+      "Grass lands గడిి మైదానాలు",
+      "Deserts ఎడారులు",
+      "Mountain regions పరాత ప్రాంతాలు",
+      "Oceans మహా సముద్రాలు"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_22.webp"
+  },
+  {
+    "id": "bio_23",
+    "qno": 23,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Desert plants that perform Photosynthesis through its \n \nstem \n కాండాం దాారా కిరణజనాసాంయోగక్రియను జరిపే ఎడారి మొకక",
+    "options": [
+      "Grass గడిి",
+      "Lotus తామర",
+      "Tamarind చాంత",
+      "Cactus కకుస్"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_23.webp"
+  },
+  {
+    "id": "bio_24",
+    "qno": 24,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The animals with thick skin and fur are found in \n శరీరమాంతా దళసరి చరాాం లేదా బచ్చచను కలిగిన జీవులు \n స్తధారణాంగా కనిపిాంచే ప్రదేశాం",
+    "options": [
+      "Mountain regions పరాత ప్రాంతాలు",
+      "Grass lands గడిి మైదానాలు",
+      "Deserts ఎడారులు",
+      "Oceans మహాసముద్రాలు"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_24.webp"
+  },
+  {
+    "id": "bio_25",
+    "qno": 25,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Free living cells in pond water were first observed by \n చెరువు నీటిలో స్వాచ్చచయుత సజీవ్ కణాలను మొదటిస్తరిగా \n పరిశీలిాంచనవ్యరు",
+    "options": [
+      "Robert Hook రాబర్ు హుక్",
+      "Robert Brown రాబర్ు బ్రౌన్",
+      "Leeuwen Hoek లీవెన్ హుక్",
+      "Virchow విర్కకవ్"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_25.webp"
+  },
+  {
+    "id": "bio_26",
+    "qno": 26,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This cell organelle is absent in plant cell \n వ్ క్ష కణాంలో లేని కణాంగాం",
+    "options": [
+      "Cell wall కణ కవ్చాం",
+      "Centriole సాంట్రియోల్",
+      "Plastid ప్ిసిుడ్",
+      "Vacuole రికిిక"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_26.webp"
+  },
+  {
+    "id": "bio_27",
+    "qno": 27,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This cell organelle is known as “Suicidal bag of the cell” \n కణాంలో “సాయాం విచచత్తి సాంచ్చలు”గా పిలువ్బడే కణాాంగాం",
+    "options": [
+      "Nucleus కేాంద్రకాం",
+      "Mitochondria మైటోకాండ్రియా",
+      "Lysosomes లైసోజోములు",
+      "Ribosomes రైబోజోములు"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_27.webp"
+  },
+  {
+    "id": "bio_28",
+    "qno": 28,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The cell organelle that do not has its own DNA among \nthe following \n ఈ కణాాంగాం సాంత DNA ను కలిగి ఉాండదు",
+    "options": [
+      "Nucleus కేాంద్రకాం",
+      "Plastid ప్ిసిుడ్",
+      "Mitochondria మైటోకాండ్రియా",
+      "Vacuole రికిిక"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_28.webp"
+  },
+  {
+    "id": "bio_29",
+    "qno": 29,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Lysosomes are derived from this cell organelle \n లైసోజోములు ఈ కణాాంగాం నుాండి ఏరపడతాయి",
+    "options": [
+      "Golgi apparatus గాలీీ సాంకిిష్ుాం",
+      "Endoplasmic Reticulum అాంతరీీవ్ ద్రవ్ాజ్ఞలాం",
+      "Mitochondria మైటోకాండ్రియా",
+      "Nucleus కేాంద్రకాం"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_29.webp"
+  },
+  {
+    "id": "bio_30",
+    "qno": 30,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The cell organelle that is known as ‘Powerhouse of \n the cell’ \n ‘కణశకిాగారాం’గా పిలువ్బడే కణాాంగాం",
+    "options": [
+      "Mitochondria మైటోకాండ్రియా",
+      "Vacuole రికిిక",
+      "Plastid ప్ిసిుడ్",
+      "Lysosome లైసోజోము"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_30.webp"
+  },
+  {
+    "id": "bio_31",
+    "qno": 31,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The cell division that forms Gametes \n బీజకణాలను ఏరపరిచే కణ విభజన",
+    "options": [
+      "Mitosis సమ విభజన",
+      "Meiosis క్షయకరణ విభజన",
+      "Fertilisation ఫలదీకరణము",
+      "Pollination పరాగసాంపరకాం"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_31.webp"
+  },
+  {
+    "id": "bio_32",
+    "qno": 32,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "A dry raisin absorbs water through this process when \n kept it in for some time \n ఎాండుద్రాక్ష కొదిదస్వపు నీటిలో ఉాంచనపుపడు నీటిని గ్రహాంచే ప్రక్రియ",
+    "options": [
+      "Diffusion వ్యాపనాం",
+      "Osmosis ద్రవ్యభిసరణ",
+      "Transpiration భాష్పపత్సేకాం",
+      "Root pressure వేరుపీడనాం"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_32.webp"
+  },
+  {
+    "id": "bio_33",
+    "qno": 33,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This will be happened when a deshelled raw egg is \nplaced in concentrated sugar solution \n పై పాంకును తొలగిాంచన కోడిగ్రుడుిను గాఢ చక్కకర ద్రావ్ణాంలో \nఉాంచనపుపడు జరుగేది",
+    "options": [
+      "Its size increases దాని పరిమణాం పరుగును",
+      "Its size decreases దాని పరిమణాం తగుగను",
+      "No change occurs in its size   దాని పరిమణాంలో మరుప ఉాండదు",
+      "It Dissolves కరిగిపోతుాంది"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_33.webp"
+  },
+  {
+    "id": "bio_34",
+    "qno": 34,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The stain that is used to stain onion peel is \n ఉలిిపొరను రాంజనాం చేయటానికి ఉపయోగిాంచే రాంజకాం",
+    "options": [
+      "safranin శ్వఫ్రనిన్",
+      "Potassium Hydroxide పొటాషియాం హైడ్రాక్కసేడ్",
+      "Dilute Hydrochloric Acid సజల హైడ్రోకోిరిక్ ఆమిాం",
+      "Baking soda బేకిాంగ్ సోడా"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_34.webp"
+  },
+  {
+    "id": "bio_35",
+    "qno": 35,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The cell organelle found only in animal cells \n జాంతుకణాలలో మత్రమే కనిపిాంచే కణాాంగాం",
+    "options": [
+      "Vacuole రికిిక",
+      "Plastid ప్ిసిుడ్",
+      "Cell wall కణ కవ్చాం",
+      "Centriole సాంట్రియోల్"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_35.webp"
+  },
+  {
+    "id": "bio_36",
+    "qno": 36,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The cell organelle that involves in protein synthesis \n ప్రోటీన్ సాంశ్లిష్ణను జరిపే కణాాంగాం",
+    "options": [
+      "Centriole సాంట్రియోల్",
+      "Vacuole రికిిక",
+      "Ribosomes రైబోజోములు",
+      "Lysosomes లైసోజోములు"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_36.webp"
+  },
+  {
+    "id": "bio_37",
+    "qno": 37,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This tissue causes increase in the girth of the stem \n ఈ కణజ్ఞలాం కాండాం వ్యాస్తనిు పాంచ్చతుాంది",
+    "options": [
+      "Simple Permanent Tissue సరళ శ్వశాత కణజ్ఞలాం",
+      "Complex Permanent Tissue సాంకిిష్ు శ్వశాత కణజ్ఞలాం",
+      "Meristematic Tissue విభాజా కణజ్ఞలాం",
+      "Cork Tissue బాండు కణజ్ఞలాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_37.webp"
+  },
+  {
+    "id": "bio_38",
+    "qno": 38,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This is not a simple permanent tissue \n సరళ శ్వశాత కణజ్ఞలాం కనిది",
+    "options": [
+      "Parenchyma మ దు కణజ్ఞలాం",
+      "Xylem దారువు",
+      "Collenchyma సూథలకోణ కణజ్ఞలాం",
+      "Sclerenchyma ద ఢకణజ్ఞలాం"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_38.webp"
+  },
+  {
+    "id": "bio_39",
+    "qno": 39,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Complex permanent tissue among the following \n క్రిాంది వ్యటిలో సాంకిిష్ు శ్వశాత కణజ్ఞలాం",
+    "options": [
+      "Phloem పోష్క కణజ్ఞలాం",
+      "Parenchyma మ దు కణజ్ఞలాం",
+      "Collenchyma సూథలకోణ కణజ్ఞలాం",
+      "Sclerenchyma ద ఢ కణజ్ఞలాం"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_39.webp"
+  },
+  {
+    "id": "bio_40",
+    "qno": 40,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This tissue helps the plants to float on water \n ఈ కణజ్ఞలాం మొకకలను నీటిపై త్సలడానికి ఉపయోగపడుతుాంది",
+    "options": [
+      "Collenchyma సూథలకోణ కణజ్ఞలాం",
+      "Chlorenchyma కోిరాంఖైమ",
+      "Aerenchyma వ్యయుగత కణజ్ఞలాం",
+      "Phloem పోష్క కణజ్ఞలాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_40.webp"
+  },
+  {
+    "id": "bio_41",
+    "qno": 41,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This tissue is found in the tendrils and stems of climbers \n నులితీగలు, ఎగబ్రాకే మొకకల కాండాలలో ఉాండే కణజ్ఞలాం",
+    "options": [
+      "Collenchyma సూథలకోణ కణజ్ఞలాం",
+      "Parenchyma మ దు కణజ్ఞలాం",
+      "Aerenchyma వ్యయుగత కణజ్ఞలాం",
+      "Complex Permanent Tissue   సాంకిిష్ు శ్వశాత కణజ్ఞలాం"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_41.webp"
+  },
+  {
+    "id": "bio_42",
+    "qno": 42,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The non-living cells in Phloem \n పోష్క కణజ్ఞలాంలోని నిరీీవ్ కణాలు",
+    "options": [
+      "Companion cells సహ్కణాలు",
+      "Phloem Fibres పోష్క నారలు",
+      "Phloem Parenchyma పోష్క మ దు కణజ్ఞలాం",
+      "Sieve Tubes చ్చలినీ నాళాలు"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_42.webp"
+  },
+  {
+    "id": "bio_43",
+    "qno": 43,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The epithelial tissue that is found in the lining of mouth \n నోటికుహ్రాంలో ఉాండే ఉపకళా కణజ్ఞలాం",
+    "options": [
+      "Cuboidal ఘనాకర ఉపకళ",
+      "Columnar సథాంభాకర ఉపకళ",
+      "Stratified సథరిత ఉపకళ",
+      "Squamous శలకల ఉపకళ"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_43.webp"
+  },
+  {
+    "id": "bio_44",
+    "qno": 44,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The ‘Fluid Connective Tissue’ is \n ఇది ‘ద్రవ్రూప సాంయోజక కణజ్ఞలాం’",
+    "options": [
+      "Cartilage మ దుల్మసిథ",
+      "Blood రకిాం",
+      "Areolar ఏరియోల్మర్",
+      "Ligament లిగమెాంట్"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_44.webp"
+  },
+  {
+    "id": "bio_45",
+    "qno": 45,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This tissue stores fat in our body \n ఈ కణజ్ఞలాం మన శరీరాంలో క్రొవుాలను నిలాచేస్ిాంది",
+    "options": [
+      "Cartilage మ దుల్మసిథ",
+      "Areolar Tissue ఏరియోల్మర్ కణజ్ఞలాం",
+      "Bone ఎముక",
+      "Adipose Tissue అడిపోస్ కణజ్ఞలాం"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_45.webp"
+  },
+  {
+    "id": "bio_46",
+    "qno": 46,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This connective tissue connects muscles with bones \n ఈ సాంయోజక కణజ్ఞలాం కాండరాలను ఎముకలతో \nఅత్తకి ఉాంచ్చతుాంది",
+    "options": [
+      "Tendon టాండాన్",
+      "Ligament లిగమెాంట్",
+      "Cartilage మ దుల్మసిథ",
+      "Areolar ఏరియోల్మర్"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_46.webp"
+  },
+  {
+    "id": "bio_47",
+    "qno": 47,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "These muscle movements are not in our control \n ఈ కాండరాల కదలికలు మన ఆధీనాంలో ఉాండవు",
+    "options": [
+      "Striated muscle రేఖిత కాండరాం",
+      "Skeletal muscle అసిథ కాండరాం",
+      "Non straited muscle అరేఖిత కాండరాం",
+      "V oluntary muscle నియాంత్రిత కాండరాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_47.webp"
+  },
+  {
+    "id": "bio_48",
+    "qno": 48,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The cell that carries nerve impulses \n నాడీ ప్రచోదనాలను మోస్కొనిపోవు కణము",
+    "options": [
+      "Muscle cell కాండర కణము",
+      "White blood cell తెలి రకి కణము",
+      "Neuron నాడీ కణము",
+      "Adipose cell అడిపోస్ కణము"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_48.webp"
+  },
+  {
+    "id": "bio_49",
+    "qno": 49,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Streptomycin and Tetracycline are the examples for \n సెపోుమైసిన్ మరియు టట్రాసైకిినుి దీనికి ఉదాహ్రణలు",
+    "options": [
+      "Vaccines వ్యాకిేనుి",
+      "Pesticides క్రిమి సాంహారకలు",
+      "Antibiotics ఆాంటీబయాటిక్ లు",
+      "Chemical fertilisers రస్తయన ఎరువులు"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_49.webp"
+  },
+  {
+    "id": "bio_50",
+    "qno": 50,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "These diseases can be prevented by drinking boiled water \n కచన నీటిని త్రాగడాం దాారా నివ్యరిాంచగల వ్యాధులు",
+    "options": [
+      "Malaria and Chickenpox   మలేరియా మరియు చక్కన్ ప్క్ే",
+      "Typhoid and Cholera   టైఫాయిడ్ మరియు కలరా",
+      "Foot and mouth Disease   గాలికుాంట్ట వ్యాధి",
+      "Malaria and Measles   మలేరియా మరియు తట్టు"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_50.webp"
+  },
+  {
+    "id": "bio_51",
+    "qno": 51,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Yeast is used in the production of \n దీని ఉతపత్తి లో ఈస్ును ఉపయోగిస్తిరు",
+    "options": [
+      "Alcohol and Baking soda   ఆలకహాల్ మరియు బేకిాంగ్ సోడా",
+      "Sugar and Fertiliser   చక్కకర మరియు ఎరువు",
+      "Bread and Alcohol   బ్రెడ్ మరియు ఆలకహాల్",
+      "Curd and Vinegar   పరుగు మరియు వెనిగర్"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_51.webp"
+  },
+  {
+    "id": "bio_52",
+    "qno": 52,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Pasteurisation is the preservation method for \n ప్శచరైజేష్న్ విధానాం దాారా నిలా చేస్వది",
+    "options": [
+      "Fruits పాండుి",
+      "Fish చేప",
+      "Jam జ్ఞమ్",
+      "Milk ప్లు"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_52.webp"
+  },
+  {
+    "id": "bio_53",
+    "qno": 53,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The most common carrier of communicable diseases is \n అాంట్టవ్యాధులకు అతాాంత స్తధారణ వ్యహ్కాం.",
+    "options": [
+      "Housefly ఈగ",
+      "Pig పాంది",
+      "Spider స్తలీడు",
+      "Cockroach బదిదాంక"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_53.webp"
+  },
+  {
+    "id": "bio_54",
+    "qno": 54,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This bacterium lives inside the root nodules of Legume \nplants \n చకుకడు జ్ఞత్త మొకకల వేరిలో జీవిాంచే బాకీురియా",
+    "options": [
+      "Lactobacillus ల్మకోుబాసిలిస్",
+      "Blue green algae నీలి ఆకుపచచ శైవ్లాం",
+      "Rhizobium రైజోబియాం",
+      "Tobacco Mosaic టొబాకో మొజ్ఞయిక్"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_54.webp"
+  },
+  {
+    "id": "bio_55",
+    "qno": 55,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This disease is not caused by bacteria \n బాకీురియావ్లన కలగని వ్యాధి",
+    "options": [
+      "Tuberculosis క్షయ",
+      "Typhoid టైఫాయిడ్",
+      "Cholera కలరా",
+      "Dysentery అత్తస్తరము"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_55.webp"
+  },
+  {
+    "id": "bio_56",
+    "qno": 56,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This artificial preservative is used in jams \n జ్ఞమ్ లలో ఉపయోగిాంచే క త్రిమ నిలా పదారథాం",
+    "options": [
+      "Sodium Bicarbonate సోడియాం బైకర్బొనట్",
+      "Sodium Meta bisulphite సోడియాం మెటా బై సల్సిట్",
+      "Sodium Chloride సోడియాం కోిరైడ్",
+      "Sodium Carbonate సోడియాం కర్బొనట్"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_56.webp"
+  },
+  {
+    "id": "bio_57",
+    "qno": 57,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This is not a communicable disease \n ఇది అాంట్టవ్యాధి కదు",
+    "options": [
+      "Common cold స్తధారణ జలుబు",
+      "Chickenpox చక్కన్ ప్క్ే",
+      "Typhoid టైఫాయిడ్",
+      "Tuberculosis క్షయ"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_57.webp"
+  },
+  {
+    "id": "bio_58",
+    "qno": 58,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The first vaccine invented was useful to prevent this \n disease \n మొటుమొదటగా కనుగొనబడిన వ్యాకిేన్ ఈ వ్యాధిని నివ్యరిాంచ్చట \nఉపయోగపడిాంది",
+    "options": [
+      "Chickenpox చక్కన్ ప్క్ే",
+      "Smallpox మశూచ",
+      "Anthrax ఆాంథ్రాక్ే",
+      "Polio పోలియో"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_58.webp"
+  },
+  {
+    "id": "bio_59",
+    "qno": 59,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Example for Nitrogen fixing bacteria \n నత్రజని స్తథపక బాకీురియాకు ఉదాహ్రణ",
+    "options": [
+      "Plasmodium ప్ిసోాడియాం",
+      "Cyanobacteria సైనోబాకీురియా",
+      "Salmonella స్తల్మానెల్మి",
+      "Lactobacillus ల్మకోుబాసిలిస్"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_59.webp"
+  },
+  {
+    "id": "bio_60",
+    "qno": 60,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This is the carrier Malaria \n మలేరియా కు కరణమైన వ్యహ్కాం",
+    "options": [
+      "Male Aedes mosquito మగ ఏడిస్ దోమ",
+      "Female Aedes mosquito ఆడ ఏడిస్ దోమ",
+      "Female Culex mosquito ఆడ క్యాల్క్ే దోమ",
+      "Female Anopheles mosquito ఆడ ఎనాఫిలిస్ దోమ"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_60.webp"
+  },
+  {
+    "id": "bio_61",
+    "qno": 61,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Copper Sulphate and Caustic soda solutions are used to \ntest for this nutrient in food. \nకపర్ సలేిట్ మరియు కసిుక్ సోడా ద్రావ్ణాలను ఆహారాంలోని ఈ \nపోష్కనిు పరీక్షిాంచడానికి ఉపయోగిస్తిరు.",
+    "options": [
+      "Carbohydrates పిాండి పదారాాలు",
+      "Fats క్రొవుాలు",
+      "Proteins ప్రోటీనుి",
+      "Vitamins విటమినుి"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_61.webp"
+  },
+  {
+    "id": "bio_62",
+    "qno": 62,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This is not a nutrient but an essential component of food \n ఇది ఆహారాంలోని ఒక పోష్కాం కనపపటికీ, ఒక ఆవ్శాకమైన \nఅాంశము",
+    "options": [
+      "Roughage పీచ్చ పదారాాం",
+      "Vitamin విటమిన్",
+      "Mineral ఖ్నిజలవ్ణము",
+      "Iron ఐరన్"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_62.webp"
+  },
+  {
+    "id": "bio_63",
+    "qno": 63,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Deficiency of this vitamin causes Beri-Beri. \n ఈ విటమిన్ లోపాం బరి-బరికి కరణాం",
+    "options": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin B1"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_63.webp"
+  },
+  {
+    "id": "bio_64",
+    "qno": 64,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "These are often called Body building foods \n శరీర నిరాాణ ఆహార పదారాాలు",
+    "options": [
+      "Proteins ప్రోటీనుి",
+      "Vitamins విటమినుి",
+      "Carbohydrates పిాండి పదారాాలు",
+      "Fats క్రొవుాలు"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_64.webp"
+  },
+  {
+    "id": "bio_65",
+    "qno": 65,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Deficiency of Vitamin A causes \n విటమిన్ “A” లోపాం వ్లన కలిగేది",
+    "options": [
+      "Bone and tooth decay   ఎముక మరియు దాంతక్షయాం",
+      "Mental disability in children   పిలిలలో మనసిక వైకలాాం",
+      "Loss of vision   ద షిు లోపాం",
+      "Anaemia   అనీమియా"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_65.webp"
+  },
+  {
+    "id": "bio_66",
+    "qno": 66,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Among the following items Fats are abundant in \n క్రిాంది వ్యనిలో క్రొవుాలు సమ దిాగా గలవి",
+    "options": [
+      "Ground nuts వేరుశనగలు",
+      "Potato బాంగాళాదుాంప",
+      "Maize మొకకజొను",
+      "Beans బీన్ే"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_66.webp"
+  },
+  {
+    "id": "bio_67",
+    "qno": 67,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Paper becomes translucent when rubbed with this food \n component \n ఈ ఆహారాంలోని అాంశాం కగితానిు రుదిదత్స ప్క్షిక ప్రదర్కాంగా \nమరును",
+    "options": [
+      "Starch పిాండి పదారాాం",
+      "Dietary fibre పీచ్చ పదారాాం",
+      "Fat క్రొవుా",
+      "Protein ప్రోటీన్"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_67.webp"
+  },
+  {
+    "id": "bio_68",
+    "qno": 68,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This food nutrient gives blue black colour with iodine \n solution \n ఆహారాంలోని ఈ పోష్కము అయోడిన్ తో నీలి నలుపు రాంగును \n ఇస్ిాంది.",
+    "options": [
+      "Starch పిాండి పదారాాం",
+      "Vitamin A విటమిన్ A",
+      "Fat క్రొవుా",
+      "Iron ఐరన్"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_68.webp"
+  },
+  {
+    "id": "bio_69",
+    "qno": 69,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Examples for rabi crops \n రబీ పాంటలకు ఉదాహ్రణలు",
+    "options": [
+      "Green gram and black gram   పసలు మరియు మినుములు",
+      "Paddy and cotton   వ్రి మరియు ప్రత్తి",
+      "Maize and cotton   మొకకజొను మరియు ప్రత్తి",
+      "Wheat and Mustard   గోధుమ మరియు ఆవ్యలు"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_69.webp"
+  },
+  {
+    "id": "bio_70",
+    "qno": 70,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Growing different crops in a piece of land in a preplanned \nsuccession is called \n ఒకే నలలో ముాందస్ి ప్రణాళికతో వివిధ పాంటలను ఒకదాని తరువ్యత \n ఒకటి పాండిాంచడమే",
+    "options": [
+      "Inter crops అాంతరపాంటలు",
+      "Crop Rotation పాంట మరిపడి",
+      "Mixed Crops మిశ్రమ పాంటలు",
+      "Hybridisation సాంకరీకరణ"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_70.webp"
+  },
+  {
+    "id": "bio_71",
+    "qno": 71,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This is not an example for fermented food \n పులియబటిున ఆహారానికి ఉదాహ్రణ కనిది.",
+    "options": [
+      "Idly ఇడీి",
+      "Cake కేక్",
+      "Rice అనుాం",
+      "Dosa దోస"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_71.webp"
+  },
+  {
+    "id": "bio_72",
+    "qno": 72,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Examples for weed plants \n కలుపుమొకకలకు ఉదాహ్రణలు",
+    "options": [
+      "Finger millets and cowpea   రాగులు మరియు కాందులు",
+      "Parthenium and Cyprinus   ప్రీథనియాం మరియు సైపరినస్",
+      "Mosam bee and Coconut   బతాియి మరియు కొబొరి",
+      "Ground nut and Sunflower   వేరు శనగ మరియు ప్రొదుద త్తరుగుడు"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_72.webp"
+  },
+  {
+    "id": "bio_73",
+    "qno": 73,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The primary product of photosynthesis \nకిరణజనాసాంయోగక్రియ ప్రధమిక ఉతపనుాం",
+    "options": [
+      "Proteins ప్రోటీనుి",
+      "Fats క్రొవుాలు",
+      "Carbohydrates పిాండి పదారాాలు",
+      "Fibre పీచ్చ పదారాాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_73.webp"
+  },
+  {
+    "id": "bio_74",
+    "qno": 74,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Guard cells are present in \n వీటిలో రక్షకకణాలు ఉాంటాయి",
+    "options": [
+      "Anthers పరాగకోశ్వలు",
+      "Stomata పత్రరాంధ్రాలు",
+      "Roots వేరుి",
+      "Seeds వితినాలు"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_74.webp"
+  },
+  {
+    "id": "bio_75",
+    "qno": 75,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The stems in these plants perform photosynthesis to \nprevent transpiration \nఈ మొకకలలోని కాండాలు భాష్పపత్సేకమును నివ్యరిాంచ్చటకోసాం \nకిరణజనాసాంయోగక్రియను నిరాహస్తియి",
+    "options": [
+      "Water plants నీటిమొకకలు",
+      "Mangroves మడ చెట్టి",
+      "Desert plants ఎడారి మొకకలు",
+      "Conifers కోనిఫెరుి"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_75.webp"
+  },
+  {
+    "id": "bio_76",
+    "qno": 76,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Chlorophyll is not present in this plant \n పత్రహ్రితాం లేని మొకక",
+    "options": [
+      "Hydrilla హైడ్రిల్మి",
+      "Hibiscus మాందార",
+      "Nepenthes నెపాంథిస్",
+      "Cuscuta కస్కాటా"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_76.webp"
+  },
+  {
+    "id": "bio_77",
+    "qno": 77,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The mode of nutrition which gets nutrients from dead and \ndecaying matter is \n చనిపోయిన, కుళిుపోతును పదారాాల నుాండి పోష్కలను పొాందే \n పోష్కవిధానాం",
+    "options": [
+      "Autotrophic nutrition సాయాంపోష్ణ",
+      "Parasitic nutrition పరానుజీవ్న పోష్ణ",
+      "Saprophytic nutrition పూత్తకహార పోష్ణ",
+      "Symbiosis సహ్జీవ్నాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_77.webp"
+  },
+  {
+    "id": "bio_78",
+    "qno": 78,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The partners in Lichens \n లైక్కనిలో భాగస్తాముాలు",
+    "options": [
+      "Alga and Bacteria శైవ్లాం మరియు బాకీురియా",
+      "Alga and Fungus శైవ్లాం మరియు శ్మలీాంధ్రాం",
+      "Plant and Animal మొకక మరియు జాంతువు",
+      "Fungus and Bacteria శ్మలీాంధ్రాం మరియు బాకీురియా"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_78.webp"
+  },
+  {
+    "id": "bio_79",
+    "qno": 79,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Match the following. జత పరచాండి. \n (A) Chlorophyll (i) Rhizobium \n పత్రహ్రితాం రైజోబియాం \n (B) Nitrogen (ii) Heterotrophs \n నైట్రోజన్ పరపోష్కలు \n (C) Animals (iii) Pitcher plant \n జాంతువులు పిటచర్ మొకక \n (D) Insects (iv) Leaf \n కీటకలు పత్రాం",
+    "options": [
+      "A - iv B – i C - ii D - iii",
+      "A - iii B – i C – ii D - iv",
+      "A - iv B – i C – iii D - ii",
+      "A - ii B – iv C – i D - iii"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_79.webp"
+  },
+  {
+    "id": "bio_80",
+    "qno": 80,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "During Photosynthesis, A gas is absorbed in and B gas is \nreleased by the green plants. Find A and B \n కిరణజనా సాంయోగక్రియ లో A వ్యయువు గ్రహాంచబడుతుాంది \nమరియు B వ్యయువు విడుదల అవుతుాంది. AమరియుB లను \nకనుగొన౦డి",
+    "options": [
+      "A – Oxygen B – Carbon dioxide   A- ఆకిేజన్ B – కరొన్ డైఆక్కసేడ్",
+      "A – Nitrogen B – Oxygen   A – నైట్రోజన్ B – ఆకిేజన్",
+      "A – Carbon dioxide B – Nitrogen   A – కరొన్ డైఆక్కసేడ్ B – నైట్రోజన్",
+      "A – Carbon dioxide B – Oxygen   A – కరొన్ డైఆక్కసేడ్ B – ఆకిేజన్"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_80.webp"
+  },
+  {
+    "id": "bio_81",
+    "qno": 81,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The largest gland in human body \n మనవ్ శరీరాంలో అత్త పదద గ్రాంధి",
+    "options": [
+      "Gall bladder పితాిశయాం",
+      "Pancreas కోిమాం",
+      "Liver కలేయాం",
+      "Pituitary gland పీయూష్ గ్రాంధి"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_81.webp"
+  },
+  {
+    "id": "bio_82",
+    "qno": 82,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The finger like outgrowths in the walls of small intestine \nof humans \n మనవుల చను ప్రేగు గోడలలో గల వేళు వ్ాంటి నిరాాణాలు",
+    "options": [
+      "Nephrons నెఫ్రానుి",
+      "Villi చూష్కలు",
+      "Neurons నాడీ కణాలు",
+      "Pseudopodia మిదాాప్దాలు"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_82.webp"
+  },
+  {
+    "id": "bio_83",
+    "qno": 83,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "In humans, digestion of starch starts in \n మనవులలో, పిాండిపదారాాల జీరణక్రియ దీనిలో ప్రరాంభాం అవుతుాంది",
+    "options": [
+      "Stomach జీరాణశయాం",
+      "Small intestine చను ప్రేగు",
+      "Large intestine పదద ప్రేగు",
+      "Mouth నోరు"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_83.webp"
+  },
+  {
+    "id": "bio_84",
+    "qno": 84,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "In humans, this type of teeth helps in biting and cutting \nమనవులలో కొరకడానికి మరియు కత్తిరిాంచడానికి సహాయపడే \nదాంతాలు",
+    "options": [
+      "Incisors కుాంతకలు",
+      "Canines రదనికలు",
+      "Premolars అగ్రచరాణకలు",
+      "Molars చరాణకలు"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_84.webp"
+  },
+  {
+    "id": "bio_85",
+    "qno": 85,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Breakdown of glucose using oxygen is \n ఆకిేజన్ ను వినియోగిాంచ్చకుని గ్లికోజ్ విచచనుాం కవ్డాం",
+    "options": [
+      "Anaerobic respiration అవ్యయు శ్వాసక్రియ",
+      "Fermentation కిణానాం",
+      "Aerobic respiration వ్యయుసహత శ్వాసక్రియ",
+      "Transpiration భాష్పపత్సేకాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_85.webp"
+  },
+  {
+    "id": "bio_86",
+    "qno": 86,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The air enters the body of Cockroach through \n బదిదాంక శరీరాంలోనికి గాలి ప్రవేశ్మాంచే మరగాం",
+    "options": [
+      "Lungs ఊపిరిత్తతుిలు",
+      "Gills మొపపలు",
+      "Spiracles శ్వాసరాంధ్రాలు",
+      "Skin చరాాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_86.webp"
+  },
+  {
+    "id": "bio_87",
+    "qno": 87,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "In humans, during inhalation, the ribs \n మనవులలో, ఉచ్చవవస సమయాంలో ప్రకకటముకలు",
+    "options": [
+      "Move outwards బయటకి కదులుతాయి",
+      "Move downwards క్రిాందికి కదులుతాయి",
+      "Move inwards లోపలికి కదులుతాయి",
+      "Do not move at all అసేలు కదలవు"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_87.webp"
+  },
+  {
+    "id": "bio_88",
+    "qno": 88,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Muscle cramps in legs after heavy exercise is due to the \naccumulation of \n దీని చేరిక వ్లన కళు కాండరాలు అధిక వ్యాయామాం తరువ్యత \nపట్టుస్తియి",
+    "options": [
+      "Carbon dioxide కరొన్ డైఆక్కసేడ్",
+      "Lactic acid ల్మకిుక్ ఆమిాం",
+      "Alcohol ఆలకహాల్",
+      "Water నీరు"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_88.webp"
+  },
+  {
+    "id": "bio_89",
+    "qno": 89,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Match the following. జత పరచాండి. \n (A) Yeast (i) Chest cavity \n ఈస్ు ఛాత్త కుహ్రాం \n (B) Lungs (ii) Gills \n ఊపిరిత్తతుిలు మొపపలు \n (C) Skin (iii) Alcohol \n చరాాం ఆలకహాల్ \n (D) Fish (iv) Earthworm \n చేప వ్యనప్ము",
+    "options": [
+      "A - iii B – i C - iv D - ii",
+      "A - ii B – iv C – i D - iii",
+      "A - iv B – iii C – ii D - i",
+      "A - iii B – ii C – iv D - i"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_89.webp"
+  },
+  {
+    "id": "bio_90",
+    "qno": 90,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The organism that perform Anaerobic respiration \n అవ్యయు శ్వాసక్రియ జరిపే జీవి",
+    "options": [
+      "Cockroach బదిదాంక",
+      "Earthworm వ్యనప్ము",
+      "Frog కపప",
+      "Yeast ఈస్ు"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_90.webp"
+  },
+  {
+    "id": "bio_91",
+    "qno": 91,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The small balloon like structures in the lungs are \n ఊపిరిత్తతుిలలోని గాలి బుడగల వ్ాంటి నిరాాణాలు",
+    "options": [
+      "Bronchi శ్వాసనాళికలు",
+      "Trachea వ్యయునాళాలు",
+      "Alveoli వ్యయుగోణులు",
+      "Larynx సారపేటిక"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_91.webp"
+  },
+  {
+    "id": "bio_92",
+    "qno": 92,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The respiratory pigment in the blood of human beings \n మనవుని రకిాంలో గల శ్వాసవ్రణకాం",
+    "options": [
+      "Haemocyanin హీమోసైనిన్",
+      "Haemochrome హీమోక్రోమ్",
+      "Chlorophyll కోిర్కఫిల్",
+      "Haemoglobin హీమోగోిబిన్"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_92.webp"
+  },
+  {
+    "id": "bio_93",
+    "qno": 93,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Fish breathe with the help of \n చేప వీటి సహాయాంతో శ్వాసిస్ిాంది",
+    "options": [
+      "Lungs ఊపిరిత్తతుిలు",
+      "Skin చరాాం",
+      "Trachea వ్యయునాళాం",
+      "Gills మొపపలు"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_93.webp"
+  },
+  {
+    "id": "bio_94",
+    "qno": 94,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This is a lung disease \n ఇది ఒక ఊపిరిత్తతుిల వ్యాధి",
+    "options": [
+      "Tuberculosis ట్యాబరుకాలోసిస్",
+      "Psoriasis సోరియాసిస్",
+      "Eczema ఎకిీమ",
+      "Goitre గాయిటర్"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_94.webp"
+  },
+  {
+    "id": "bio_95",
+    "qno": 95,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This gas is exhaled air turns the lime water milky white \nమనాం విడిచన గాలిలోని ఈ వ్యయువు స్నుపు నీటిని ప్లవ్ల్ \nతెలిగా మరుచను",
+    "options": [
+      "Oxygen ఆకిేజన్",
+      "Carbon dioxide కరొన్ డైఆక్కసేడ్",
+      "Water vapour నీటి ఆవిరి",
+      "Nitrogen నత్రజని"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_95.webp"
+  },
+  {
+    "id": "bio_96",
+    "qno": 96,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "More energy is released during this process \n ఈ ప్రక్రియలో అధిక శకిి విడుదలవుతుాంది",
+    "options": [
+      "Anaerobic respiration అవ్యయు శ్వాసక్రియ",
+      "Fermentation కిణానాం",
+      "Aerobic respiration వ్యయుసహత శ్వాసక్రియ",
+      "Diffusion వ్యాపనాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_96.webp"
+  },
+  {
+    "id": "bio_97",
+    "qno": 97,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This organ in human body that acts like a pump \n మనవ్ శరీరాంలోని ఈ అవ్యవ్ాం పాంపువ్లే పనిచేస్ిాంది.",
+    "options": [
+      "Lungs ఊపిరిత్తతుిలు",
+      "Kidneys మూత్రపిాండాలు",
+      "Liver కలేయాం",
+      "Heart గుాండె"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_97.webp"
+  },
+  {
+    "id": "bio_98",
+    "qno": 98,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Blood is transported from the heart to body parts through \n these vessels \n గుాండె నుాండి శరీరభాగాలకు రకిమును సరఫరా చేస్వ నాళాలు",
+    "options": [
+      "Veins సిరలు",
+      "Arteries ధమనులు",
+      "Arterioles ధమనికలు",
+      "Venules సిరికలు"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_98.webp"
+  },
+  {
+    "id": "bio_99",
+    "qno": 99,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Blood travels with a low pressure in \n వీనిలో రకిాం తకుకవ్ పీడనాంతో ప్రవ్హస్ిాంది",
+    "options": [
+      "Arteries ధమనులు",
+      "Xylem దారు కణజ్ఞలాం",
+      "Veins సిరలు",
+      "Phloem పోష్క కణజ్ఞలాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_99.webp"
+  },
+  {
+    "id": "bio_100",
+    "qno": 100,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The normal blood pressure in humans is \n మనవులలో స్తధారణ రకి పీడనాం",
+    "options": [
+      "120/80 mm. of H2O",
+      "80/120 mm. of H2O",
+      "80/120 mm. of Hg.",
+      "120/80 mm. of Hg."
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_100.webp"
+  },
+  {
+    "id": "bio_101",
+    "qno": 101,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The instrument used to measure blood pressure \n రకిపీడనానిు కొలవ్డానికి ఉపయోగిాంచే పరికరాం",
+    "options": [
+      "Thermometer థరాామీటర్",
+      "Sphygmomanometer సిపగోామనోమీటర్",
+      "Stethoscope సుతసోకప్",
+      "Pressure Guage పీడన మపని"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_101.webp"
+  },
+  {
+    "id": "bio_102",
+    "qno": 102,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The colour of Lymph శోష్రసాం రాంగు",
+    "options": [
+      "Red ఎరుపు",
+      "Yellow పస్పు",
+      "Green ఆకుపచచ",
+      "Colourless వ్రణ రహతము"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_102.webp"
+  },
+  {
+    "id": "bio_103",
+    "qno": 103,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "A harmless and painless, nonsurgical donation that \ncan save many precious lives is \n అనక విలువైన ప్రణాలను కప్డే స్రక్షితమైన, నొపిపలేని, \nశస్త్రచకితే కని దానాం",
+    "options": [
+      "Kidney donation మూత్రపిాండ దానాం",
+      "Cornea donation కరిుయా దానాం",
+      "Blood donation రకి దానాం",
+      "liver donation కలేయ దానాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_103.webp"
+  },
+  {
+    "id": "bio_104",
+    "qno": 104,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This process helps in the movement of water and \nminerals from roots to leaves in plants. \nమొకకలలో వేరి నుాండి ఆకుల వ్రకు నీరు, ఖ్నిజ లవ్ణాలు \nప్రయాణాంచడానికి ఉపయోగపడే ప్రక్రియ",
+    "options": [
+      "Photosynthesis కిరణజనా సాంయోగక్రియ",
+      "Transpiration భాష్పపత్సేకాం",
+      "Respiration శ్వాసక్రియ",
+      "Excretion విసరీన"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_104.webp"
+  },
+  {
+    "id": "bio_105",
+    "qno": 105,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This component of our blood fight against germs that \nenter our body \nమన శరీరాంలోకి ప్రవేశ్మాంచే సూక్షమక్రిములతో పోరాడే రకిాంలోని \nభాగము",
+    "options": [
+      "Red blood cells ఎర్రరకి కణాలు",
+      "Platelets రకిఫలకికలు",
+      "Haemoglobin హీమోగోిబిన్",
+      "White blood cells తెలిరకి కణాలు"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_105.webp"
+  },
+  {
+    "id": "bio_106",
+    "qno": 106,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The instrument used to feel the heartbeats is \n హ్ దయసపాందనలను తెలుస్కొనుటకు ఉపయోగిాంచే పరికరము",
+    "options": [
+      "Sphygmomanometer సిపగోామనోమీటర్",
+      "Stethoscope సుతసోకప్",
+      "Thermometer థరాామీటర్",
+      "Syringe సిరాంజి"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_106.webp"
+  },
+  {
+    "id": "bio_107",
+    "qno": 107,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The function of xylem in plants \n మొకకలలో దారువు యొకక విధి",
+    "options": [
+      "Transport of food ఆహార సరఫరా",
+      "Transport of water నీటి సరఫరా",
+      "Transport of food and water   ఆహారము మరియు నీటి సరఫరా",
+      "Transport of air గాలి సరఫరా"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_107.webp"
+  },
+  {
+    "id": "bio_108",
+    "qno": 108,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "In humans the urine is stored here before urination \n మనవులలో మూత్ర విసరీనకు ముాందు మూత్రము ఇకకడ నిలా \nఉాంట్టాంది",
+    "options": [
+      "Kidneys మూత్ర పిాండాలు",
+      "Ureters మూత్రనాళాలు",
+      "Urinary bladderమూత్రాశయాం",
+      "Urethra ప్రస్వకాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_108.webp"
+  },
+  {
+    "id": "bio_109",
+    "qno": 109,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Olfactory receptors provide this sense \n ఘ్రాణ గ్రాహ్కలు ఈ రకమైన జ్ఞానానిు తెలియచేస్తియి.",
+    "options": [
+      "Taste రుచ",
+      "Smell వ్యసన",
+      "Touch సపర్",
+      "Vision ద షిు"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_109.webp"
+  },
+  {
+    "id": "bio_110",
+    "qno": 110,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The reflex action is controlled by \n అసాంకలిపత ప్రతీకర చరాలను నియాంత్రిాంచేది",
+    "options": [
+      "Brain మెదడు",
+      "Spinal cord వెనుుప్ము",
+      "Heart గుాండె",
+      "Pituitary gland పీయూష్ గ్రాంధి"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_110.webp"
+  },
+  {
+    "id": "bio_111",
+    "qno": 111,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The part of the brain that controls blood pressure, \nsalivation and vomiting \nరకిపీడనాం, ల్మల్మజలాం స్రవిాంచ్చట మరియు వ్యాంతులను \nనియాంత్రిాంచే మెదడులోని భాగాం",
+    "options": [
+      "Cerebrum మసిిష్కాం",
+      "Cerebellum అనుమసిిష్కాం",
+      "Mid brain మధామెదడు",
+      "Medulla oblongata మజ్ఞీముఖ్ాం"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_111.webp"
+  },
+  {
+    "id": "bio_112",
+    "qno": 112,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Walking in straight line, cycling are controlled by this \npart of Brain \nసరళ రేఖామరగాంలో నడవ్డాం, సైకిల్ తొకకడములను నియాంత్రిాంచే \nమెదడులోని భాగాం",
+    "options": [
+      "Cerebrum మసిిష్కాం",
+      "Mid brain మధా మెదడు",
+      "Cerebellum అనుమసిిష్కాం",
+      "Medulla oblongata మజ్ఞీముఖ్ాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_112.webp"
+  },
+  {
+    "id": "bio_113",
+    "qno": 113,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The gap between two neurons is \n రాండు న్యారాని మధా గల ఖాళీ ప్రదేశాం",
+    "options": [
+      "Dendrites డెాండ్రైట్టి",
+      "Synapse సైనాప్ే",
+      "Axon ఆకేన్",
+      "Impulse ప్రచోదనాం"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_113.webp"
+  },
+  {
+    "id": "bio_114",
+    "qno": 114,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Chemotropism occurs in this part \n రస్తయన అనువ్రినానిు చూపే భాగాం",
+    "options": [
+      "Stem కాండాం",
+      "Root వేరు",
+      "Pollen tube పరాగనాళాం",
+      "Tendril నులితీగ"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_114.webp"
+  },
+  {
+    "id": "bio_115",
+    "qno": 115,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This tropic movement shows upward growth of shoot and \ndownward growth of root due to Gravitational force is \nగురుతాాకరిణ వ్లన మొకకలలో కొమాలు పైకి, వేరుి కిాందికి \nపరగడానికి కరణమైన అనువ్రిన చలనాం",
+    "options": [
+      "Phototropism కాంత్త అనువ్రినాం",
+      "Geotropism గురుతాానువ్రినాం",
+      "Hydrotropism నీటి అనువ్రినాం",
+      "Thigmotropism సపరా్నువ్రినాం"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_115.webp"
+  },
+  {
+    "id": "bio_116",
+    "qno": 116,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This Phytohormone inhibit growth of plant \n ఈ మొకక హార్కాన్ మొకక పరుగుదలను నిర్కధిాంచ్చను",
+    "options": [
+      "Auxin ఆకిేన్",
+      "Abscisic acid అబిేసిక్ ఆమిాం",
+      "Cytokinin సైటోకైనిన్",
+      "Gibberellin జిబొరలిిన్"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_116.webp"
+  },
+  {
+    "id": "bio_117",
+    "qno": 117,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This phytohormone makes the plant to bend towards \nsunlight \nఈ మొకక హార్కాన్ మొకకను కాంత్త వైపుకు వ్ాంగేల్మ చేస్ిాంది",
+    "options": [
+      "Auxins ఆకిేనుి",
+      "Gibberellin జిబొరలిిన్",
+      "Cytokinin సైటోకైనిన్",
+      "Abscisic acid అబిేసిక్ ఆమిాం"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_117.webp"
+  },
+  {
+    "id": "bio_118",
+    "qno": 118,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This gland secrets Growth Hormone \n ఈగ్రాంధి పరుగుదల హార్కాన్ ను స్రవిస్ిాంది",
+    "options": [
+      "Testis ముష్కాం",
+      "Thyroid gland థైరాయిడ్ గ్రాంధి",
+      "Pituitary gland పీయూష్ గ్రాంధి",
+      "Adrenal gland అధివ్ కక గ్రాంధి"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_118.webp"
+  },
+  {
+    "id": "bio_119",
+    "qno": 119,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The hormone that enables animal body to deal with \n dangerous situations \n జాంతువు శరీరానిు ప్రమదకరమైన పరిసిథతులను ఎదుర్బకనాందుకు, \nసిదాపరిచే హార్కాన్",
+    "options": [
+      "Insulin ఇనుేలిన్",
+      "Adrenalin అడ్రినలిన్",
+      "Ghrelin గ్రెలిన్",
+      "Thyroxin థైరాకిేన్"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_119.webp"
+  },
+  {
+    "id": "bio_120",
+    "qno": 120,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The hormone that regulates metabolism for body \ngrowth in animals \n జాంతువులలో శరీర పరుగుదలకు అవ్సరమైన జీవ్నక్రియలను \n నియాంత్రిాంచే హార్కాన్",
+    "options": [
+      "Insulin ఇనుేలిన్",
+      "Adrenalin అడ్రినలిన్",
+      "Thyroxin థైరాకిేన్",
+      "Progesterone ప్రొజెసిురాన్"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_120.webp"
+  },
+  {
+    "id": "bio_121",
+    "qno": 121,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This plant shows vegetative propagation through leaves \n ఈ మొకక పత్రాల దాారా శ్వఖీయ ప్రతుాతపత్తి జరుపుతుాంది",
+    "options": [
+      "Banayan మర్రి",
+      "Rose గుల్మబీ",
+      "Bryophyllum బ్రయోఫిలిాం",
+      "Sugarcane చెరకు"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_121.webp"
+  },
+  {
+    "id": "bio_122",
+    "qno": 122,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Budding as a mode of reproduction is seen in \n ప్రతుాతపత్తిలో కోరకీభవ్నాం విధానమును కనబరేచది",
+    "options": [
+      "Spirogyra ససపర్కగైరా",
+      "Fern ఫెర్ు",
+      "Ginger అలిాం",
+      "Yeast ఈస్ు"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_122.webp"
+  },
+  {
+    "id": "bio_123",
+    "qno": 123,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Spores are the asexual reproductive bodies in \n అలైాంగిక ప్రతుాతపత్తి నిరాాణాలుగా సిదాబీజ్ఞలను కలిగి ఉాండేవి",
+    "options": [
+      "Pitcher plant పిటచర్ ప్ిాంట్",
+      "Rhizopus రైజోపస్",
+      "Bryophyllum బ్రయోఫిలిాం",
+      "Potato బాంగాళాదుాంప"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_123.webp"
+  },
+  {
+    "id": "bio_124",
+    "qno": 124,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Identify the odd one with regard to female flower parts \n పుష్పాంలోని స్త్రీభాగాలను ద షిులో పట్టుకొని సరికనిదానిని \n గురిిాంచాండి.",
+    "options": [
+      "Stigma కీల్మగ్రాం",
+      "Style కీలాం",
+      "Anther పరాగకోశాం",
+      "Ovary అాండాశయాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_124.webp"
+  },
+  {
+    "id": "bio_125",
+    "qno": 125,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "After fertilisation the ovary of a flower turns into \n ఫలదీకరణ౦ తరువ్యత పుష్పాంలోని అాండాశయాం ఈభాగాంగా \nమరుపచెాందును",
+    "options": [
+      "Seed వితినాం",
+      "Stalk కడ",
+      "Gamete సాంయోగ బీజాం",
+      "Fruit ఫలాం"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_125.webp"
+  },
+  {
+    "id": "bio_126",
+    "qno": 126,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Dispersal of seeds through fruit bursts is seen in \n ఫలములు పగలడాం దాారా వితినవ్యాపిి జరిపేది",
+    "options": [
+      "Xanthium జ్ఞాంథియాం",
+      "Balsam నలగోరిాంట",
+      "Coconut కొబొరి",
+      "Sunflower పొదుదత్తరుగుడు"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_126.webp"
+  },
+  {
+    "id": "bio_127",
+    "qno": 127,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The fusion of male and female gametes resulting in a \nzygote is called \n పురుష్ మరియు స్త్రీ బీజ్ఞల కలయిక దాారా సాంయుకి \nబీజములు ఏరపడే ప్రక్రియ",
+    "options": [
+      "Fertilisation ఫలధీకరణ",
+      "Pollination పరాగసాంపరకాం",
+      "Reproduction ప్రతుాతపత్తి",
+      "Seed formation వితిన నిరాాణాం"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_127.webp"
+  },
+  {
+    "id": "bio_128",
+    "qno": 128,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "New plants develop from parts called eyes in \nవీటిలో కొతి మొకకలు మొలక్కతుిటకు కనుులు అన భాగము ఉాంట్టాంది",
+    "options": [
+      "Cactus కకుస్",
+      "Ginger అలిాం",
+      "Potato బాంగాళాదుాంప",
+      "Rose గుల్మబీ"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_128.webp"
+  },
+  {
+    "id": "bio_129",
+    "qno": 129,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Internal fertilisation is seen in \nఅాంతర ఫలధీకరణ కనబరేచది",
+    "options": [
+      "Frogs కపపలు",
+      "Toads బోదురుకపపలు",
+      "Lizard బలిి",
+      "Star fish సముద్ర నక్షత్రాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_129.webp"
+  },
+  {
+    "id": "bio_130",
+    "qno": 130,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "External fertilisation is seen in \n బాహ్ా ఫలధీకరణను కనబరేచది",
+    "options": [
+      "Lizard బలిి",
+      "Garden Lizard తొాండ",
+      "Starfish సముద్ర నక్షత్రాం",
+      "Butterfly సీతాకోకచలుక"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_130.webp"
+  },
+  {
+    "id": "bio_131",
+    "qno": 131,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Metamorphosis is seen in \n రూపవిక్రయానిు కనబరేచది",
+    "options": [
+      "Hen కోడి",
+      "Silkworm పట్టుపురుగు",
+      "Snakes ప్ములు",
+      "Fish చేపలు"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_131.webp"
+  },
+  {
+    "id": "bio_132",
+    "qno": 132,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This is an example of viviparous animal \n శ్మశోతాపదక జీవికి ఇది ఒక ఉదాహ్రణ",
+    "options": [
+      "Squirrel ఉడుత",
+      "Moth మత్",
+      "Frog కపప",
+      "Starfish సముద్రనక్షత్రాం"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_132.webp"
+  },
+  {
+    "id": "bio_133",
+    "qno": 133,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Find out the odd one out regarding the dominant traits in \npea plants \nబఠాణీ మొకకలలో బహరగత లక్షణాంశ్వలకు సాంబాంధిాంచ \nభినుమైనదానిు గురిిాంచాండి",
+    "options": [
+      "Violet flowers ఊదారాంగు పుష్పపలు",
+      "Wrinkled seeds ముడుతలుగల వితినాలు",
+      "Tallness పొడవైన",
+      "Yellow seed పస్పు వితినాం"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_133.webp"
+  },
+  {
+    "id": "bio_134",
+    "qno": 134,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "In these organisms the sex in the young ones determined \nby temperature of the surroundings before hatching out \nఈ జీవులలో అపుపడే జనిాాంచన పిలిలోి లైాంగికత పొదిగే కలాంలో \nపరిసరాల ఉష్పణగ్రత వ్లన నిరాారిాంచబడుతుాంది",
+    "options": [
+      "Hens కోళ్ళు",
+      "Reptiles సరీస ప్లు",
+      "Humans మనవులు",
+      "Fishes చేపలు"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_134.webp"
+  },
+  {
+    "id": "bio_135",
+    "qno": 135,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Number of sex chromosomes in humans \n మనవులలో లైాంగిక క్రోమోజోముల సాంఖ్ా",
+    "options": [
+      "2",
+      "22",
+      "44",
+      "46"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_135.webp"
+  },
+  {
+    "id": "bio_136",
+    "qno": 136,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Children in humans inherit this sex chromosome from \n their mother \n మనవులలో పిలిలు తమ తలిి నుాండి ఈ లైాంగిక క్రోమోజోమును \n పొాందుతారు",
+    "options": [
+      "X – Chromosome X – క్రోమోజోము",
+      "Y – Chromosome Y – క్రోమోజోము",
+      "Both X and Y chromosomes   X మరియు Y క్రోమోజోములు",
+      "No chromosomes will be inherited  క్రోమోజోములను పొాందరు"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_136.webp"
+  },
+  {
+    "id": "bio_137",
+    "qno": 137,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Round, green colour seeded plant is crossed with \nwrinkled yellow colour seeded plant, F1 generation plants \nwill be having \nగుాండ్రని, ఆకుపచచ రాంగు వితినాలును మొకకను, ముడుతలు కలిగిన \nపస్పు రాంగు వితినాలును మొకకతో సాంకరణాం జరిపినపుపడు F1 \nతరాంలో మొకకలు ఇల్మ ఉాంటాయి",
+    "options": [
+      "Wrinkled, green colour seed plants   ముడుతలు కలిగి, ఆకుపచచ రాంగు వితినాలును మొకకలు",
+      "Wrinkled, white colour seed plants   ముడుతలు కలిగి, తెలుపు రాంగు వితినాలును మొకకలు",
+      "Round, white colour seed plants   గుాండ్రని, తెలుపురాంగు వితినాలును మొకకలు",
+      "Round, Yellow colour seed plants   గుాండ్రని, పస్పురాంగు వితినాలును మొకకలు"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_137.webp"
+  },
+  {
+    "id": "bio_138",
+    "qno": 138,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "In Mendel’s inheritance experiments, F2 generation \nplants were got by through \nమెాండల్ ఆనువ్ాంశ్మకత ప్రయోగాలలో F2 తరాం మొకకలను ఇల్మ \nపొాందుతారు",
+    "options": [
+      "Self- pollination of F1 plants   F1 మొకకలను సాపరాగ సాంపరకాం చేయడాం దాారా",
+      "Cross-pollination of parent plants   జనక మొకకలను పరపరాగ సాంపరకాం చెాందిాంచడాం దాారా",
+      "Self – pollination of parent plants   జనక మొకకలను సాపరాగ సాంపరకాం చెాందిాంచడాం దాారా",
+      "Cross – pollination of F1 plants   F1 మొకకలను పరపరాగ సాంపరకాం చేయడాం దాారా"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_138.webp"
+  },
+  {
+    "id": "bio_139",
+    "qno": 139,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "In human beings, the sex of the child depends on \n మనవులలో, లిాంగనిరాారణ దీనిపై ఆధారపడుతుాంది",
+    "options": [
+      "Maternal chromosome   తలిి నుాండి వ్చచన క్రోమోజోముపై",
+      "Parental chromosome   తాండ్రి నుాండి వ్చచన క్రోమోజోముపై",
+      "Various factors in surroundings   పరిసరాలలోని అనక కరకలపై",
+      "Both maternal and paternal sex chromosomes   తలిి మరియు తాండ్రి నుాండి వ్చచన లైాంగిక క్రోమోజోములపై"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_139.webp"
+  },
+  {
+    "id": "bio_140",
+    "qno": 140,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "22+XX chromosomes are found in \n22+XX క్రోమోజోములు ఉాండేది",
+    "options": [
+      "In all humans మనవులాందరిలో",
+      "In women స్త్రీలలో",
+      "In men పురుషులలో",
+      "In Reptiles సరీస ప్లలో"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_140.webp"
+  },
+  {
+    "id": "bio_141",
+    "qno": 141,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Phenotypic ratio in F2 generation when Mendel crossed \nplants with two contrasting characters \nమెాండల్ రాండు జతల వ్ాత్తరేక లక్షణాంశ్వలును మొకకల మధా \nసాంకరణాం చేసినపుపడు F2 తరాంలోని మొకకల ద శారూప నిష్పత్తి",
+    "options": [
+      "1:3:1",
+      "3:1",
+      "9:3:3:1",
+      "9:3:1"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_141.webp"
+  },
+  {
+    "id": "bio_142",
+    "qno": 142,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Plant even with a single copy of ‘T’ gene appear tall \nevery time while short plants should have a double copy \nof ‘t’. So the dominant trait here is \n ఒకక T జనుావును కలిగినపపటికి మొకకలు ప్రత్తస్తరీ పొడవైనవే \nఅవుతాయి కనీ , పొటిు మొకకలు రాండు t జనుావులను కలిగి \nఉాండాలి. ఇకకడ బహరగత లక్షణాాంశాం",
+    "options": [
+      "Tallness పొడవు",
+      "Shortness పొటిు",
+      "Medium height మధాసథ ఎతుి",
+      "Both tall and short పొడవు మరియు పొటిు రాండూ"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_142.webp"
+  },
+  {
+    "id": "bio_143",
+    "qno": 143,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Genotypic ratio in F2 generation of Mendels monohybrid \n cross \n మెాండల్ ఏకసాంకరణాంలో F2 తరాంలో జనుారూప నిష్పత్తి",
+    "options": [
+      "2:3:1",
+      "3:1",
+      "1:3:1",
+      "1:2:1"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_143.webp"
+  },
+  {
+    "id": "bio_144",
+    "qno": 144,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "When Mendel crossed two plants having one pair of \n contrasting traits such as tall and short, F1 plants \nappeared as \nమెాండల్ పొడవు, పొటిు వ్ాంటి ఒక జత వ్ాత్తరేక లక్షణాాంశ్వలును \nమొకకలను సాంకరణాం చేసినపుపడు, F1 తరాంలో మొకకలు ఇల్మ \nఏరపడాియి",
+    "options": [
+      "All are tall plants మొకకలనీు పొడవైనవి",
+      "All are short plants మొకకలనీు పొటిువి",
+      "Some are tall and some are short plants   కొనిు పొడవు మొకకలు మరియు కొనిు పొటిు మొకకలు",
+      "All are medium sized plants   మొకకలనీు మధాసథమైన పొడవుగలవి"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_144.webp"
+  },
+  {
+    "id": "bio_145",
+    "qno": 145,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Food relations are shown linear in this \n ఆహార సాంబాంధాలను సరళరేఖాతాకాంగా దీనిలో చూపుతారు",
+    "options": [
+      "Food web ఆహార జ్ఞలకాం",
+      "Trophic level పోష్క స్తథయి",
+      "Ecological pyramid ఆవ్రణ వ్ావ్సథ పిరమిడ్",
+      "Food chain ఆహార గొలుస్"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_145.webp"
+  },
+  {
+    "id": "bio_146",
+    "qno": 146,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Match the following. జతపరుచ్చము. \n (A) Fungi (i) Primary consumer \n శ్మలీాంధ్రాం ప్రధమిక వినియోగదారు \n (B) Eagle (ii) Producer \n గ్రదద ఉతపత్తిదారు \n (C) Grasshopper (iii) Tertiary consumer \n గొలిభామ త తీయ వినియోగదారు \n (D) Algae (iv) Decomposer \n శైవ్లాం విచవనుకరి",
+    "options": [
+      "A – ii B -iv C – iii D – i",
+      "A – i B -iii C – iv D – ii",
+      "A – iii B -ii C – iv D - i",
+      "A – iv B -iii C – i D - ii"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_146.webp"
+  },
+  {
+    "id": "bio_147",
+    "qno": 147,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Natural ecosystems among the following \n క్రిాంది వ్యనిలో సహ్జ ఆవ్రణ వ్ావ్సథలు",
+    "options": [
+      "Forest and pond అడవి మరియు కొలను",
+      "Park and crop field ప్రుక మరియు పాంట పొలాం",
+      "Garden and lake తోట మరియు సరస్ే",
+      "Zoological park and wildlife sanctuary   జుల్మజికల్ ప్ర్క మరియు వ్నాప్రణ సాంరక్షణ కేాంద్రాం"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_147.webp"
+  },
+  {
+    "id": "bio_148",
+    "qno": 148,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The substance formed by the action of \n విచవనుకరుల చరాల ఫలితాంగా ఏరపడే పదారాాం",
+    "options": [
+      "Compost కాంపోస్ు",
+      "Humus హుామస్",
+      "Minerals ఖ్నిజ్ఞలు",
+      "Detritus డెట్రిటస్"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_148.webp"
+  },
+  {
+    "id": "bio_149",
+    "qno": 149,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Find the primary consumer among the following \n క్రిాంది వ్యనిలో ప్రథమిక వినియోగదారుని గురిిాంచాండి",
+    "options": [
+      "Moss మస్",
+      "Insect కీటకాం",
+      "Crane కొాంగ",
+      "Lion సిాంహ్ాం"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_149.webp"
+  },
+  {
+    "id": "bio_150",
+    "qno": 150,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Find the decomposer \n విచవనుకరిని గురిిాంచాండి.",
+    "options": [
+      "Amoeba అమీబా",
+      "Fungi శ్మలీాంధ్రాం",
+      "Crow కకి",
+      "Ant చీమ"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_150.webp"
+  },
+  {
+    "id": "bio_151",
+    "qno": 151,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The amount of organic matter available at each \ntrophic level for the next level is \n ప్రత్త పోష్క స్తథయిలోను, తరువ్యత్త స్తథయి కోసాం లభామయ్యా \n స్వాంద్రీయ పదారాాం యొకక పరిమణాం",
+    "options": [
+      "90%",
+      "100%",
+      "10%",
+      "0.1%"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_151.webp"
+  },
+  {
+    "id": "bio_152",
+    "qno": 152,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Primary consumers \nప్రధమిక వినియోగదారులు",
+    "options": [
+      "Feed on herbivores   ఉతపత్తిదారులను ఆహారాంగా తీస్కుాంటాయి",
+      "Feed on animals eat plant and plant products   శ్వఖాహారులను ఆహారాంగా తీస్కుాంటాయి",
+      "Feed on carnivores   మాంస్తహ్రులను ఆహారాంగా తీస్కుాంటాయి",
+      "Feed on dead matter   నిరీీవ్ పదారాాలను ఆహారాంగా తీస్కుాంటాయి"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_152.webp"
+  },
+  {
+    "id": "bio_153",
+    "qno": 153,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The green plants belonging to the terrestrial ecosystem \ncapture this much percentage of total sunlight reaching \nthe earth \n భౌమావ్రణ వ్ావ్సథలోని ఆకుపచచని మొకకలు భూమిపై పడే \nసూరాకాంత్తలో ఇాంత మొతాినిు గ్రహస్ినాుయి",
+    "options": [
+      "10%",
+      "90%",
+      "1%",
+      "0.1%"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_153.webp"
+  },
+  {
+    "id": "bio_154",
+    "qno": 154,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This organism does not belong to the second trophic \n level of a food chain \n ఈ జీవి ఆహార గోలుస్లో రాండవ్ పోష్క స్తథయిది కదు \nA) Frog కపప \nB) Rabbit కుాందేలు \nC) Tiger పులి \nD) Grasshopper గొలిభామ",
+    "options": [
+      "A only",
+      "A and C only",
+      "A, C and D only",
+      "B, C and D only"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_154.webp"
+  },
+  {
+    "id": "bio_155",
+    "qno": 155,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The odd one regarding the abiotic components of an \necosystem \n ఆవ్రణ వ్ావ్సథలోని నిరీీవ్ అాంశ్వల పరాంగా భినుమైనది",
+    "options": [
+      "Temperature ఉష్పణగ్రత",
+      "Oxygen ఆకిేజన్",
+      "Decomposer విచవనుకరి",
+      "Salinity లవ్ణీయత"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_155.webp"
+  },
+  {
+    "id": "bio_156",
+    "qno": 156,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Example for Phytoplankton living in an aquatic \n ecosystem \n జల్మవ్రణ వ్ావ్సథలో జీవిాంచే వ్ క్ష పివ్కనికి ఉదాహ్రణ",
+    "options": [
+      "Pitsea పిసిుయా",
+      "V olvox వ్యల్మాక్ే",
+      "Daphnia డాఫిుయా",
+      "Water Lilly కలువ్"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_156.webp"
+  },
+  {
+    "id": "bio_157",
+    "qno": 157,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The finest Indian Teak is found in \n భారతదేశాంలో అతుాతిమ ట్టకు చెట్టి ఇకకడ లభిస్తియి",
+    "options": [
+      "Srisailam Tiger Reserve   శ్రీశైలాం టైగర్ రిజర్ా",
+      "Sathpura National Park   స్తతుపరా జ్ఞతీయ ప్ర్క",
+      "Khaziranga National Park   ఖ్జిరాంగా జ్ఞతీయ ప్ర్క",
+      "Pachmarhi Wildlife Sanctuary   పచ్ మరిి వ్నాప్రణ సాంరక్షణా కేాంద్రాం"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_157.webp"
+  },
+  {
+    "id": "bio_158",
+    "qno": 158,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The first Reserve Forest in India is \n భారతదేశాంలోని మొదటి రిజర్ా అటవీప్రాంతాం",
+    "options": [
+      "Pachmarhi Wildlife Sanctuary  పచ్ మరిి వ్నాప్రణ సాంరక్షణా కేాంద్రాం",
+      "Sathpura National Park   స్తతుపరా జ్ఞతీయ ప్ర్క",
+      "Bori Reserve Forest   బోరి రిజర్ా ఫారస్ు",
+      "Pachmarhi Biosphere Reserve   పచ్ మరిి బయోసిపయర్ రిజర్ా"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_158.webp"
+  },
+  {
+    "id": "bio_159",
+    "qno": 159,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This is called ‘The Lungs of Our Planet’ \n దీనిని ‘మన గ్రహానికి ఊపిరిత్తతుిలు’ గా పిలుస్తిరు.",
+    "options": [
+      "Desert ఎడారి",
+      "Forest అడవి",
+      "Industry కరాాగారాం",
+      "School ప్ఠశ్వల"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_159.webp"
+  },
+  {
+    "id": "bio_160",
+    "qno": 160,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "These organisms are exclusively found in a particular \n area \n ఒక నిరిాష్ు ప్రాంతాంలో మత్రమే ప్రత్సాకాంగా కనిపిాంచే జీవులు",
+    "options": [
+      "Endemic species ఎాండమిక్ జ్ఞతులు",
+      "Endangered species అాంతరిాంచపోయ్య జ్ఞతులు",
+      "Extinct species అాంతరిాంచపోయిన జ్ఞతులు",
+      "Exotic species విదేశీ జ్ఞతులు"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_160.webp"
+  },
+  {
+    "id": "bio_161",
+    "qno": 161,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Fauna means \n ఫానా అనగా",
+    "options": [
+      "Plants and animals living exclusively in a particular   area   ఒక ప్రదేశాంలో మత్రమే జీవిాంచే మొకకలు మరియు   జాంతువులు",
+      "Plants found in a particular area   ఒక ప్రదేశాంలో లభామయ్యా మొకకలు",
+      "Animals found in a particular area   ఒక ప్రదేశాంలోని జాంతువులు",
+      "Plants protected in a particular area   ఒక ప్రదేశాంలో సాంరక్షిాంచబడుతును మొకకలు"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_161.webp"
+  },
+  {
+    "id": "bio_162",
+    "qno": 162,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Species means \n జ్ఞత్త అనగా",
+    "options": [
+      "A group of population live in a particular area  ఒక ప్రదేశాంలో జీవిాంచే జనాభా యొకక సమూహ్ము",
+      "A group of members that can produce sterile  offsprings   వ్ాంధా సాంతానానిు ఉతపత్తిచేయగలిగిన సమూహ్ సభుాలు",
+      "A group of members living exclusively in an area   ఒక ప్రదేశ్వనికే పరిమితమై ఉను జీవుల సమూహ్ము",
+      "A group of population which are capable of   interbreeding   అాంతర సాంతానోతపత్తి స్తమరాాాం కలిగిన జీవుల సమూహ్ము"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_162.webp"
+  },
+  {
+    "id": "bio_163",
+    "qno": 163,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "These organisms numbers are dangerously diminishing \nto the level of extinction \n విలుపిమయ్యా దశకు చేరువ్గా ప్రమదకరాంగా తగిగపోతును జనాభా \n గల జీవులు",
+    "options": [
+      "Extinct organisms అాంతరిాంచన జీవులు",
+      "Endemic organisms ఎాండమిక్ జీవులు",
+      "Endangered organisms ఆపదలో ఉను జాంతువులు",
+      "In – situ Organisms ఇన్ – సిట్ట జీవులు"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_163.webp"
+  },
+  {
+    "id": "bio_164",
+    "qno": 164,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This contain the data of endangered species \nఆపదలో ఉను జీవుల యొకక సమచ్చరానిు కలిగి ఉాందునది",
+    "options": [
+      "Red data book రడ్ డేటా బుక్",
+      "Blue data book బ్లిడేటా బుక్",
+      "Yellow data book ఎలోిడేటా బుక్",
+      "Green data book గ్రీన్ డేటా బుక్"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_164.webp"
+  },
+  {
+    "id": "bio_165",
+    "qno": 165,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Siberian Cranes from Russia migrates to this place in \n Haryana every year \nరష్పా నుాండి సైబీరియా కొాంగలు ప్రత్త సాంవ్తేరాం హ్రాానాలోని ఈ \nప్రదేశ్వనికి వ్లస వ్స్తియి",
+    "options": [
+      "Bharatpur భరత్ పూర్",
+      "Khaziranga ఖ్జిరాంగా",
+      "Ghana ఘనా",
+      "Sulthanpur స్ల్మిన్ పూర్"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_165.webp"
+  },
+  {
+    "id": "bio_166",
+    "qno": 166,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This is not the flora of Pachmarhi Biosphere Reserve \n ఇది పచ్ మరిి బయోసిియర్ రిజర్ా కు చెాందిన ఫ్లిరా కదు",
+    "options": [
+      "Sal స్తల్",
+      "Wild mango అడవి మమిడి",
+      "Bison బైసన్",
+      "Jamun నరేడు"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_166.webp"
+  },
+  {
+    "id": "bio_167",
+    "qno": 167,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This is not the reason for bird migration \n పక్షుల వ్లసకు ఇది కరణాం కదు",
+    "options": [
+      "To protect themselves from predators   పరభక్షకల నుాండి తమను తాము కప్డుకోవ్డాం కోసాం",
+      "To protect themselves from environment conditions   పరాావ్రణ పరిసిథతుల నుాండి తమను తాము కప్డుకోవ్డాం   కోసాం",
+      "For breeding సాంతానోతపత్తి కోసాం",
+      "For feeding ఆహారాం కోసాం"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_167.webp"
+  },
+  {
+    "id": "bio_168",
+    "qno": 168,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Red Data Book is published by \n రడ్ డేటాబుక్ ను ప్రచ్చరిాంచ్చనది",
+    "options": [
+      "IUCN",
+      "WWN",
+      "WES",
+      "ICZN"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_168.webp"
+  },
+  {
+    "id": "bio_169",
+    "qno": 169,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The poisonous producing by burning of fossil fuels is \n శ్మల్మజ ఇాంధనాలను దహ్నాంచేయడాం వ్లన విడుదలయ్యా విష్పూరిత \n వ్యయువు",
+    "options": [
+      "CO",
+      "NO2",
+      "Water vapour నీటిఆవిరి",
+      "CO2"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_169.webp"
+  },
+  {
+    "id": "bio_170",
+    "qno": 170,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This is not an inorganic impurity in sewage \n మురుగునీటిలోని ఆకరొన మలినాం కనిది",
+    "options": [
+      "Metals లోహాలు",
+      "Oil న్యనె",
+      "Phosphorus ఫాసిరస్",
+      "Nitrates నైట్రేట్టి"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_170.webp"
+  },
+  {
+    "id": "bio_171",
+    "qno": 171,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The ‘World Water Day’ is on \n ‘ప్రపాంచ నీటి దినోతేవ్ాం’ జరిపే ర్కజు",
+    "options": [
+      "21 June",
+      "22 May",
+      "25 April",
+      "22 March"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_171.webp"
+  },
+  {
+    "id": "bio_172",
+    "qno": 172,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Uppermost layer of the forest – A \n Lowermost layer of the forest – B. If both are formed by \n the plants, find out A and B. \n అడవులలో అతాాంత పైనును మొకకల పొర - A \n అడవులలో అతాాంత క్రిాందనును మొకకల పొర -B \n A, B లను కనుగొనాండి",
+    "options": [
+      "A – Shrubs B - Trees   A – పొదలు B – వ్ క్షాలు",
+      "A – Trees B - Herbs   A- వ్ క్షాలు B – గుల్మాలు",
+      "A – Trees B – Mosses   A – వ్ క్షాలు B – మస్ లు",
+      "A – Herbs B - Shrubs   A – గుల్మాలు B – పొదలు"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_172.webp"
+  },
+  {
+    "id": "bio_173",
+    "qno": 173,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Acid rains are caused by \n ఆమి వ్రాిలకు కరణమైనవి",
+    "options": [
+      "CO2 and SO2",
+      "SO2 and NO2",
+      "CO and CO2",
+      "CO2 and NO2"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_173.webp"
+  },
+  {
+    "id": "bio_174",
+    "qno": 174,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Examples of organic impurities in water \nనీటిలోని స్వాంద్రీయ వ్ారాదలకు ఉదాహ్రణలు",
+    "options": [
+      "Protozoans ప్రోటోజోవ్నుి",
+      "Phosphorus and Nitrogen   ఫాసిరస్ మరియు నైట్రోజన్",
+      "Urea and Pesticides   యూరియా మరియు క్రిమిసాంహారకలు",
+      "Metals లోహాలు"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_174.webp"
+  },
+  {
+    "id": "bio_175",
+    "qno": 175,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Sewage is a \n మురుగునీరు ఒక",
+    "options": [
+      "Solid waste produced in houses   ఇాండిలో ఏరపడే ఘనరూప వ్ారాాం",
+      "Liquid waste produced in houses ద్రవ్రూప వ్ారాాం",
+      "Decomposed matter formed from plant wastes   మొకకల వ్ారాాల నుాండి ఏరపడిన కుళిున పదారాాం",
+      "Dry dung ఎాండిన పేడ"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_175.webp"
+  },
+  {
+    "id": "bio_176",
+    "qno": 176,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "These are the examples of onsite sewage disposal system \nఅకకడికకకడ మురుగును ప్రవేస్వ వ్ావ్సథకు ఉదాహ్రణ \n(A) Compost pits కాంపోస్ు గుాంతలు \n(B) Canals కలువ్లు \n(C) Chemical toilets రస్తయన మరుగుదొడుి \n(D) Springs నీటిబుగగలు",
+    "options": [
+      "A and B only",
+      "A and C only",
+      "B and C only",
+      "B and D only"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_176.webp"
+  },
+  {
+    "id": "bio_177",
+    "qno": 177,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "97% of the activated sludge contains \n క్రియాశీల మురుగులో 97% ఉాండేది",
+    "options": [
+      "Water నీరు",
+      "Floating wastes త్సలియాడే వ్ారాాలు",
+      "Aerobic bacteria వ్యయుగత బాకీురియా",
+      "Dried wastes ఎాండిన వ్ారాాలు"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_177.webp"
+  },
+  {
+    "id": "bio_178",
+    "qno": 178,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Waste water is disinfected by using \n వ్ారాజలాం దీనిని కలపడాం దాారా క్రిమిరహతాం చేయబడుతుాంది",
+    "options": [
+      "Ozone ఓజోన్",
+      "Aerobic bacteria వ్యయుసహత బాకీురియా",
+      "Anaerobic bacteria అవ్యయు బాకీురియా",
+      "Pesticide క్రిమిసాంహారకాం"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_178.webp"
+  },
+  {
+    "id": "bio_179",
+    "qno": 179,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Chloro Floro carbons are used in \n కోిర్కఫ్లిర్క కరొనిను ఇకకడ ఉపయోగిస్తిరు",
+    "options": [
+      "Refrigerators రిఫ్రిజిరేటరుి",
+      "Combustion of vehicle fuels   వ్యహ్నాల ఇాంధనాలను మాండిాంచడానికి",
+      "Fire extinguishers   మాంటలను ఆరేప యాంత్రాలలో",
+      "Making paper   పేపర్ తయారీలో"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_179.webp"
+  },
+  {
+    "id": "bio_180",
+    "qno": 180,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "‘Ganga Action Plan’ was launched in \n ‘గాంగానది కరాాచరణ ప్రణాళిక’ ప్రరాంభమైన సాంవ్తేరాం",
+    "options": [
+      "1985",
+      "1987",
+      "1972",
+      "1978"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_180.webp"
+  },
+  {
+    "id": "bio_181",
+    "qno": 181,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Examples for cleaner fuels that do not damage \nEnvironment \n పరాావ్రణానికి హాని కలుగచేయని ఇాంధనాలకు ఉదాహ్రణలు",
+    "options": [
+      "Leaded petrol ల్డ్ కలిగిన పట్రోల్",
+      "CNG and LPG",
+      "Petrol పట్రోల్",
+      "CFC and CNG"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_181.webp"
+  },
+  {
+    "id": "bio_182",
+    "qno": 182,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The poisonous gas released from incomplete burning of \nfuels \nప్క్షికాంగా దహ్నాం చెాందిన ఇాంధనాల నుాండి విడుదలయ్యా విష్పూరిత \nవ్యయువు",
+    "options": [
+      "Sulphur dioxide సలిర్ డైఆక్కసేడ్",
+      "Ozone ఓజోన్",
+      "Carbon monoxide కరొన్ మోనాక్కసేడ్",
+      "Oxides of Nitrogen నైట్రోజన్ యొకక ఆక్కసేడుి"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_182.webp"
+  },
+  {
+    "id": "bio_183",
+    "qno": 183,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "‘Marble cancer’ is not caused by \n ‘మరుొల్ కనేర్’ కి కరణాం కనిది",
+    "options": [
+      "Sulphur dioxide and Nitrogen dioxide   సలిర్ డైఆక్కసేడ్ మరియు నైట్రోజన్ డైఆక్కసేడ్",
+      "Suspended particular matter గాలిలో త్సలియాడే పదారాాలు",
+      "Chloro Floro carbons కోిర్కఫ్లిర్క కరొనుి",
+      "Acid rains ఆమి వ్రాిలు"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_183.webp"
+  },
+  {
+    "id": "bio_184",
+    "qno": 184,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Residual persistence of pesticides in grains is due to \n ఆహారధానాాలలో పురుగుమాందుల అవ్శ్లష్పలు కొనస్తగడాం దీని \n వ్లన జరుగుతుాంది",
+    "options": [
+      "Biological magnification జైవికవ్ దీాకరణ",
+      "Global warming భౌగోళిక వెచచదనము",
+      "Biodegradable wastes జీవ్ విచవనుాం అయ్యా వ్ారాాలు",
+      "Formation of ozone layer ఓజోన్ పొర ఏరపడటాం"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_184.webp"
+  },
+  {
+    "id": "bio_185",
+    "qno": 185,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Examples of greenhouse gases \n గ్రీన్ హౌస్ వ్యయువులకు ఉదాహ్రణలు",
+    "options": [
+      "Carbon monoxide and carbon dioxide   కరొన్ మోనాక్కసేడ్ మరియు కరొన్ డైఆక్కసేడ్",
+      "Methane and Propane   మీథేన్ మరియు ప్రొపేన్",
+      "Carbon dioxide and Methane   కరొన్ డైఆక్కసేడ్ మరియు మీథేన్",
+      "Ozone and Carbon dioxide   ఓజోన్ మరియు కరొన్ డైఆక్కసేడ్"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_185.webp"
+  },
+  {
+    "id": "bio_186",
+    "qno": 186,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Ozone is formed at higher levels of atmosphere \n ఓజోన్ ఎతెసిన ప్రదేశ్వలలో ఈ విధాంగా ఏరపడుతుాంది",
+    "options": [
+      "Breaking down of oxygen molecules by UV   radiation   UV వికిరణము దాారా ఆకిేజన్ అణువులు విడిపోవ్డాం",
+      "Combining free oxygen atoms with oxygen   molecules   ఆకిేజన్ స్వాచ్చవయుత పరమణువులు ఆకిేజన్ అణువులతో   కలవ్డాం",
+      "Forming a shield to prevent UV radiation   UV వికిరణమును నిర్కధిసూి రక్షక కవ్చాంగా ఏరపడటాం",
+      "Combining of three free oxygen atoms with each   another   మూడు స్వాచ్చవయుత ఆకిేజన్ పరమణువులు ఒకదానితో   ఒకటి కలవ్డాం"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_186.webp"
+  },
+  {
+    "id": "bio_187",
+    "qno": 187,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The group containing biodegradable items only \n కేవ్లాం జీవ్ విచవనుమయ్యా పదారాాలు గల సమూహ్ము",
+    "options": [
+      "Grass, flowers and leather   గడిి, పుష్పపలు మరియు తోలు",
+      "Grass, wood and plastic clip   గడిి, చెకక మరియు ప్ిసిుక్ కిిపుప",
+      "Fruit peels, coke tin and leather   పాండి తొకకలు, కోక్ టిన్ మరియు తోలు",
+      "Dry cell, cake and plastic bottle   నిరీలఘటాం, కేకు మరియు ప్ిసిుక్ సీస్త"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_187.webp"
+  },
+  {
+    "id": "bio_188",
+    "qno": 188,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Non-biodegradable wastes are \nజీవ్ విచవనుాం కని వ్ారాాలు",
+    "options": [
+      "Broken down by enzymes   ఎాంజైముల చేత విచవనుాం చెాందుతాయి",
+      "Broken down under ambient conditions   సహ్జ పరిసిథతులలో విచవనుాం చెాందుతాయి",
+      "Not Broken down by the action of bacteria   బాకీురియాల చరాల వ్లన విచవనుాం కవు",
+      "Broken down by the action of saprophytes   పూత్తకహారుల చరాల వ్లన విచవనుాం చెాందుతాయి"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_188.webp"
+  },
+  {
+    "id": "bio_189",
+    "qno": 189,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "During 1970s the movement run by local communities to \n prevent cutting of trees \n1970 లలో స్తథనిక సమూహాల దాారా చెటి నరికివేతను నివ్యరిాంచడాం \nకోసాం జరుపబడిన ఉదామాం",
+    "options": [
+      "Jhum Cultivation   జూమ్ వ్ావ్స్తయాం",
+      "Joint Forest Management Programme   ఉమాడి అటవీ నిరాహ్ణ పధకాం",
+      "Chipko Movement చపోకఉదామాం",
+      "Kyoto Protocol కోాటో ప్రోటోకల్"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_189.webp"
+  },
+  {
+    "id": "bio_190",
+    "qno": 190,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Indiscriminate usage of non-biodegradable pesticides \n affect mostly \n నలలో విచవనుాం కని క్రిమిసాంహారకల వ్యడకాం ప్రధానాంగా వీటిపై \nప్రభావ్ాం చూపుతుాంది",
+    "options": [
+      "Plants మొకకలు",
+      "Rats ఎలుకలు",
+      "Humans మనవులు",
+      "Snakes ప్ములు"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_190.webp"
+  },
+  {
+    "id": "bio_191",
+    "qno": 191,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The deadly poisonous gas that protects us from the \n radiation of the Sun is \n సూరుాని వికిరణము బారి నుాండి మనను కప్డుతును \n ప్రణాాంతకమైన విష్వ్యయువు",
+    "options": [
+      "CO",
+      "N2",
+      "CO2",
+      "O3"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_191.webp"
+  },
+  {
+    "id": "bio_192",
+    "qno": 192,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Droughts and desertification are the results of \nకరువులు మరియు ఎడారీకరణ దీని యొకక ఫలితాలు",
+    "options": [
+      "Water pollution నీటి కలుష్ాాం",
+      "Deforestation అడవుల నరికివేత",
+      "Grazing and Animal Breeding   పశువులను మేపడాం మరియు ప్రజననాం చేయడాం",
+      "Natural Reforestation   సహ్జమైన అడవుల పునరుదారణ"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_192.webp"
+  },
+  {
+    "id": "bio_193",
+    "qno": 193,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "“Science is that organised knowledge by testing and \ngetting truth by observing this society, laws of nature, \nphysical world” said by \n “భౌత్తక ప్రపాంచ్చనిు, ప్రక త్త నియమలను, సమజ్ఞనిు \nపరిశీలిాంచడాం దాారా వ్చచన వ్ావ్సీథకరిాంచన జ్ఞానమే విజ్ఞాన శ్వస్త్రాం” \nఅని నిరాచాంచనది",
+    "options": [
+      "James Randy జేమ్ే రాాండీ",
+      "Oxford Advanced Learner Dictionary   ఆక్ే ఫర్ి అడాాన్ే డ్ ల్రుర్ే డిక్షనరీ",
+      "The Science Man power project   శ్వస్త్రీయ మనవ్ శకిి పథకాం",
+      "J. B. Conant జేమ్ే. బి. కొనాాంట్"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_193.webp"
+  },
+  {
+    "id": "bio_194",
+    "qno": 194,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Choose the correct match/s \n సరైన జతను /లను గురిిాంచాండి \nA. “Science is the treasure of Knowledge that teachers \nhow to be” - Einstein \n “విజ్ఞానశ్వస్త్రాం మనాం ఎల్మ ఉాండాలో నరేప జ్ఞానరాశ్మ”- ఐన్ సీున్ \n B. “Science is a process of research” -A.W.Green \n “విజ్ఞానశ్వస్త్రమనది ఒక పరిశోధనా విధానాం”- A. W. గ్రీస్",
+    "options": [
+      "A- Correct, B- incorrect A- సతాాం, B- అసతాాం",
+      "A- incorrect, B- correct A- అసతాాం, B- సతాాం",
+      "A and B both are correct A మరియు B రాండూ సతాాం",
+      "A and B both are correct A మరియు B రాండూ అసతాాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_194.webp"
+  },
+  {
+    "id": "bio_195",
+    "qno": 195,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This is not the Nature of Science from the below \n క్రిాంది వ్యనిలో విజ్ఞానశ్వస్త్రాం యొకక సాభావ్ాం కనిది",
+    "options": [
+      "Explorative Nature అనాష్ణాతాక సాభావ్ాం",
+      "Rigid in Nature మరుపకు లోనుకని సాభావ్ాం",
+      "Cumulative in Nature సాంచత సాభావ్ాం",
+      "Scientific Scepticism in Nature   శ్వస్త్రీయ సాంశయాతాక సాభావ్ాం"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_195.webp"
+  },
+  {
+    "id": "bio_196",
+    "qno": 196,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "“Inheritance of Acquired Characters” the Theory \nproposed by Lamark, was disproved by Wiesemen later \nby his experiments on Rats is explains this nature of \nScience \nల్మమర్క ప్రత్తప్దిాంచన “ఆరిీత గుణాల అనువ్ాంశ్మకత” సిదాాాంతాం \nతపపని తరాాత ఎలుకల పైన చేసిన ప్రయోగాల దాారా వీజ్ మన్ అన \nశ్వస్త్రవేతి నిరూపిాంచడాం సైన్ే యొకక ఈ సాభావ్యనిు తెలియజేస్ిాంది",
+    "options": [
+      "Dynamic in Nature మరుపకు లోనయ్యా సాభావ్ాం",
+      "Curious in Nature కుతూహ్ల సాభావ్ాం",
+      "Cumulative in Nature సాంచత సాభావ్ాం",
+      "Problem solving in Nature   సమసాను పరిష్కరిాంచే సాభావ్ాం"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_196.webp"
+  },
+  {
+    "id": "bio_197",
+    "qno": 197,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "When Lamark explained the Giraffe evolution through his \n‘Inheritance of Acquired Characters’ got lot of \nacceptance. Later Wiesemen’s experiments on Rats by \ncutting its tails. Lamark Evaluation theory got criticism- \nThis explains the development of Science is \nల్మమర్క జిరాఫీ పరిణామ క్రమాం గురిాంచ, ఆరిీత గుణాల \nఅనువ్ాంశ్మకత దాారా చ్చల్మ మదదతు లభిాంచడాం, అనాంతరాం వీజ్ మన్ \nఎలుకల తోకలను కత్తిరిాంచ చేసిన ప్రయోగాల దాారా ల్మమర్క జీవ్ \nపరిణామ సిదాాాంతాం విమర్లకు లోనైాంది- ఇది సైన్ే అభివ్ దిా ఈ \nరకాంగా ఉాంట్టాందని తెలుపుతుాంది",
+    "options": [
+      "Unidirectional ఏక దిశ్వతాకాం",
+      "Bidirectional దిా దిశ్వతాకాం",
+      "Tri directional త్రి దిశ్వతాకాం",
+      "Tetra directional చతుర్ దిశ్వతాకాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_197.webp"
+  },
+  {
+    "id": "bio_198",
+    "qno": 198,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Identify the Aims of Teaching learning of science \n from the following \n క్రిాంది వ్యనిలో సైన్ే బోధనాభాసనా ఉదేదశ్వాలను గురిిాంచాండి \nA) Developing honesty నిజ్ఞయితీని పాంపొాందిాంచడాం \nB) Gender equality లిాంగ సమనతాాం \nC) Training in Scientific Method శ్వస్త్రీయ పదాత్తలోశ్మక్షణ \nD) Optimum use of leisure time \n విరామ కల సదిానియోగాం",
+    "options": [
+      "A, B, C only",
+      "B, C, D only",
+      "A, C, D only",
+      "A, B, C, D"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_198.webp"
+  },
+  {
+    "id": "bio_199",
+    "qno": 199,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The primary Science process skill from the following is \n క్రిాంది వ్యనిలో ప్రధమిక విజ్ఞానశ్వస్త్ర ప్రక్రియ నైపుణాము",
+    "options": [
+      "Developing Hypothesis పరికలపనను రూపొాందిాంచ్చట",
+      "Conducting Experiments ప్రయోగాలు చేయుట",
+      "Using tools పరికరాలను వినియోగిాంచ్చటకు",
+      "Classification వ్రీగకరణ"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_199.webp"
+  },
+  {
+    "id": "bio_200",
+    "qno": 200,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "A teacher planned an introductory programme on \n‘Sericulture’ for his students- this shown this Aim of \nBiological study \nఒక ఉప్ధాాయుడు తన విదాారుాలకు “పట్టు సాంవ్రానాం” పై పరిచయ \nకరాక్రమనిు రూపొాందిాంచ్చరు. ఇది జీవ్శ్వస్త్రాం అధాయనాం యొకక \nఈ ఉదేదశ్వానిు సూచస్ిాంది",
+    "options": [
+      "Utilizing leisure time Aim   విరామకల సదిానియోగ ఉదేదశాాం",
+      "Utilizing Scientific Knowledge for the development   humanity aim   శ్వస్త్ర విజ్ఞానానిు మనవ్ కళాాణానికి వినియోగిాంచే ఉదేదశాాం",
+      "Preparing base for better life aim   ఉనుత జీవ్నానికి భూమిక నరిపాంచే ఉదేదశాాం",
+      "Preparing best citizens for society aim   సమజ్ఞనికి ఉతిమ పౌరులను అాందిాంచే ఉదేదశాాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_200.webp"
+  },
+  {
+    "id": "bio_201",
+    "qno": 201,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "These are known as ‘Abstract goals’ \nవీటిని ‘అమూరి గమాలు’ అనిక్యడా అాంటారు",
+    "options": [
+      "Aims ఉదేదశ్వాలు",
+      "Objectives లక్షాాలు",
+      "Specifications సపష్టుకరణలు",
+      "Values విలువ్లు"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_201.webp"
+  },
+  {
+    "id": "bio_202",
+    "qno": 202,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "A student developed alternative tool for an experiment – \nthis shows this value of science teaching \n ఒక విదాారిా ఒక ప్రయోగానికి కవ్లసిన ప్రతాాముయ పరికరాలు \n తయారుచేశ్వడు- ఇది ఈ విజ్ఞానశ్వస్త్ర బోధనావిలువ్ను సూచస్ిాంది",
+    "options": [
+      "V ocational value వ్ త్తిపరమైన విలువ్",
+      "Utilitarian value ఉపయోగిక విలువ్",
+      "Creative value స జనాతాక విలువ్",
+      "Interpretative value వివ్రణాతాక విలువ్"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_202.webp"
+  },
+  {
+    "id": "bio_203",
+    "qno": 203,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Identify the Primary process skill of science \n క్రిాంది వ్యనిలో విజ్ఞానశ్వస్త్ర ప్రథమిక ప్రక్రియా నైపుణాాలను \nగురిిాంచాండి \n A) Conducting experiments ప్రయోగాలు చేయడాం \nB) Observations పరిశీలిాంచడాం \nC) Estimation అాంచనా వేయడాం \nD) Developing Hypothesis ప్రకలపనలు రూపొాందిాంచడాం",
+    "options": [
+      "A, B only",
+      "A, B, C only",
+      "C, D only",
+      "B, C only"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_203.webp"
+  },
+  {
+    "id": "bio_204",
+    "qno": 204,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The institute called ‘Deficiency diseases enquiry’ in \n1928, later developed into \n1928 లో ‘డెఫిసియనీే డిసీజ్ ఎాంక్కసారీ’ గా పిలువ్బడిన సాంసథ \nతరువ్యత కలాంలో ఇల్మ అభివ్ దిా చెాందిాంది",
+    "options": [
+      "NIN",
+      "ICRISAT",
+      "NACO",
+      "CCMB"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_204.webp"
+  },
+  {
+    "id": "bio_205",
+    "qno": 205,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "According to comparison of Biological science teaching \nlearning Aims, Objectives. Identify the correct statements \nజీవ్శ్వస్త్ర బోధనా అభాసనా – ఉదేదశ్వాలు, లక్షాాలు మధా పోలికల \nఆధారాంగా సరైన వ్యకాలను గురిిాంచాండి \nA. When compared to Aims, Objectives take more \ntime to achieve \nఉదేదశ్వాలతో పోలిచత్స లక్షాాలు స్తధిాంచ్చటకు ఎకుకవ్ \nసమయాం అవ్సరాం. \n B. Objectives are influenced by Aims \n లక్షాాలు ఉదేదశ్వాలచే ప్రభావితమవుతాయి",
+    "options": [
+      "A only Correct A మత్రమే సతాాం",
+      "B only correct B మత్రమే సతాాం",
+      "A and B both are correct   A మరియు B రాండూ సతాాం",
+      "A and B both are correct   A మరియు B రాండూ అసతాాం"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_205.webp"
+  },
+  {
+    "id": "bio_206",
+    "qno": 206,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "‘Having Objective means working meaningfully’ said by \n‘లక్షాాం కలిగి ఉాండడమాంట్ట అరావ్ాంతాంగా పనిచేయడమే’ అని \nతెలిపినది",
+    "options": [
+      "John Deuy జ్ఞన్ డూాయి",
+      "Carlile కరసిల్",
+      "B. D. Bhatia బి. డి. భాటియా",
+      "Abraham Maslow అబ్రహ్ాం మసోి"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_206.webp"
+  },
+  {
+    "id": "bio_207",
+    "qno": 207,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "These are not socio educational objectives \n ఇవి స్తమజిక విదాాలక్షాాలు కవు",
+    "options": [
+      "Globalization, Ethical development   ప్రపాంచీకరణ, నైత్తకభివ్ దిా",
+      "Intellectual development, Emotional balance   బౌదిాకభివ్ దిా, ఉదేాగ సమతులాత",
+      "Environmental protection, Modernization   పరాావ్రణ సమైకాత, ఆధునికీకరణ",
+      "National integrity, Protection of Democracy   జ్ఞతీయ సమైకాత, ప్రజ్ఞస్తామా పరిరక్షణ"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_207.webp"
+  },
+  {
+    "id": "bio_208",
+    "qno": 208,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "“Inculcate Scientific attitude, Scientific interest for \nenvironmental protection – Biodiversity among the \nchildren” is a \n“విదాారుాలు పరాావ్రణ పరిరక్షణ – జీవ్ వైవిధాాం పటి శ్వస్త్రీయ \nవైఖ్రిని,శ్వస్త్రీయ అభిరుచని కలుగజేయడాం” అనునది",
+    "options": [
+      "Goal గమాాం",
+      "Aim ఉదేదశాాం",
+      "Objective లక్షాాం",
+      "Specification సపష్టుకరణ"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_208.webp"
+  },
+  {
+    "id": "bio_209",
+    "qno": 209,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "“Student will be able to explain the uses of Biotechnology” \nis a \n“విదాారిా బయోటకులజీ ప్రయోగాలను వివ్రిస్తిరు”- అనునది",
+    "options": [
+      "Objective లక్షాాం",
+      "Specification సపష్టుకరణ",
+      "Goal గమాాం",
+      "Aim ఉదేదశాాం"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_209.webp"
+  },
+  {
+    "id": "bio_210",
+    "qno": 210,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Identify the correct pairs regarding classification of \neducational objectives \n విదాాలక్షాాల వ్రీగకరణకు సాంబాంధిాంచ సరైన జతలను గురిిాంచాండి \nA) Sensations (or) Emotional process – R. H. Dave, \nElizabeth Simpson \n మనసిక ప్రక్రియ - R. H. దవే, ఎలిజబత్ సిాంపేన్ \nB) Physical strength -Mental strength – David R. \n Krathwohl \n శ్వరీరక శకిి – మనసిక శకుిల మధా అనుసాంధానాం – \n డేవిడ్ R. క్రాత్ హాల్ \nC) Intellectual process – Benjiman S. Blooms \n మేధోపరమైన ప్రక్రియ – బాంజిమన్ S. బ్లిమ్ే",
+    "options": [
+      "A, C only",
+      "B, C only",
+      "C only",
+      "A, B, C"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_210.webp"
+  },
+  {
+    "id": "bio_211",
+    "qno": 211,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This belongs to Psychomotor domine \n మనసిక చలనాతాక రాంగానికి చెాందినది",
+    "options": [
+      "Receiving గ్రహాంచడాం",
+      "Valuing విలువ్కటుడాం",
+      "Organization వ్ావ్స్తథపనాం",
+      "Imitation అనుకరణ"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_211.webp"
+  },
+  {
+    "id": "bio_212",
+    "qno": 212,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "“Extrapolation” is step in this educational objective \n“బహరీ్శనాం” అనునది ఈ విదాాలక్షాాంలోని సోప్నాం",
+    "options": [
+      "Application అనాయాం",
+      "Analysis విశ్లిష్ణ",
+      "Synthesis సాంశ్లిష్ణ",
+      "Understanding అవ్గాహ్న"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_212.webp"
+  },
+  {
+    "id": "bio_213",
+    "qno": 213,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This domine represents emotions, feelings, values, \ninterests, likes, attitudes etc. of a student is \nవిదాారిా యొకక ఉదేాగాలను, అనుభవ్యలను, విలువ్లను, \nఅభిరుచ్చలను, ఇష్పులు, వైఖ్రులు మొదలైన వ్యటిని సూచాంచే రాంగాం",
+    "options": [
+      "Affective domine భావ్యవేశ రాంగాం",
+      "Cognitive domine జ్ఞాన రాంగాం",
+      "Physical domine భౌత్తక రాంగాం",
+      "Psychomotor domine మనసిక చలనాతాక రాంగాం"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_213.webp"
+  },
+  {
+    "id": "bio_214",
+    "qno": 214,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "According to Anderson and Krathwohl classification \n these are belonging to “Factual Knowledge” \n ఆాండరేన్ మరియు క్రాత్ వోల్ వ్రీగకరణ ప్రకరాం ఇది “యదారా \n సాంబాంధ జ్ఞానానికి” చెాందినది",
+    "options": [
+      "Facts, Definitions సతాాలు, నిరాచనాలు",
+      "Theories, Generalizations  సిదాాాంతాలు, స్తధారణీకరణాలు",
+      "Demonstration of Activities   క తాాలను ప్రదరి్ాంచ్చట",
+      "Knowledge about the usage of tools and  instruments   పరికరాలు, స్తమగ్రి వ్యడకనికి సాంబాందిాంచన జ్ఞానాం"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_214.webp"
+  },
+  {
+    "id": "bio_215",
+    "qno": 215,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "According to State Curriculum frame work APSCF- \n2011 number of biological standards to be acquired by \nthe students are \nరాష్ట్ర విదాా ప్రణాళిక పరిధి పత్రాం APSCF- 2011 ప్రకరాం \nవిదాారిా స్తధిాంచ్చలిేన విదాా ప్రమణాల సాంఖ్ా",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "9"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_215.webp"
+  },
+  {
+    "id": "bio_216",
+    "qno": 216,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "“Students will arrange the instruments with speed and \naccurately” is belongs to this educational objective \nవిదాారిా ప్రయోగాం నిరాహాంచడానికి పరికరాలను తారగా, \nఖ్చచతాంగా అమరుచట” అనది ఈ విదాాలక్షాానిు సూచస్ిాంది",
+    "options": [
+      "Imitation అనుకరణ",
+      "Precision స్నిశ్మతతాాం",
+      "Naturalisation సహ్జీకరణాం",
+      "Characterisation శీలస్తథపనాం"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_216.webp"
+  },
+  {
+    "id": "bio_217",
+    "qno": 217,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This is not the advantage of “Lecture Method” \n ఇది “ఉపనాాస పదాత్త” ప్రయోజనాం కదు",
+    "options": [
+      "This is easiest way in teaching methods   ఇది అనీు బోధనాపదాతులకాంట్ట స్లభమైనది",
+      "It will take more time for preparation for a   teacher for teaching   దీనిలో బోధనకు ఉప్ధాాయుడు తయారు కవ్డానికి   ఎకుకవ్ సమయాం అవ్సరాం",
+      "One can teach more people, more content with in   the less time   తకుకవ్ సమయాంలో ఎకుకవ్ మాందికి, ఎకుకవ్   విష్యాలను బోధిాంచవ్చ్చచ",
+      "Can complete syllabus according to time table   కలనిరణయపటిుక ప్రకరాం సిలబస్ పూరిి చేయవ్చ్చచ"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_217.webp"
+  },
+  {
+    "id": "bio_218",
+    "qno": 218,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "According to Thurber and Collate “Lecture \nDemonstration Method” can be used in this \n contest \n ధరొర్, కొల్ిట్ ప్రకరాం“ఉపనాాస ప్రదర్నా పదాత్త” ఈ \nసాందరాాలలో వ్యడవ్చ్చచ \nA) Setting / Posing problem \n సమసాను స షిుాంచడాం \nB) Solving problem \nసమసాను పరిష్కరిాంచడాం \nC) Verification of fact \n విష్య నిరూపణ \nD) Development of skills \n నైపుణాాల అభివ్ దిా",
+    "options": [
+      "A, B only",
+      "A, B, C only",
+      "B, C, D only",
+      "A, B, C, D"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_218.webp"
+  },
+  {
+    "id": "bio_219",
+    "qno": 219,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This is not advantage of Lecture Demonstration method \n ఉపనాాస ప్రదర్నా పదాత్త ప్రయోజనాం కనిది",
+    "options": [
+      "Develop concrete concepts మూరి భావ్నలు కలుగుతాయి",
+      "Develop Scientific attitudes శ్వస్త్రీయ ద కపధాం అభివ్ దిా",
+      "Not a child centred method శ్మశు కేాంద్రిత పదాత్త కదు",
+      "Develops knowledge through direct observations"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_219.webp"
+  },
+  {
+    "id": "bio_220",
+    "qno": 220,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The principle that the “Inductive approach” does not \ndepend \nక్రిాంది వ్యనిలో “ఆగమన ఉపగమాం” ఆధారపడని అభాసన సూత్రాం",
+    "options": [
+      "Formulating Generalization from examples   ఉదాహ్రణాల నుాండి స్తమనీాకరణానిు చేయడాం",
+      "Formulating Generalization from individual items   ప్రత్సాకాంశాం నుాండి స్తమనీాకరణానిు చేయడాం",
+      "Going from concrete concepts to abstract concepts   మూరి విష్యాల నుాండి అమూరి విష్యాలకు",
+      "Abstract concepts to concrete concepts   అమూరి విష్యాల నుాండి మూరి విష్యాలకు"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_220.webp"
+  },
+  {
+    "id": "bio_221",
+    "qno": 221,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Teaching of a single concept done by a pupil teacher to \nacquire teaching skills, using specified teaching skill to a \nsmall number of pupils in a short duration of time is \nబోధనా నైపుణాాల స్తధన కొరకు తకుకవ్ సమయాంలో, తకుకవ్ \nసాంఖ్ాలో గల విదాారుాలకు నిరిాష్ు బోధనా నైపుణాానిు ఉపయోగిాంచ \nఒకే ఒక భావ్నతో ఛాత్రోప్ధాాయుడు చేస్వ బోధన",
+    "options": [
+      "Macro Teaching సూథల బోధన",
+      "Micro Teaching సూక్షమ బోధన",
+      "Peer Teaching బ ాంద బోధన",
+      "Remedial Teaching పరిహారాతాక బోధన"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_221.webp"
+  },
+  {
+    "id": "bio_222",
+    "qno": 222,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "On this method the students listens while the \nteacher is explaining or writing \n ఈ పదాత్తలో ఉప్ధాాయుడు ఉపనాసిసూి లేదా రాతపూరాకాంగా \nవివ్రిసూి ఉాంట్ట విదాారిా విాంట్య ఉాంటాడు",
+    "options": [
+      "Laboratory method ప్రయోగశ్వల పదాత్త",
+      "Scientific method శ్వస్త్రీయ పదాత్త",
+      "Project method ప్రజెకుు పదాత్త",
+      "Lecture method ఉపనాాస పదాత్త"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_222.webp"
+  },
+  {
+    "id": "bio_223",
+    "qno": 223,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The method used to derive specific items from general \nitems is \n స్తధారణ అాంశ్వల నుాంచ ప్రత్సాక విష్యాలను రాబట్టుాందుకు \nఉపయోగిాంచే పదాత్త",
+    "options": [
+      "Laboratory method ప్రయోగశ్వల పదాత్త",
+      "Deductive method నిగమన పదాత్త",
+      "Project method ప్రజెక్ు పదాత్త",
+      "Lecture demonstration method  ఉపనాాస ప్రదర్నా పదాత్త"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_223.webp"
+  },
+  {
+    "id": "bio_224",
+    "qno": 224,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The method used to derive general principles from \nspecific examples \nనిరిాష్ు ఉదాహ్రణల నుాండి స్తమనా సూత్రాలను రాబటుడానికి \nఉపయోగిాంచే పదాత్త",
+    "options": [
+      "Laboratory method ప్రయోగశ్వల పదాత్త",
+      "Inductive method ఆగమన పదాత్త",
+      "Project method ప్రజెక్ు పదాత్త",
+      "Lecture demonstration method"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_224.webp"
+  },
+  {
+    "id": "bio_225",
+    "qno": 225,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "In this method, students find ways to solve problems in \nnatural environment \nఈ పదాత్తలో విదాారుాలు సహ్జ వ్యతావ్రణాంలో సమసాకు పరిష్పకర \nమరాగలు కనిపడతారు",
+    "options": [
+      "Lecture method ఉపనాాస ప్రదర్నా పదాత్త",
+      "Lecture demonstration method   ఉపనాాస ప్రదర్నా పదాత్త",
+      "Laboratory method ప్రయోగశ్వల పదాత్త",
+      "Project method ప్రజెక్ు పదాత్త"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_225.webp"
+  },
+  {
+    "id": "bio_226",
+    "qno": 226,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "To prepare an Aquarium by the pupil, this method can \n be used \n విదాారుాలచే అకేారియాం తయారు చేయిాంచడానికి ఈ క్రిాంది పదాత్తని \n ఉపయోగిస్తిరు",
+    "options": [
+      "Explorative method అనాష్ణ పదాత్త",
+      "Project method ప్రకలపన పదాత్త",
+      "Problem solving method సమస్తా పరిష్పకర పదాత్త",
+      "Demonstration method ప్రదర్నా పదాత్త"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_226.webp"
+  },
+  {
+    "id": "bio_227",
+    "qno": 227,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The best learning Experience among the following \nక్రిాంది వ్యనిలో ఉతిమమైన అభాాసనానుభవ్ాం",
+    "options": [
+      "Direct Experience ప్రతాక్ష అనుభవ్ాం",
+      "Indirect Experience పర్కక్ష అనుభవ్ాం",
+      "Vicarious Experience ప్రత్తనిధా అనుభవ్ాం",
+      "Bilateral Experience దిాప్ర్వ అనుభవ్ాం"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_227.webp"
+  },
+  {
+    "id": "bio_228",
+    "qno": 228,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This is useful in learning Utilization of Natural \nresources \nసహ్జ వ్నరుల వినియోగానికి అభాసనలో ఇవి ఉపకరిస్తియి",
+    "options": [
+      "Demonstrations ప్రదర్నలు",
+      "Field trips క్షేత్ర పరాటనలు",
+      "Experiments ప్రయోగాలు",
+      "Collection of objects వ్స్ిస్వకరణ"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_228.webp"
+  },
+  {
+    "id": "bio_229",
+    "qno": 229,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Fundamental characteristics of a textbook among the \nfollowing \nకిాంది వ్యనిలో ప్ఠాపుసికాం ప్రథమిక లక్షణాలు \nA. Should encourage self-learning \n సాయాం అభాసనానిు ప్రోతేహాంచేదిగా ఉాండాలి \nB. Activities in the textbook should relate to daily \n life \n ప్ఠా పుసికాంలోని క తాాలు దైనాందిన జీవితాంతో \n సాంబాంధానిు కలిగి ఉాండాలి. \nC. Should have scope for cocurricular activities. \n సహ్ప్ఠా కరాక్రమలకు అవ్కశాం ఉాండాలి.",
+    "options": [
+      "A, B only",
+      "B, C only",
+      "A, C only",
+      "A, B, C"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_229.webp"
+  },
+  {
+    "id": "bio_230",
+    "qno": 230,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Total marks in V ogal’s spot check evaluation scale are \n వోగెల్ ప్ఠా పుసికమపనిలో మొతిాం గణన మరుకలు",
+    "options": [
+      "10",
+      "500",
+      "150",
+      "1000"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_230.webp"
+  },
+  {
+    "id": "bio_231",
+    "qno": 231,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "According to R.H White house proposed lay out of \n lecture room cum laboratory is \n R.H వైట్ హౌస్ సూచాంచన ఉపనాాస ప్రయోగశ్వల భూపటలాం \nకొలత",
+    "options": [
+      "45 × 25 feet",
+      "40 × 20 feet",
+      "55 × 25 feet",
+      "25 × 25 feet"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_231.webp"
+  },
+  {
+    "id": "bio_232",
+    "qno": 232,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "“Mobile science Laboratory” first introduced in India by \nమొటుమొదటి “సాంచ్చర ప్రయోగశ్వల”ను భారతదేశాంలో \nరూపొాందిాంచనవ్యరు",
+    "options": [
+      "NCTE",
+      "SITE",
+      "NCERT",
+      "NIEPA"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_232.webp"
+  },
+  {
+    "id": "bio_233",
+    "qno": 233,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This percentage of learning will be done by seeing in \nstudents. \nవిదాారుాలలో చూడటాం దాారా ఇాంత శ్వతాం అభాసనాం జరుగుతుాంది.",
+    "options": [
+      "45%",
+      "83%",
+      "65%",
+      "4%"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_233.webp"
+  },
+  {
+    "id": "bio_234",
+    "qno": 234,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The projected teaching aid from the following. \n కిాంది వ్యనిలో ప్రక్షేపిత బోధనోపకరణాం",
+    "options": [
+      "Epidiascope ఎపిడయోసోకప్",
+      "Diorama డయోరమ",
+      "Peg board పగ్ బోరుి",
+      "Globe గోిబ్"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_234.webp"
+  },
+  {
+    "id": "bio_235",
+    "qno": 235,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Patron of the “school science club” is \n “ప్ఠశ్వల విజ్ఞానశ్వస్త్ర సాంఘాం” యొకక పోష్కుడు",
+    "options": [
+      "Librarian గ్రాంధాలయాధికరి",
+      "Selected student ఎనుుకోబడిన విధాారిా",
+      "Science teacher విజ్ఞానశ్వస్త్ర ఉప్ధాాయులు",
+      "Head master ప్రధానోప్ధాాయులు"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_235.webp"
+  },
+  {
+    "id": "bio_236",
+    "qno": 236,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "This is not the advantage of the objective question \nకిాంది వ్యనిలో లక్షాాతాక ప్రశుల ప్రయోజనాం కనిది.",
+    "options": [
+      "More scope for conceptual expression   భావ్ వ్ాకీికరణకు అవ్కశాం ఎకుకవ్",
+      "having relatability   విశాసనీయతను కలిగి ఉాంటాయి",
+      "No scope for dilemma   సాంధిగథతకు తావు ఉాండదు",
+      "Objectivity in awarding marks   మరుకలు ఇవ్ాడాంలో లక్షాాతాకత ఉాంట్టాంది."
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_236.webp"
+  },
+  {
+    "id": "bio_237",
+    "qno": 237,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The book that records student’s behaviour in special \nsituations is \nప్రత్సాక సాంఘటనలలో విదాారిా చూపే ప్రవ్రినను నమోదుచేస్వ పుసికాం",
+    "options": [
+      "Check list చెక్ లిస్ు",
+      "Cumulative record సాంచత పత్రాం",
+      "Anecdotal record ఎనకోుడల్ రికర్ి",
+      "Progress card ప్రగత్త పత్రాం"
+    ],
+    "correct": 3,
+    "image": "assets/biology/q_237.webp"
+  },
+  {
+    "id": "bio_238",
+    "qno": 238,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "“The activities conducted by pupil under the monitoring \nof the teacher is called educational planning” – said by \n“ఉప్ధాాయుని పరావేక్షణలో విదాారుాలు నిరాహాంచే క తాాల \nసముదాయమే విదాాప్రణాళిక” – అని తెలిపినది",
+    "options": [
+      "Spears సిపయర్ే",
+      "Murre ముర్రే",
+      "Cunning Hamm కనిుాంగ్ హామ్",
+      "W. S. Jacobson W. S. జ్ఞకబ్ సన్"
+    ],
+    "correct": 1,
+    "image": "assets/biology/q_238.webp"
+  },
+  {
+    "id": "bio_239",
+    "qno": 239,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "The principles of curriculum development from \n the following are \n క్రిాంది వ్యనిలో ప్ఠాప్రణాళిక నిరాాణ సూత్రాలు \nA. Diversity, Flexible principle వైవిధాసడలిాంపు సూత్రాం \nB. Activity centred principle క తా కేాంద్రీక త నియమాం \nC. Child centred principle శ్మశు కేాంద్రీక త నియమాం",
+    "options": [
+      "A only",
+      "A, B only",
+      "B, C only",
+      "A, B, C"
+    ],
+    "correct": 4,
+    "image": "assets/biology/q_239.webp"
+  },
+  {
+    "id": "bio_240",
+    "qno": 240,
+    "subject": "biology",
+    "subject_name": "Biological Science",
+    "subject_te": "జీవ శాస్త్రము",
+    "question": "Brass articles in Biological laboratory should be \ncleaned with this \nజీవ్శ్వస్త్ర ప్రయోగశ్వలలోని ఇతిడి వ్స్ివులను దీనితో శుభ్రాం \nచేస్తిరు",
+    "options": [
+      "Spirit సిపరిట్",
+      "Braso బ్రాసో",
+      "Grease గ్రీజ్",
+      "Formalin ఫారాాలిన్"
+    ],
+    "correct": 2,
+    "image": "assets/biology/q_240.webp"
+  }
+]

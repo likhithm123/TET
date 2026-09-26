@@ -1,0 +1,3842 @@
+[
+  {
+    "id": "maths_1",
+    "qno": 1,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Number of two digit numbers that are divisible by 4 is \n4 చే నిశ్శేషంగా భాగంప బడే రండంకెల సంఖ్యల సంఖ్య",
+    "options": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_1.webp"
+  },
+  {
+    "id": "maths_2",
+    "qno": 2,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "LCM of two numbers is 120 and their HCF is 10 if one \nof the number is 30 then the other number is \nరండు సంఖ్యల క. సా. గు 120 మరియు వాటి గ. సా. భా 10 \nఅందులో ఒక సంఖ్య 30 అయితే రండవ సంఖ్య",
+    "options": [
+      "20",
+      "40",
+      "60",
+      "80"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_2.webp"
+  },
+  {
+    "id": "maths_3",
+    "qno": 3,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Which of the following is terminating decimal \nఈ క్రంది వానిలో ఏది అంతమయ్యయ దశంశము",
+    "options": [
+      "77 210",
+      "21 60",
+      "8 15",
+      "12 55"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_3.webp"
+  },
+  {
+    "id": "maths_4",
+    "qno": 4,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Which of the following is not a prime \nఈ క్రంది వానిలో ప్రధాన సంఖ్య కానిది",
+    "options": [
+      "42 + 52",
+      "52 + 62",
+      "62 + 72",
+      "72 + 82"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_4.webp"
+  },
+  {
+    "id": "maths_5",
+    "qno": 5,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The smallest three digit number that is divisible by 4, 6 \nand 8 is \n4, 6 మరియు 8 ల చే నిశ్శేషంగా భాగంచ బడే అతి చినన మూడంకెల \nసంఖ్య",
+    "options": [
+      "108",
+      "114",
+      "120",
+      "144"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_5.webp"
+  },
+  {
+    "id": "maths_6",
+    "qno": 6,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "HCF of 75, 105 and 175 is \n75, 105 మరియు 175 ల గ. సా.భా",
+    "options": [
+      "5",
+      "7",
+      "15",
+      "35"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_6.webp"
+  },
+  {
+    "id": "maths_7",
+    "qno": 7,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Total number of factors of 600 is \n600 నకు గల మొతతం కారణంకము ల సంఖ్య",
+    "options": [
+      "20",
+      "24",
+      "30",
+      "36"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_7.webp"
+  },
+  {
+    "id": "maths_8",
+    "qno": 8,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "A rational number in between \n1\n4 and \n1\n2 is \n1\n4 మరియు \n1\n2 ల మధ్య గల ఒక అకరణీయ సంఖ్య",
+    "options": [
+      "3 7",
+      "4 7",
+      "5 8",
+      "6 11"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_8.webp"
+  },
+  {
+    "id": "maths_9",
+    "qno": 9,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The Average of 4.2, 3.8 and 7.6 is \n4.2 , 3.8 మరియు 7.6 యొకక సగటు",
+    "options": [
+      "4.2",
+      "4.8",
+      "5.2",
+      "4.6"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_9.webp"
+  },
+  {
+    "id": "maths_10",
+    "qno": 10,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Half of 0.1 is \n0.1 నందు సగము",
+    "options": [
+      "0.02",
+      "0.5",
+      "0.05",
+      "0.2"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_10.webp"
+  },
+  {
+    "id": "maths_11",
+    "qno": 11,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "LCM of 20, 25 and 30 is \n20, 25 మరియు 30 ల క. సా. గు",
+    "options": [
+      "240",
+      "120",
+      "150",
+      "300"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_11.webp"
+  },
+  {
+    "id": "maths_12",
+    "qno": 12,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Which of the following numbers are co-prime \nఈ క్రంది వాటిలో ఏ సంఖ్యలు సాపేక్షప్రధానంకాలు",
+    "options": [
+      "120, 144",
+      "215, 216",
+      "35, 165",
+      "121, 143"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_12.webp"
+  },
+  {
+    "id": "maths_13",
+    "qno": 13,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Number of digits in the square of a five-digit number \nis \nఐదు అంకెల సంఖ్య యొకక వరగము లో ఉండు అంకెల సంఖ్య",
+    "options": [
+      "9 or 10  9 లేదా 10",
+      "10 or 11  10 లేదా 11",
+      "10 or 12  10 లేదా 12",
+      "11 or 12  11 లేదా 12"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_13.webp"
+  },
+  {
+    "id": "maths_14",
+    "qno": 14,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "How many consecutive odd positive integers added to \nget 144 \nఎనిన వరుస ధ్న బేసి పూరణ సంఖ్యల మొతతము 144 అగును",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_14.webp"
+  },
+  {
+    "id": "maths_15",
+    "qno": 15,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Total number of three-digits perfect squares \nమూడు అంకెలు గల పరిపూరణ వరగ సంఖ్యలు ఎనిన",
+    "options": [
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_15.webp"
+  },
+  {
+    "id": "maths_16",
+    "qno": 16,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "which of the following is not a perfect square \nఈ క్రంది వానిలో ఖ్చిిత వరగము కానిది",
+    "options": [
+      "1444",
+      "2744",
+      "3844",
+      "7744"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_16.webp"
+  },
+  {
+    "id": "maths_17",
+    "qno": 17,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "(3.2)3+(1.8)3\n(3.2)2−5.76+(1.8)2",
+    "options": [
+      "5",
+      "5.2",
+      "5.1",
+      "6"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_17.webp"
+  },
+  {
+    "id": "maths_18",
+    "qno": 18,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The smallest-square number that is divisible by each of \nthe numbers 4, 9 and 10 is \n4, 9 మరియు 10 ల చే భాగంప బడు కనిషట వరగ సంఖ్య",
+    "options": [
+      "180",
+      "360",
+      "900",
+      "1600"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_18.webp"
+  },
+  {
+    "id": "maths_19",
+    "qno": 19,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "√3375\n3\n =",
+    "options": [
+      "15",
+      "25",
+      "35",
+      "45"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_19.webp"
+  },
+  {
+    "id": "maths_20",
+    "qno": 20,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "1013 =",
+    "options": [
+      "100030001",
+      "1003001",
+      "1030301",
+      "103301"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_20.webp"
+  },
+  {
+    "id": "maths_21",
+    "qno": 21,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "73 − 63 =",
+    "options": [
+      "1 + 7 × 6 × 2",
+      "1 + 7 × 6 × 3",
+      "1 + 7 × 6 × 1",
+      "1 + 7 × 6 × 4"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_21.webp"
+  },
+  {
+    "id": "maths_22",
+    "qno": 22,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Unit digit of cube of 888 is \n888 యొకక ఘనంలోని ఒకట్ల సాానం లో ఉండు అంకె",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_22.webp"
+  },
+  {
+    "id": "maths_23",
+    "qno": 23,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "√13225",
+    "options": [
+      "105",
+      "115",
+      "125",
+      "135"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_23.webp"
+  },
+  {
+    "id": "maths_24",
+    "qno": 24,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "100012 =",
+    "options": [
+      "1002001",
+      "100020001",
+      "10000200001",
+      "100000020000001"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_24.webp"
+  },
+  {
+    "id": "maths_25",
+    "qno": 25,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "35−33\n25−23 =",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_25.webp"
+  },
+  {
+    "id": "maths_26",
+    "qno": 26,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "2×34×25\n9×42 =",
+    "options": [
+      "24",
+      "36",
+      "18",
+      "27"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_26.webp"
+  },
+  {
+    "id": "maths_27",
+    "qno": 27,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The distance between Earth and Moon is \n384,000,000m. Express it in standard form \nభూమి మరియు చంద్రుని మధ్య దూరం 384,000,000 మీ అయిన \nదీనిని ప్రామాణిక రూపంలో వ్రాయగా",
+    "options": [
+      "3.84 × 106",
+      "3.84 × 108",
+      "0.384 × 1010",
+      "3.84 × 109"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_27.webp"
+  },
+  {
+    "id": "maths_28",
+    "qno": 28,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Size of a plant cell is 0.00001275m express it into \nstandard form \nఒక వృక్ష కణ పరిమాణము 0.00001275 మీ అయితే దీని \nప్రామాణిక రూపం",
+    "options": [
+      "1275 × 10−9",
+      "1.275 × 108",
+      "1.275 × 10−5",
+      "1.275 × 10−6"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_28.webp"
+  },
+  {
+    "id": "maths_29",
+    "qno": 29,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "(\n1\n3)\n−2\n− (\n1\n2)\n−3\n=",
+    "options": [
+      "1",
+      "9",
+      "8",
+      "2"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_29.webp"
+  },
+  {
+    "id": "maths_30",
+    "qno": 30,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If (−3)𝑚−1 × (−3)6 = (−3)7 then 𝑚 = \n(−3)𝑚−1 × (−3)6 = (−3)7 అయితే 𝑚 =",
+    "options": [
+      "0",
+      "-1",
+      "1",
+      "2"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_30.webp"
+  },
+  {
+    "id": "maths_31",
+    "qno": 31,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "3𝑚+2−3𝑚−2\n3𝑚+1−3𝑚−1 =",
+    "options": [
+      "9 10",
+      "10 3",
+      "80 9",
+      "3"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_31.webp"
+  },
+  {
+    "id": "maths_32",
+    "qno": 32,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Which of the following is an irrational number \nఈ క్రంది వానిలో ఏది కరణీయ సంఖ్య",
+    "options": [
+      "√50 − √18 − √8",
+      "√20 × √5",
+      "(√7 + √5)(√7 − √5)",
+      "(√3 + 1) 2"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_32.webp"
+  },
+  {
+    "id": "maths_33",
+    "qno": 33,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "√1 + 3 + 5 + 7 + 9 + 11 + 13 + 15 =",
+    "options": [
+      "8",
+      "7",
+      "15",
+      "10"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_33.webp"
+  },
+  {
+    "id": "maths_34",
+    "qno": 34,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If 𝑥 = 2 − √3 then 𝑥 +\n1\n𝑥 = \n𝑥 = 2 − √3 అయితే 𝑥 +\n1\n𝑥 =",
+    "options": [
+      "4",
+      "2√3",
+      "2",
+      "√3"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_34.webp"
+  },
+  {
+    "id": "maths_35",
+    "qno": 35,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "(5 + √5)(√5 − 5) =",
+    "options": [
+      "15",
+      "20",
+      "-20",
+      "-15"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_35.webp"
+  },
+  {
+    "id": "maths_36",
+    "qno": 36,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "An irrational number between 2 and 3 is \n2 మరియు 3 ల మధ్యగల ఒక కరణీయ సంఖ్య",
+    "options": [
+      "√2",
+      "√3",
+      "√5",
+      "√10"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_36.webp"
+  },
+  {
+    "id": "maths_37",
+    "qno": 37,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The ratio of 90cm to 1.5m is \n90 సం.మీ కు 1.5 మీ కు గల నిషపతిత",
+    "options": [
+      "5:3",
+      "6:1",
+      "3:5",
+      "1:6"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_37.webp"
+  },
+  {
+    "id": "maths_38",
+    "qno": 38,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "An Equivalent ratio of 6:4 is \n6:4 కు ఒక సమాన (తులయ) నిషపతిత",
+    "options": [
+      "16:14",
+      "2:3",
+      "4:6",
+      "3:2"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_38.webp"
+  },
+  {
+    "id": "maths_39",
+    "qno": 39,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If ₹60 is divided in the ratio 1:2 between Krithi and \nKiran, the share of Kiran is \nకృతి, కిరణ్ లకు ₹60 ను 1:2 నిషపతిత లో పంచిన, కిరణ్ వాటా",
+    "options": [
+      "₹40",
+      "₹20",
+      "₹30",
+      "₹10"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_39.webp"
+  },
+  {
+    "id": "maths_40",
+    "qno": 40,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The ratio of 500ml to 2liters is \n500 మిల్లల ల్ల, 2 ల్లట్రుల కి నిషపతిత",
+    "options": [
+      "25:1",
+      "1:4",
+      "50:1",
+      "4:1"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_40.webp"
+  },
+  {
+    "id": "maths_41",
+    "qno": 41,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Which of the following pair of ratios are in proportion? \nక్రంది వానిలో ఏ రండు నిషపతుతలు అనుపాతంలో ఉననవి?",
+    "options": [
+      "1:5, 3:5",
+      "2:9, 18:81",
+      "15:45, 5:25",
+      "4:12, 9:24"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_41.webp"
+  },
+  {
+    "id": "maths_42",
+    "qno": 42,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Which of the following is in proportion? \nక్రంది వానిలో ఏది అనుపాతంలో ఉననవి ?",
+    "options": [
+      "4, 6, 8, 12",
+      "33, 44, 75, 80",
+      "1, 2, 3, 4",
+      "3, 4, 7, 21"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_42.webp"
+  },
+  {
+    "id": "maths_43",
+    "qno": 43,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Which statement among the following is false? \nక్రంది వానిలో ఏది అసతయ ప్రవచనం?",
+    "options": [
+      "16:4 = 20:30",
+      "12:18 = 14:21",
+      "1:2 = 3:4",
+      "21:6 = 25:6"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_43.webp"
+  },
+  {
+    "id": "maths_44",
+    "qno": 44,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If \n1\n5 is expressed as percent, its value is \n1\n5 ను శతంగా వయకత పరిస్తత దాని విలువ",
+    "options": [
+      "50%",
+      "25%",
+      "20%",
+      "40%"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_44.webp"
+  },
+  {
+    "id": "maths_45",
+    "qno": 45,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Converting \n5\n4 to percent is \n5\n4 ను శతంగా మారిగ",
+    "options": [
+      "150%",
+      "80%",
+      "120%",
+      "125%"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_45.webp"
+  },
+  {
+    "id": "maths_46",
+    "qno": 46,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Converting the decimal 0.75 to percent is \n0.75 అనే దశంశమును శతముగా మారిగా",
+    "options": [
+      "7.5%",
+      "175%",
+      "75%",
+      "25%"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_46.webp"
+  },
+  {
+    "id": "maths_47",
+    "qno": 47,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The value of 75% of 12 is \n12 లో 75% యొకక విలువ",
+    "options": [
+      "9",
+      "75",
+      "900",
+      "10"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_47.webp"
+  },
+  {
+    "id": "maths_48",
+    "qno": 48,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The fractional form of 25% is \n25% యొకక భినన రూపం",
+    "options": [
+      "3 4",
+      "25 10",
+      "2 10",
+      "1 4"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_48.webp"
+  },
+  {
+    "id": "maths_49",
+    "qno": 49,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If a bicycle is bought for ₹6000 and sold it for ₹5000, \nthen the loss is \nఒక సైకిల్ ₹6000 కొని, ₹5000 లకు అమిినట్లలతే నషటం",
+    "options": [
+      "16 2 3%",
+      "18%",
+      "20%",
+      "33 1 3%"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_49.webp"
+  },
+  {
+    "id": "maths_50",
+    "qno": 50,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If the cost of a toy is ₹700 and it is sold by making a \nprofit of 20% then its selling price is \nఒక బొమి ఖ్రీదు (కొననవెల) ₹700 మరియు దానిని 20% \nలాభమునకు అమిితే, దీని అమికపు వెల",
+    "options": [
+      "₹720",
+      "₹840",
+      "₹560",
+      "₹780"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_50.webp"
+  },
+  {
+    "id": "maths_51",
+    "qno": 51,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "An item marked at ₹840 and sold for ₹714 then the \ndiscount percentage is \nఒక వస్తతవు ప్రకట్న వెల ₹840 మరియు అమికపువెల ₹714 \nఅయిన రుస్తము శతం",
+    "options": [
+      "10",
+      "12",
+      "24",
+      "15"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_51.webp"
+  },
+  {
+    "id": "maths_52",
+    "qno": 52,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "A shop gives 20% discount. If a dress is marked at \n₹1200, then the sale price of that dress is \nఒక దుకాణంలో వస్తతవులపై 20% రుస్తము ఇసాతరు. ఒక డ్రస్ పై \nప్రకట్న వెల ₹1200 అయితే అమికపు వెల",
+    "options": [
+      "₹1440",
+      "₹1000",
+      "₹960",
+      "₹860"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_52.webp"
+  },
+  {
+    "id": "maths_53",
+    "qno": 53,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "A shop gives 20% discount. If a pair of shoes marked \nat ₹750, then the sale price of that item is \nఒక దుకాణంలో వస్తతవులపై 20% రుస్తము ఇసాతరు. ఒక జత \nచెప్పుల పై ప్రకట్న వెల ₹750 అయితే వాటి అమికపు వెల",
+    "options": [
+      "₹900",
+      "₹700",
+      "₹600",
+      "₹640"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_53.webp"
+  },
+  {
+    "id": "maths_54",
+    "qno": 54,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If the cost of a table is ₹3500 and it is sold at ₹4200, \nthen the profit on it is \nఒక టేబుల్ ఖ్రీదు ₹3500 మరియు దానిని అమిినవెల ₹4200 \nఅయితే దాని పై లాభం",
+    "options": [
+      "20%",
+      "25%",
+      "7%",
+      "10%"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_54.webp"
+  },
+  {
+    "id": "maths_55",
+    "qno": 55,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The selling price of the fan, which bought for ₹560 and \nexpenses of ₹40 made on its repairs with a profit of \n5%, is \n₹560 లతో కొనన ఒక ఫ్యయన్ మరమితుతలకు ₹40 ఖ్రుి చేసి, 5% \nలాభమునకు అమిిన, దాని అమికపు వెల",
+    "options": [
+      "₹540",
+      "₹630",
+      "₹500",
+      "₹520"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_55.webp"
+  },
+  {
+    "id": "maths_56",
+    "qno": 56,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If P= ₹4000, R= 15% and T= 2years then the simple \ninterest is \nP= ₹4000, R= 15% మరియు T= 2సం∥లు అయితే \nసామానయ వడ్డీ",
+    "options": [
+      "₹1500",
+      "₹1000",
+      "₹1200",
+      "₹2000"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_56.webp"
+  },
+  {
+    "id": "maths_57",
+    "qno": 57,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "What is the principal, if simple interest got ₹1080 for \n3years at 18% of rate of interest per annum is? \n3 సంవతసరములకు, సంవతసరానికి 18% వడ్డీ రేటు చొప్పున \n₹1080 సాధారణ వడ్డీ వచిినట్లయితే అసలు ఎంత?",
+    "options": [
+      "₹3000",
+      "₹2500",
+      "₹4000",
+      "₹2000"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_57.webp"
+  },
+  {
+    "id": "maths_58",
+    "qno": 58,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The amount to be paid at the end of 2 years on ₹2400 \nat 5% per annum compounded annually is \nసంవతసరానికి ఒకసారి వడ్డీ చెల్లంచు పదదతిన ₹2400 పై \nసంవతసరమునకు 5% వడ్డీరేటుతో 2 సంవతసరాల చివర \nచెల్లంచాల్సన మొతతం",
+    "options": [
+      "₹2864",
+      "₹2564",
+      "₹2646",
+      "₹2764"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_58.webp"
+  },
+  {
+    "id": "maths_59",
+    "qno": 59,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "A T.V was bought at a price of ₹21,000. After one \nyear the value of the T.V was depreciated by 5%. Then \nthe value of the T.V after one year is \nఒక ట్ల్విజన్ ₹21000 లకు కొనబడంది. ఒక సంవతసరం \nతరువాత దాని విలువలో తరుగుదల 5% అయితే ఒక సంవతసరం \nతరువాత ఆ ట్ల్విజన్ విలువ",
+    "options": [
+      "₹19950",
+      "₹20500",
+      "₹18950",
+      "₹20000"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_59.webp"
+  },
+  {
+    "id": "maths_60",
+    "qno": 60,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The compound interest on ₹12600 for 2 years at 10% \nper annum compounded annually is \nసంవతసరానికి ఒకసారి తిరిగ కటుట పదదతిన ₹12600 కు 10% \nవడ్డీరేటు చొప్పున 2 సంవతసరాలకు అగు చక్రవడ్డీ",
+    "options": [
+      "₹2520",
+      "₹2646",
+      "₹15246",
+      "₹13246"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_60.webp"
+  },
+  {
+    "id": "maths_61",
+    "qno": 61,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "A line segments has _____ end points \nఒక రేఖాఖ్ండానికి గల అంతయ బందువుల సంఖ్య _____",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_61.webp"
+  },
+  {
+    "id": "maths_62",
+    "qno": 62,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The lines which do not meet are said to be ______ \nlines \nపరసపరం ఖ్ండంచుకొనని రేఖ్లను _____రేఖ్లు అంటాము",
+    "options": [
+      "Perpendicular లంబ",
+      "Concurrent మిళిత",
+      "Intersecting ఖ్ండన",
+      "Parallel సమాంతర"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_62.webp"
+  },
+  {
+    "id": "maths_63",
+    "qno": 63,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "How many straight lines can pass through two given \npoints? \nఇవవబడన రండు బందువుల గుండా ఎనిన సరళ రేఖ్లు పోతాయి?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "Infinite అనంతం"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_63.webp"
+  },
+  {
+    "id": "maths_64",
+    "qno": 64,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The measure of a right angle is \nలంబకోణం యొకక కొలత",
+    "options": [
+      "180°",
+      "0°",
+      "90°",
+      "45°"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_64.webp"
+  },
+  {
+    "id": "maths_65",
+    "qno": 65,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Sum of three angles in a triangle is equal to ______ \nright angles \nత్రిభుజం లోని మూడు కోణల మొతతం ______ లంబ కోణలు",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_65.webp"
+  },
+  {
+    "id": "maths_66",
+    "qno": 66,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If the measure of an angle is 120°, it is _______angle \nఒక కోణం యొకక కొలత 120° అయితే అది _______ కోణం",
+    "options": [
+      "Acute angle అలప కోణం",
+      "Right angle లంబ కోణం",
+      "Obtuse angle అధిక కోణం",
+      "Straight angle సరళ కోణం"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_66.webp"
+  },
+  {
+    "id": "maths_67",
+    "qno": 67,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The angle between the two perpendicular lines is \nరండు లంబ రేఖ్ల మధ్య కోణం",
+    "options": [
+      "0°",
+      "90°",
+      "180°",
+      "45°"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_67.webp"
+  },
+  {
+    "id": "maths_68",
+    "qno": 68,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "In an equilateral triangle, the measure of each interior \nangle of it is \nఒక సమబాహు త్రిభుజంలో, దాని ప్రతి అంతర కోణం కొలత",
+    "options": [
+      "50°",
+      "90°",
+      "60°",
+      "45°"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_68.webp"
+  },
+  {
+    "id": "maths_69",
+    "qno": 69,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The lengths of the sides of a triangle are 7cm, 8cm, \n7cm. So it is a _______ triangle \nఒక త్రిభుజ భుజాల పొడవులు 7సం. మీ, 8 సం. మీ, 7 సం. మీ. \nఅయితే అది ఒక _______ త్రిభుజం",
+    "options": [
+      "Scalene విషమబాహు",
+      "Isosceles సమదివబాహు",
+      "Equilateral సమబాహు",
+      "Right angled లంబకోణ"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_69.webp"
+  },
+  {
+    "id": "maths_70",
+    "qno": 70,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The sum of the measures of all interior of a triangle is \nఒక త్రిభుజంలో దాని అన్నన అంతర కోణల కొలతల మొతతం",
+    "options": [
+      "60°",
+      "120°",
+      "90°",
+      "180°"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_70.webp"
+  },
+  {
+    "id": "maths_71",
+    "qno": 71,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The sum of the measures of all the interior angles of a \nconvex quadrilateral is \nఒక కుంభాకార చతురుుజం యొకక అన్నన అంతరకోణల కొలతల \nమొతతం",
+    "options": [
+      "360°",
+      "180°",
+      "90°",
+      "270°"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_71.webp"
+  },
+  {
+    "id": "maths_72",
+    "qno": 72,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The measure of each interior angle of a rectangle is \nఒక దీరఘచతురస్రంలో ప్రతి అంతరకోణం కొలత",
+    "options": [
+      "60°",
+      "90°",
+      "120°",
+      "45°"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_72.webp"
+  },
+  {
+    "id": "maths_73",
+    "qno": 73,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The name of a polygon having 6 sides is \n6 భుజాలు కల్గన బహుభుజి యొకక పేరు",
+    "options": [
+      "Octagon అషటభుజి",
+      "Pentagon పంచభుజి",
+      "Decagon దశభుజి",
+      "Hexagon షడుుజి"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_73.webp"
+  },
+  {
+    "id": "maths_74",
+    "qno": 74,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Which of the following is not a polygon? \nక్రంది వానిలో ఏది బహుభుజి కాదు?",
+    "options": [
+      "Rectangle దీరఘచతురస్రం",
+      "Hexagon షడుుజి",
+      "Triangle త్రిభుజం",
+      "Circle వృతతం"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_74.webp"
+  },
+  {
+    "id": "maths_75",
+    "qno": 75,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "In a circle, the line segment which join the centre of \nthe circle and any point on the circle is \nఒక వృతతంలో, వృతతకంద్రమును మరియు వృతతం పై ఏదేని \nబందువును కలుపు రేఖాఖ్ండము",
+    "options": [
+      "Diameter వాయసం",
+      "Radius వాయసారాం",
+      "Chord జాయ",
+      "Arc చాపం"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_75.webp"
+  },
+  {
+    "id": "maths_76",
+    "qno": 76,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The line segment which join any two points on a circle \nis \nఒక వృతతం పై ఏ రండు బందువుల నైన కలుపు రేఖాఖ్ండము",
+    "options": [
+      "Segment of the circle వృతత ఖ్ండము",
+      "Radius వాయసారాం",
+      "Chord జాయ",
+      "Arc చాపం"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_76.webp"
+  },
+  {
+    "id": "maths_77",
+    "qno": 77,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The longest chord in a circle is \nఒక వృతతంలో అతి పెదద (పొడవైన) జాయ",
+    "options": [
+      "Diameter వాయసం",
+      "Radius వాయసారాం",
+      "Chord జాయ",
+      "Arc చాపం"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_77.webp"
+  },
+  {
+    "id": "maths_78",
+    "qno": 78,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "In a circle, angles in the same segment are \nఒక వృతతంలో ఒక వృతత ఖ్ండంలోని కోణలు",
+    "options": [
+      "Supplementary సంపూరకాలు",
+      "Complementary పూరకాలు",
+      "Conjugate angles సంయుగి కోణలు",
+      "Equal సమానం  (5)"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_78.webp"
+  },
+  {
+    "id": "maths_79",
+    "qno": 79,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The measure of the angle formed in a semicircle at its \ncentre is \nఒక అరధవృతతంలో దాని కంద్రం వదద ఏరపడన కోణం కొలత",
+    "options": [
+      "360°",
+      "90°",
+      "180°",
+      "270°"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_79.webp"
+  },
+  {
+    "id": "maths_80",
+    "qno": 80,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Measure of the angle subtended by a diameter in a \nsemicircle is \nఒక అరధవృతతంలో దాని వాయసం వలన ఏరపడన కోణం కొలత",
+    "options": [
+      "45°",
+      "50°",
+      "90°",
+      "120°"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_80.webp"
+  },
+  {
+    "id": "maths_81",
+    "qno": 81,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "ABCD is a cyclic quadrilateral and ∠𝐴 = 50° then \n∠𝐶 = \nABCD ఒక చక్రయ చతురుుజం మరియు ∠𝐴 = 50° అయితే \n∠𝐶 =",
+    "options": [
+      "50°",
+      "130°",
+      "180°",
+      "100°"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_81.webp"
+  },
+  {
+    "id": "maths_82",
+    "qno": 82,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The angle between a tangent to a circle and the radius \nat the point of contact is \nఒక వృతత సపరేరేఖ్కు, సపరేబందువు గుండా గీచిన వాయసారాధనికి \nమధ్య కోణము",
+    "options": [
+      "60°",
+      "30°",
+      "45°",
+      "90°"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_82.webp"
+  },
+  {
+    "id": "maths_83",
+    "qno": 83,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "A tangent to a circle intersects it in ______ point(s) \nవృతాతనిన, ఒక సపరేరేఖ్ ______ బందువు(ల) వదద ఖ్ండస్తతంది",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_83.webp"
+  },
+  {
+    "id": "maths_84",
+    "qno": 84,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "A secant of a circle intersects it in _____ point(s) \nఛేదన రేఖ్, వృతాతనిన ______ బందువు(ల) వదద ఖ్ండస్తతంది",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_84.webp"
+  },
+  {
+    "id": "maths_85",
+    "qno": 85,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If number of observations 𝑛 is odd then the \nobservation which becomes the median is \nరాశుల సంఖ్య 𝑛 బేసి సంఖ్య అయితే మధ్యగతము అనేది",
+    "options": [
+      "( 𝑛 2) th",
+      "( 𝑛+1 2 ) th",
+      "( 𝑛+3 2 ) th",
+      "2𝑛 th"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_85.webp"
+  },
+  {
+    "id": "maths_86",
+    "qno": 86,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Mode of the data 2, 2, 2, 3, 3, 3, 4, 4, 4, x is 4. Value of \nx is \n2, 2, 2, 3, 3, 3, 4, 4, 4, x ల బాహుళకము 4 అయిన x విలువ",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_86.webp"
+  },
+  {
+    "id": "maths_87",
+    "qno": 87,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Mode = 𝑙 + [\n𝑓1−𝑓0\n2𝑓1−𝑓0−𝑓2\n] × ℎ. Here 𝑙 means \nబాహుళకము = 𝑙 + [\n𝑓1−𝑓0\n2𝑓1−𝑓0−𝑓2\n] × ℎ .నందు 𝑙 అనగా",
+    "options": [
+      "lower boundary of model class  బాహుళక తరగతి దిగువ హదుద",
+      "upper boundary of model class  బాహుళక తరగతి ఎగువ హదుద",
+      "length of model class  బాహుళక తరగతి పొడవు",
+      "frequency of model class   బాహుళక తరగతి పౌన:పునయము"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_87.webp"
+  },
+  {
+    "id": "maths_88",
+    "qno": 88,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The mean of first 9 prime numbers is \nమొదటి 9 ప్రధాన సంఖ్యల సరాసరి",
+    "options": [
+      "2 9",
+      "11 1 9",
+      "11",
+      "9"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_88.webp"
+  },
+  {
+    "id": "maths_89",
+    "qno": 89,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Father of statistics \nసాంఖ్యకశసర పితామహుడు",
+    "options": [
+      "Pascal",
+      "Libneitz",
+      "Sir Ronald A. Fisher",
+      "Selvistar"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_89.webp"
+  },
+  {
+    "id": "maths_90",
+    "qno": 90,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If the mean of 2, 3, 4, 5, x is 5 then value of x is \n2, 3, 4, 5, x ల యొకక సగటు 5 అయిన x విలువ",
+    "options": [
+      "3",
+      "11",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_90.webp"
+  },
+  {
+    "id": "maths_91",
+    "qno": 91,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Mean of 10 numbers is 7 and another 15 numbers is \n12, then mean of those 25 numbers is \n10 సంఖ్యల సగటు 7, మరో 15 సంఖ్యల సగటు 12 అయితే మొతతం \n25 సంఖ్యల సగటు",
+    "options": [
+      "25",
+      "19",
+      "10",
+      "250"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_91.webp"
+  },
+  {
+    "id": "maths_92",
+    "qno": 92,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Mean of first 100 natural numbers is \nమొదటి 100 సహజ సంఖ్యల సగటు",
+    "options": [
+      "48.5",
+      "50.5",
+      "50",
+      "51.5"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_92.webp"
+  },
+  {
+    "id": "maths_93",
+    "qno": 93,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Median of \n𝑥\n4,𝑥, \n𝑥\n5 , \n𝑥\n3, \n𝑥\n2 is 5 then value of 𝑥 \n𝑥\n4,𝑥, \n𝑥\n5 , \n𝑥\n3, \n𝑥\n2 ల మధ్యగతం 5 అయిన 𝑥 విలువ",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_93.webp"
+  },
+  {
+    "id": "maths_94",
+    "qno": 94,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Average of 5 consecutive numbers is 16 the biggest \nnumber is \n5 వరుస సంఖ్యల సరాసరి 16 అయిన ఆ సంఖ్యల లోకెలాల పెదద సంఖ్య",
+    "options": [
+      "21",
+      "19",
+      "20",
+      "18"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_94.webp"
+  },
+  {
+    "id": "maths_95",
+    "qno": 95,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Median of \n3\n4,\n1\n2, \n2\n3 , \n1\n6, \n7\n12 is \n3\n4,\n1\n2, \n2\n3 , \n1\n6, \n7\n12 ల మధ్యగతము",
+    "options": [
+      "7 12",
+      "1 6",
+      "2 3",
+      "3 4"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_95.webp"
+  },
+  {
+    "id": "maths_96",
+    "qno": 96,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Mode of the data 2, 3, 4, 6, 3, 5, 8, 4, 3 is \n2, 3, 4, 6, 3, 5, 8, 4, 3 ల బాహుళకము",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "6"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_96.webp"
+  },
+  {
+    "id": "maths_97",
+    "qno": 97,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If the sum and product of zeros of a quadratic \npolynomial are 3 and -2 then the quadratic polynomial \nis \n3 మరియు -2 ల శూనయల మొతతము, మరియు లబదములుగా గల \nవరగ బహుపది",
+    "options": [
+      "𝑥2 + 3𝑥 + 2",
+      "𝑥2 − 3𝑥 − 2",
+      "𝑥2 + 3𝑥 − 2",
+      "𝑥2 − 3𝑥 + 2"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_97.webp"
+  },
+  {
+    "id": "maths_98",
+    "qno": 98,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The degree of the polynomial 𝑥5 − 𝑥4 + 3 is \n𝑥5 − 𝑥4 + 3 అనే బాహుపది పరిమాణము",
+    "options": [
+      "5",
+      "4",
+      "9",
+      "10"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_98.webp"
+  },
+  {
+    "id": "maths_99",
+    "qno": 99,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If P(x)= 5𝑥2 − 3𝑥 + 7 then P(3) is \n P(x)= 5𝑥2 − 3𝑥 + 7 అయిన P(3) విలువ",
+    "options": [
+      "52",
+      "48",
+      "45",
+      "43"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_99.webp"
+  },
+  {
+    "id": "maths_100",
+    "qno": 100,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The zero of the polynomial P(x)= 2𝑥 + 1 is \nP(x)= 2𝑥 + 1 యొకక శూనయ విలువ",
+    "options": [
+      "1 2",
+      "1",
+      "− 1 2",
+      "0"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_100.webp"
+  },
+  {
+    "id": "maths_101",
+    "qno": 101,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Roots of the quadratic equation 𝑥2 − 3𝑥 − 10 = 0 are \n𝑥2 − 3𝑥 − 10 = 0 అనే వరగ సమీకరణము మూలాలు",
+    "options": [
+      "-2 or 5",
+      "2 or -5",
+      "2 or 5",
+      "-2 or -5"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_101.webp"
+  },
+  {
+    "id": "maths_102",
+    "qno": 102,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "One example of a binomial of degree 35 is \n35 పరిమాణం గల దివపదికి ఒక ఉదాహరణ",
+    "options": [
+      "𝑥30 + 𝑥5",
+      "2𝑥34 + 𝑥1",
+      "3𝑥35 − 4",
+      "𝑥30 + 45"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_102.webp"
+  },
+  {
+    "id": "maths_103",
+    "qno": 103,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "A polynomial of degree 2 is \nపరిమాణము 2 గా గల బహుపది",
+    "options": [
+      "linear polynomial రేఖీయ బహుపది",
+      "Quadratic polynomial వరగ బహుపది",
+      "Cubic polynomial ఘన బహుపది",
+      "Zero polynomial శూనయ బహుపది"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_103.webp"
+  },
+  {
+    "id": "maths_104",
+    "qno": 104,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The number of solutions for a linear equation in two \nvariables \nరండు చరరాశులలో రేఖీయ సమీకరణనికి గల సాధ్నల సంఖ్య",
+    "options": [
+      "Unique solution  ఏకైక సాధ్న ఉంటుంది",
+      "Only two solutions  రండు సాధ్నలు మాత్రమే ఉంటాయి",
+      "Infinitely many solutions  అనంత సాధ్నలు ఉంటాయి",
+      "No solution  సాధ్నలు ఉండవు"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_104.webp"
+  },
+  {
+    "id": "maths_105",
+    "qno": 105,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If 𝛼, 𝛽, 𝛾 are the roots of cubic polynomial \n𝑎𝑥3 + 𝑏𝑥2 + 𝑐𝑥 + 𝑑 then 𝛼 ∙ 𝛽 ∙ 𝛾 = \n𝛼, 𝛽, 𝛾 లు 𝑎𝑥3 + 𝑏𝑥2 + 𝑐𝑥 + 𝑑 యొకక మూలాలు అయిన \n𝛼 ∙ 𝛽 ∙ 𝛾 =",
+    "options": [
+      "− 𝑏 𝑎",
+      "𝑐 𝑎",
+      "− 𝑑 𝑎",
+      "𝑏 𝑎"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_105.webp"
+  },
+  {
+    "id": "maths_106",
+    "qno": 106,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Two consecutive odd positive integers whose sum of \nsquares is 290, then that numbers are \nరండు వరుస ధ్న బేసి సంఖ్యల వరాగల మొతతం 290 అయిన ఆ \nసంఖ్యలు",
+    "options": [
+      "11, 13",
+      "13, 15",
+      "21, 23",
+      "15, 17"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_106.webp"
+  },
+  {
+    "id": "maths_107",
+    "qno": 107,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The discriminant of the equation 3𝑥2 − 2𝑥 +\n1\n3 = 0 is \n3𝑥2 − 2𝑥 +\n1\n3 = 0 యొకక విచక్షణి",
+    "options": [
+      "2",
+      "-2",
+      "0",
+      "5"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_107.webp"
+  },
+  {
+    "id": "maths_108",
+    "qno": 108,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "2𝑥 − 𝑘𝑦 + 3 = 0 and 4𝑥 + 6𝑦 − 5 = 0 are parallel \nthen the value of 𝑘 is \n2𝑥 − 𝑘𝑦 + 3 = 0 మరియు 4𝑥 + 6𝑦 − 5 = 0 లు సమాంతర \nరేఖ్లు అయిన 𝑘 విలువ",
+    "options": [
+      "3",
+      "-3",
+      "2",
+      "-2"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_108.webp"
+  },
+  {
+    "id": "maths_109",
+    "qno": 109,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The 6th term in the AP: 21,18,15…… is \n21, 18, 15,...... అంకశ్రేడ లో 6వ పదం",
+    "options": [
+      "6",
+      "9",
+      "12",
+      "3"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_109.webp"
+  },
+  {
+    "id": "maths_110",
+    "qno": 110,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The 2nd term from the end of the AP: 3,8,13,……,253 \n3,8,13,……,253 అంకశ్రేడ యొకక చివరి నుండ 2వ పదము",
+    "options": [
+      "162",
+      "160",
+      "248",
+      "174"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_110.webp"
+  },
+  {
+    "id": "maths_111",
+    "qno": 111,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "6th term of an AP: 2,\n5\n2 ,3, \n7\n2 ,….. is \n 2,\n5\n2 ,3, \n7\n2 ,….. అంకశ్రేడ లో 6 వ పదము",
+    "options": [
+      "4",
+      "9 2",
+      "5",
+      "11 2"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_111.webp"
+  },
+  {
+    "id": "maths_112",
+    "qno": 112,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Common difference of AP: 1,3,5,7,…….. \n1,3,5,7,...... అంకశ్రేడలో సామానయ భేదము",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "5"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_112.webp"
+  },
+  {
+    "id": "maths_113",
+    "qno": 113,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The fourth term of the AP whose first term is 10 and \ncommon difference is 5 \nమొదటి పదము 10 మరియు సామానయ భేదము 5 గా గల \nఅంకశ్రేడలో నలగవ పదము",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_113.webp"
+  },
+  {
+    "id": "maths_114",
+    "qno": 114,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Common difference in the AP: 3, 3 + √2, 3 + 2√2….. \nis \n3, 3 + √2, 3 + 2√2….. అంకశ్రేడ నందు సామానయ భేదము",
+    "options": [
+      "3 + √2",
+      "√2",
+      "√3",
+      "3 − √2"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_114.webp"
+  },
+  {
+    "id": "maths_115",
+    "qno": 115,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Number of terms of the AP: 24,21,18,…..3 \n24,21,18.......3 అంకశ్రేడ లోని పదాల సంఖ్య",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_115.webp"
+  },
+  {
+    "id": "maths_116",
+    "qno": 116,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The sum of the 10 terms of the AP: 2,7,12,….. is \n2,7,12........ అంకశ్రేడలో 10 పదాల మొతతం",
+    "options": [
+      "240",
+      "245",
+      "250",
+      "255"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_116.webp"
+  },
+  {
+    "id": "maths_117",
+    "qno": 117,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The Sum of 10 terms of the AP: -0.5,-1.0,-1.5….. is \n-0.5,-1.0,-1.5….. అంకశ్రేడ నందు 10 పదాల మొతతము",
+    "options": [
+      "-30.5",
+      "27.5",
+      "-32.5",
+      "-27.5"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_117.webp"
+  },
+  {
+    "id": "maths_118",
+    "qno": 118,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Sum of first 14 terms of an AP is 1050 and its first \nterm is 10 then 20th term is \nఒక అంకశ్రేడలో మొదటి పదము 10 మరియు మొదటి 14 పదముల \nమొతతం 1050 అయిన 20 వ పదము",
+    "options": [
+      "200",
+      "225",
+      "250",
+      "275"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_118.webp"
+  },
+  {
+    "id": "maths_119",
+    "qno": 119,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Which terms of the AP: 63,65,67,….. and 3,10,17,…. \nAre equal \n63,65,67,….. మరియు 3,10,17,…. అంకశ్రేఢులలో ఎననవ \nపదము సమానము",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_119.webp"
+  },
+  {
+    "id": "maths_120",
+    "qno": 120,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "17th term of an AP exceeds its 10th term by 7 then the \ncommon difference is \nఒక అంకశ్రేడలో 17 వ పదము 10వ పదము కంటే 7 ఎకుకవ \nఅయిన సామానయ భేదము",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_120.webp"
+  },
+  {
+    "id": "maths_121",
+    "qno": 121,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "There is a path of one meter width running inside \nalong the perimeter of the park 30𝑚 × 20𝑚, that has \nto be cemented. If 1 bag of cement is required to \ncement 4𝑚2 area, how many bags of cement would be \nrequired to construct the cement path? \n30 మీ ×20మీ పారుక లోపల అంచు వెంబడ 1 మీ వెడలుప గల బాట్ \nఉంది. బాట్ను సిమంట్ చేయుట్కు 4 చ. మీ కు ఒక సిమంటు బసాత \nఅవసరం అయినచో బాట్ మొతతం సిమంటు చేయుట్కు ఎనిన బసాతల \nసిమంటు అవసరం ?",
+    "options": [
+      "96",
+      "196",
+      "24",
+      "49"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_121.webp"
+  },
+  {
+    "id": "maths_122",
+    "qno": 122,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The area of a trapezium shaped field is 480𝑚2, the \ndistance between two parallel sides is 15𝑚 and one of \nthe parallel side is 20𝑚. Then the other parallel side is \n (in cm) \nట్రెపీజియం ఆకారం లో ఉనన ఒక పొలము వైశలయము 480 చ. మీ, \nరండు సమాంతర భుజాల మధ్య దూరము 15 మీ మరియు ఒక \nసమాంతర భుజం యొకక పొడవు 20 మీ అయినచో రండవ \nసమాంతర భుజం పొడవు(సం.మీ లలో)",
+    "options": [
+      "64",
+      "54",
+      "44",
+      "34"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_122.webp"
+  },
+  {
+    "id": "maths_123",
+    "qno": 123,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The area of a rhombus is 240𝑐𝑚2 and one of the \ndiagonals is 16𝑐𝑚 then the other diagonal length is \n(in cm) \n ఒక రాంబస్ వైశలయం 240 చ. సం. మీ మరియు దాని కరణము లలో \nఒక దాని పొడవు 16 సం. మీ అయిన రండవ కరణము పొడవు \n(సం.మీ లలో)",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "15"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_123.webp"
+  },
+  {
+    "id": "maths_124",
+    "qno": 124,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The shape of the top surface a table is a trapezium. If \nits parallel sides are 1m and 1.2𝑚 and perpendicular \ndistance between them is 0.8𝑚 then its area is (𝑖𝑛 𝑚2) \nఒక టేబుల్ పై ఉపరితలం ట్రెపీజియం ఆకారం లో ఉంది. దాని \nసమాంతర భుజాల పొడవులు 1 మీ మరియు 1.2 మీ. వాటి మధ్య \nలంబదూరం 0.8 మీ అయిన దాని వైశలయం (చ. మీ లలో)",
+    "options": [
+      "88",
+      "8.8",
+      "0.88",
+      "880"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_124.webp"
+  },
+  {
+    "id": "maths_125",
+    "qno": 125,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The diagonal of a quadrilateral shapes field is 24𝑚 and \nthe perpendiculars dropped on it from the remaining \nopposite vertices are 8𝑚 and 13𝑚. The area of the \nfield is (𝑖𝑛 𝑚2) \nఒక మైదానం చతురుుజ ఆకారం లో ఉంది దాని కరణము 24 మీ \nమరియు దానికి ఎదుట్ శీరాాలు నుండ గీసిన లంబముల పొడవులు \nవరుసగా 8 మీ మరియు 13 మీ. ఆ మైదానం వైశలయం (మీ2 లలో)",
+    "options": [
+      "152",
+      "252",
+      "150",
+      "250"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_125.webp"
+  },
+  {
+    "id": "maths_126",
+    "qno": 126,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The floor of a building consists of 3000 tiles which are \nin rhombus shape and each of its diagonals are 45𝑐𝑚 \nand 30𝑐𝑚 in length. The total cost of polishing the \nfloor at ₹4 per m2 is (in rupees) \nఒక భవనం లోని నేల మొతతం మీద రాంబస్ ఆకారం గల 3000 \nటైల్స పరిచారు రాంబస్ యొకక కరణములు వరుసగా 45 సం. మీ \nమరియు 30 సం. మీ పొడవులు కల్గ ఉననవి. ఆ భవనం యొకక \nనేలను పాల్ష్ చేయుట్కు ఒక చ. మీ కు ₹4 వంతున అగు మొతతం \nఖ్రుి (రూపాయిలలో)",
+    "options": [
+      "810",
+      "81",
+      "270",
+      "2025"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_126.webp"
+  },
+  {
+    "id": "maths_127",
+    "qno": 127,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Total surface area of a cuboid is \nదీరఘ ఘనం యొకక సంపూరణతల వైశలయం",
+    "options": [
+      "2(𝑙ℎ + 𝑏ℎ)",
+      "2(𝑙ℎ + 𝑏𝑙)",
+      "2(𝑙ℎ + 𝑏ℎ + 𝑙𝑏)",
+      "(𝑙ℎ + 𝑏ℎ + 𝑙𝑏)"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_127.webp"
+  },
+  {
+    "id": "maths_128",
+    "qno": 128,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Two cubes each with side “b” are joined to form a \ncuboid. The surface area of a cuboid is \nప్రతి భుజం “b” గా గల రండు సమఘనలను జోడంచి దీరఘఘనం \nచేశరు. ఈ దీరఘఘనం ఉపరితల వైశలయం",
+    "options": [
+      "18 b2",
+      "12 b2",
+      "10 b2",
+      "8 b2"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_128.webp"
+  },
+  {
+    "id": "maths_129",
+    "qno": 129,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "After the surface area of a cube is painted, the cube is \ncut into 64 smaller cubes of same dimensions. How \nmany have no face painted? \nఒక సమఘనము యొకక ఉపరితలానికి రంగు వేసిన తరువాత ఆ \nఘనమును 64 సమాన చినన ఘనలుగా విభజించిరి వీటిలో \nఎనినంటికి ఒకక ముఖానికి కూడా రంగు వేయబడ ఉండదు?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_129.webp"
+  },
+  {
+    "id": "maths_130",
+    "qno": 130,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "An aquarium is in the form of a cuboid whose external \nmeasures are 80𝑐𝑚 × 30𝑐𝑚 × 40𝑐𝑚. The capacity of \naquarium in litres is \nదీరఘ ఘనకారంలో గల ఒక ఆకవరియం బాహ్యయ కొలతలు \n80 సం. మీ × 30 సం. మీ × 40 సం. మీ. అయిన ఆ అకవరియం \nయొకక పరిమాణము ల్లట్రలలో",
+    "options": [
+      "24",
+      "56",
+      "72",
+      "96"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_130.webp"
+  },
+  {
+    "id": "maths_131",
+    "qno": 131,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The height of a cylinder whose radius is 7𝑐𝑚 and the \nlateral surface area 660 𝑐𝑚2 is (in cm) \nఒక స్థాపం యొకక వాయసారధం 7 సం. మీ మరియు దాని ప్రకకతల \nవైశలయం 660 చ. సం. మీ అయితే దాని ఎతుత (సం. మీ లలో)",
+    "options": [
+      "15",
+      "9",
+      "6",
+      "5"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_131.webp"
+  },
+  {
+    "id": "maths_132",
+    "qno": 132,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Formula to find total surface area of cylinder is \nస్థాపం సంపూరణతల వైశలయం కనుగొనుట్కు స్థత్రం",
+    "options": [
+      "2𝜋𝑟ℎ",
+      "𝜋𝑟2ℎ",
+      "2𝜋𝑟(𝑟 + ℎ)",
+      "𝜋𝑟(𝑟 + ℎ)"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_132.webp"
+  },
+  {
+    "id": "maths_133",
+    "qno": 133,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "1 Liter = _______ 𝑐𝑚3 \n1 ల్లట్ర్ =_______ సం. మీ3",
+    "options": [
+      "10",
+      "100",
+      "1000",
+      "10000"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_133.webp"
+  },
+  {
+    "id": "maths_134",
+    "qno": 134,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "A godown is in the form of a cuboid of measures \n60𝑚 × 40𝑚 × 30𝑚. How many cuboidal boxes can \nbe stored in it if the volume of one box is 0.8𝑚3? \nఒక గోడౌను 60 మీ × 40 మీ × 30 మీ కొలతలు గల దీరఘఘనం \nరూపంలో ఉంది. ఒక పెట్ట ఘన పరిమాణం 0.8 మీ3 అయితే \nఅందులో ఎనిన పెట్టలను నిలవ చేయవచుి ?",
+    "options": [
+      "90",
+      "900",
+      "9000",
+      "90000"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_134.webp"
+  },
+  {
+    "id": "maths_135",
+    "qno": 135,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "A rectangular piece of paper 11𝑐𝑚 × 4𝑐𝑚 is folded \nwithout over lapping to make a cylinder of height 4𝑐𝑚 \nits base diameter is (in 𝑐𝑚) \n 11 సం. మీ × 4 సం. మీ కొలతలు గల దీరఘ చతురస్రాకార కాగతం \nఒక దాని పై ఒకటి అవరించకుండా 4 సం. మీ ఎతుత గల ఒక \nస్థాపంగా మడవ బడంది. స్థాపం యొకక భూ వాయసారధం \n(సం. మీ లలో)",
+    "options": [
+      "3.5",
+      "7",
+      "7 4",
+      "14"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_135.webp"
+  },
+  {
+    "id": "maths_136",
+    "qno": 136,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The height of a cuboid whose base area 180𝑐𝑚2 and \nvolume 900𝑐𝑚3 is (𝑖𝑛 𝑐𝑚) \nభూ వైశలయం 180 సం. మీ2 మరియు ఘన పరిమానం \n900 సం. మీ3 గా గల దీరఘఘనం ఎతుత (సం. మీ లలో)",
+    "options": [
+      "0.5",
+      "5",
+      "2.5",
+      "1.25"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_136.webp"
+  },
+  {
+    "id": "maths_137",
+    "qno": 137,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "A milk tank is in the form of cylinder whose radius is \n1.5𝑚 and length is 7𝑚. Find the quantity of milk in \nliters that can be stored in the tank? \nఒక పాల టాయంకు స్థాపాకారం లో ఉంది దీని వాయసారధం 1.5 మీ \nమరియు పొడవు 7 మీ. టాయంకు లో ఎనిన ల్లట్రల పాలను \nనిలవచేయగలము?",
+    "options": [
+      "49500",
+      "4950",
+      "495",
+      "49.5"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_137.webp"
+  },
+  {
+    "id": "maths_138",
+    "qno": 138,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If each edge of a cube is doubled its volume will \nbecomes ______ times to its original \nసమ ఘనం యొకక ప్రతి అంచును రటిటంపు చేస్తత దాని ఘనపరిమాణం \nమొదటి దానికి ______ రటుల అగును",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_138.webp"
+  },
+  {
+    "id": "maths_139",
+    "qno": 139,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Given a cylindrical tank, in which situation will you \nfind volume \nఒక స్థాపాకార టాయంకు ఇచిిన ,మీరు ఏ సందరాులలో దాని \nఘనపరిమాణం కనుగొంటారు \n(a) To find how much it can hold \nఅది ఎంత నిలవ చేయగలదో కనుగొనడానికి \n(b) Number of cement bags required to plaster it \nదానిని పాలసటరీంగ్ చేయడానికి అవసరమైన సిమంటు బసాతల \nసంఖ్య కనుగొనటానికి \n(c) To find the number of smaller tanks that can be \nfilled with water from it \nదానిలో ఉనన న్నటిని నింపడానికి అవసరమయ్యయ చినన \nటాయంకుల సంఖ్య కనుగొనటానికి",
+    "options": [
+      "a and c",
+      "a and b",
+      "b and c",
+      "All a, b, c"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_139.webp"
+  },
+  {
+    "id": "maths_140",
+    "qno": 140,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Water is pouring into a cuboidal reservoir at the rate of \n60 liters per minute. If the volume of reservoir is \n108𝑚3 then it will take to fill the reservoir (𝑖𝑛 ℎ𝑜𝑢𝑟𝑠) \nఒక దీరఘఘనకార జలాశయం లోనికి నిమిషానికి 60 ల్లట్రల వంతున \nన్నరు చేరుతుంది. జలాశయం ఘనపరిమాణం 108 ఘ. మీ అయిన \nజలాశయం నింపడానికి పటుట సమయం (గంట్లలో)",
+    "options": [
+      "1800",
+      "3",
+      "30",
+      "300"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_140.webp"
+  },
+  {
+    "id": "maths_141",
+    "qno": 141,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The height and the slant height of a cone are 21𝑐𝑚 and \n28𝑐𝑚 respectively then its volume is (𝑖𝑛 𝑐𝑚3) \nశంఖువు ఎతుత మరియు ఏట్వాలు ఎతతలు వరుసగా 21 సం. మీ, \n28 సం. మీ అయిన శంఖువు యొకక ఘనపరిమాణం \n(ఘ. సం. మీ లలో)",
+    "options": [
+      "7546",
+      "7645",
+      "7564",
+      "7465"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_141.webp"
+  },
+  {
+    "id": "maths_142",
+    "qno": 142,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "A right triangle ABC with sides 5𝑐𝑚, 12𝑐𝑚 and 13𝑐𝑚 \nis revolved about the side 12𝑐𝑚 then the volume of \nsolid so obtained is (𝑖𝑛 𝑐𝑚3) \n5 సం.మీ, 12 సం.మీ, 13 సం.మీ భుజాలుగా గల లంబకోణ \nత్రిభుజం ABC, 12 సం.మీ భుజం వెంబడ భ్రమణం చేయగా \nఏరపడే ఘనవస్తతవు ఘనపరిమాణం (ఘ.సం.మీ లలో)",
+    "options": [
+      "100𝜋",
+      "720 𝜋",
+      "24 𝜋",
+      "72 𝜋"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_142.webp"
+  },
+  {
+    "id": "maths_143",
+    "qno": 143,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The amount of water displaced by a solid spherical ball \nof diameter 0.21𝑚 (𝑖𝑛 𝑙𝑖𝑡𝑒𝑟𝑠) \n0.21 మీ వాయసం కల్గన ఘనగోళాకారం బంతి దావరా సాాన భ్రంశం \nచెందిన న్నటి పరిమాణం (ల్ల. లలో)",
+    "options": [
+      "4.851",
+      "48.51",
+      "485.1",
+      "4851"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_143.webp"
+  },
+  {
+    "id": "maths_144",
+    "qno": 144,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The curved surface area of cone is 𝜋𝑟𝑙 then its total \nsurface area is \nఒక శంఖువు వక్రతల వైశలయం 𝜋𝑟𝑙 అయిన దాని సంపూరణతల \nవైశలయం",
+    "options": [
+      "𝜋𝑟𝑙 + 𝜋𝑟",
+      "𝜋𝑟𝑙 + 2𝜋𝑟",
+      "𝜋𝑟𝑙 + 𝜋𝑟2",
+      "𝜋𝑟𝑙 + 2𝜋𝑟2"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_144.webp"
+  },
+  {
+    "id": "maths_145",
+    "qno": 145,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The sum of the probabilities of all the elementary \nevents of an experiment is \nఒక ప్రయోగం యొకక అన్నన ప్రాథమిక ఘట్నల సంభావయతల మొతతం",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "10"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_145.webp"
+  },
+  {
+    "id": "maths_146",
+    "qno": 146,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The probability of certain event is \nనిశ్చిత ఘట్న యొకక సంభావయత",
+    "options": [
+      "0",
+      "1 2",
+      "1",
+      "1 3"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_146.webp"
+  },
+  {
+    "id": "maths_147",
+    "qno": 147,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The probability of an impossible event is \n అసాధ్య ఘట్న యొకక సంభావయత",
+    "options": [
+      "2 3",
+      "1",
+      "0",
+      "1 2"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_147.webp"
+  },
+  {
+    "id": "maths_148",
+    "qno": 148,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The probability of drawing a king card from a well-\nshuffled deck of 52 cards is \nబాగుగా కలపబడన 52 కారుీలు గల పేక ముకకల కట్ట నుండ రాజు \nకారుీను తీయు సంభావయత",
+    "options": [
+      "1 26",
+      "1 13",
+      "3 53",
+      "1 12"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_148.webp"
+  },
+  {
+    "id": "maths_149",
+    "qno": 149,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The probability of drawing a face card from well-\nshuffled deck of 52 cards is \nబాగుగా కలపబడన 52 కారుీలు గల పేక ముకకల కట్ట నుండ ముఖ్ \nకారుీను తీయు సంభావయత",
+    "options": [
+      "3 13",
+      "2 13",
+      "1 13",
+      "3 52"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_149.webp"
+  },
+  {
+    "id": "maths_150",
+    "qno": 150,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The probability of getting an even number when a die \nis thrown ones \n ఒక పాచికను ఒక సారి దొరిలస్తత సరిసంఖ్య ను పొందు సంభావయత",
+    "options": [
+      "1 3",
+      "1 2",
+      "1 6",
+      "5 6"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_150.webp"
+  },
+  {
+    "id": "maths_151",
+    "qno": 151,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The probability of drawing a white marble randomly \nfrom a certain box contains 5 red marbles, 8 white \nmarbles and 4 green marbles. \n5 ఎర్రని, 8 తెలలని మరియు 4 ఆకుపచి గోళీలు గల ఒక పెట్ట నుండ \nయాదృచిికంగా ఒక తెలలని గోళిని తీయు సంభావయత",
+    "options": [
+      "5 17",
+      "4 17",
+      "12 17",
+      "8 17"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_151.webp"
+  },
+  {
+    "id": "maths_152",
+    "qno": 152,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The winning probability of a player A in a game with \nplayer B is 0.35. Then the winning probability of \nplayer B is \nఒకానొక ఆట్లో A ఆట్గాడు, B ఆట్గాడతో గెలుపొందే సంభావయత \n0.35. అయితే B ఆట్గాడు గెలుపొందే సంభావయత",
+    "options": [
+      "0.35",
+      "0.55",
+      "0.65",
+      "0.75"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_152.webp"
+  },
+  {
+    "id": "maths_153",
+    "qno": 153,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "In a normal year the probability of celebrating two \nfriends their birth day on same day is \nఒక సాధారణ సంవతసరంలో ఇదదరు స్తనహితులు ఒక రోజు తమ \nపుటిటన రోజును జరుపుకొనే సంభావయత",
+    "options": [
+      "1 2",
+      "1 365",
+      "1 366",
+      "1 24"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_153.webp"
+  },
+  {
+    "id": "maths_154",
+    "qno": 154,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "When two dice are thrown the probability of getting \nsame number on the top of dice is \nరండు పాచికలు ఒకసారి దొరిలంచినపుడు రండంటిపై ముఖాలపై ఒక \nఅంకెను పొందే సంభావయత",
+    "options": [
+      "1 6",
+      "5 36",
+      "13 36",
+      "1 4"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_154.webp"
+  },
+  {
+    "id": "maths_155",
+    "qno": 155,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The probability of getting at least one head when two \ncoins tossed at a time \nఒకసారి రండు నణేలు ఎగురవేసినప్పుడు కన్నసం ఒక బొమి పడే \nసంభావయత",
+    "options": [
+      "0.25",
+      "0.50",
+      "0.75",
+      "1.0"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_155.webp"
+  },
+  {
+    "id": "maths_156",
+    "qno": 156,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The probability of getting a head when a coin is tossed \nones is \nఒక నణేనిన ఒకసారి ఎగుర వేసినప్పుడు బొమి పడే సంభావయత",
+    "options": [
+      "0",
+      "1",
+      "1 2",
+      "− 1 2"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_156.webp"
+  },
+  {
+    "id": "maths_157",
+    "qno": 157,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "One of the point of trisection of the line segment \njoining points (2, −2) and (−7, 4) \n(2, −2) మరియు (−7, 4) బందువులను కలుపు రేఖాఖ్ండము \nయొకక ఒక త్రిధాకరణ బందువు",
+    "options": [
+      "(0, 0)",
+      "(2, 0)",
+      "(−1, 0)",
+      "(−7, 0)"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_157.webp"
+  },
+  {
+    "id": "maths_158",
+    "qno": 158,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If (𝑥, 𝑦) is equidistant from (7, 1) and (3, 5) then \nrelation between 𝑥 and 𝑦 is \n(𝑥, 𝑦) బందువు (7, 1) మరియు (3, 5) లకు సమాన దూరములో \nఉనన 𝑥 , 𝑦 ల మధ్య సంబంధ్ము",
+    "options": [
+      "𝑥 − 𝑦 = 2",
+      "𝑥 + 𝑦 = 2",
+      "2𝑥 + 𝑦 = 0",
+      "𝑥 − 2𝑦 = 5"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_158.webp"
+  },
+  {
+    "id": "maths_159",
+    "qno": 159,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The distance between the points (4, 0) and (8, 0) is \n(in units) \n(4, 0) మరియు (8, 0) బందువుల మధ్యదూరము (యూనిట్లలో)",
+    "options": [
+      "0",
+      "6",
+      "12",
+      "4"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_159.webp"
+  },
+  {
+    "id": "maths_160",
+    "qno": 160,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If three points are collinear the area of triangle formed \nby those three points is (in sq. units) \nసరేఖీయాలు అయిన 3 బందువులచే ఏరపడే త్రిభుజ వైశలయం \n(చ. ప్రమాణలలో)",
+    "options": [
+      "3",
+      "0",
+      "1",
+      "10"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_160.webp"
+  },
+  {
+    "id": "maths_161",
+    "qno": 161,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The distance between the points (𝑥, 7) and (1, 15) is \n10 the value of 𝑥 is \n(𝑥, 7), (1, 15) ల మధ్య దూరం 10 యూనిటుల అయిన 𝑥 విలువ",
+    "options": [
+      "7 or -5",
+      "-7 or 5",
+      "5 or -5",
+      "0 or 5"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_161.webp"
+  },
+  {
+    "id": "maths_162",
+    "qno": 162,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "(−4, 6), (2, −2) and (2, 5) are vertices of a triangle \nthen centroid is \n(−4, 6), (2, −2) మరియు (2, 5) త్రిభుజ శీరాాలుగా గల త్రిభుజ \nగురుతవ కంద్రము",
+    "options": [
+      "(3, 0)",
+      "(0, 3)",
+      "(−4, 5)",
+      "(6, 2)"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_162.webp"
+  },
+  {
+    "id": "maths_163",
+    "qno": 163,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The distance between the points (0, 0) and (7, 4) is \n(in units) \n(0, 0), (7, 4) బందువుల మధ్య దూరము ( యూనిట్లలో)",
+    "options": [
+      "7",
+      "4",
+      "√65",
+      "√89"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_163.webp"
+  },
+  {
+    "id": "maths_164",
+    "qno": 164,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Coordinates of the point which divides the line \nsegment joining the points (4, −3) and (8, 5) in the \nratio 3:1 is \n(4, −3) మరియు (8, 5) బందువులను కలుపు రేఖా ఖ్ండానిన 3:1 \nనిషపతిత లో విభజించే బందువు నిరూపకాలు",
+    "options": [
+      "(7, 3)",
+      "(3, 7)",
+      "(10, 3)",
+      "(7, 10)"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_164.webp"
+  },
+  {
+    "id": "maths_165",
+    "qno": 165,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Centroid of a triangle divides the median in the ratio \nత్రిభుజ గురుతవ కంద్రం మధ్యగత రేఖ్ను విభజించు నిషపతిత",
+    "options": [
+      "1:1",
+      "2:5",
+      "2:1",
+      "5:3"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_165.webp"
+  },
+  {
+    "id": "maths_166",
+    "qno": 166,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The radius of the circle whose centre is (3, 2) and \npasses through (−5, 6) is (in units) \nబందువు(−5, 6) గుండా పోవు వృతతం యొకక కంద్రం (3, 2) \nఅయిన దాని వాయసారధము (యూనిట్లలో)",
+    "options": [
+      "4",
+      "4√5",
+      "√5",
+      "2√3"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_166.webp"
+  },
+  {
+    "id": "maths_167",
+    "qno": 167,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Midpoint of the line segment joining the points (3, 0) \nand (−1, 4) is \n(3, 0) మరియు (−1, 4) బందువులను కలుపు రేఖా ఖ్ండ మదయ \nబందు నిరూపకాలు",
+    "options": [
+      "(0, 0)",
+      "(2, 1)",
+      "(1, 2)",
+      "(3, 4)"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_167.webp"
+  },
+  {
+    "id": "maths_168",
+    "qno": 168,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If (1, 2), (4, 𝑦), (𝑥, 6) and (3, 5) are vertices of a \nparallelogram then taken in an order value of 𝑥 and 𝑦 \nare \n(1, 2), (4, 𝑦), (𝑥, 6) మరియు (3, 5) లు వరుసగా ఒక \nసమాంతర చతురుుజ శీరాాలయిన 𝑥, 𝑦 ల విలువలు",
+    "options": [
+      "𝑥 = 3, 𝑦 = 10",
+      "𝑥 = 0, 𝑦 = 10",
+      "𝑥 = 3, 𝑦 = 6",
+      "𝑥 = 6, 𝑦 = 3"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_168.webp"
+  },
+  {
+    "id": "maths_169",
+    "qno": 169,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The first use of the idea of ‘sine’ in the way we use it \ntoday by \nమనం ఈ రోజులోల ఉపయోగస్తతనన ‘sine’ అనే భావన మొట్ట \nమొదటి సారిగా ప్రసాతవించిన వారు",
+    "options": [
+      "Bhaskaracharya భాసకరా చారుయడు",
+      "Varahamihara వరాహ్యమీహ్యర",
+      "Aryabhata ఆరయభట్ట",
+      "Srinivasa Ramanujan శ్రీనివాస రామానుజన్"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_169.webp"
+  },
+  {
+    "id": "maths_170",
+    "qno": 170,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If tan 𝐴 = 4\n3 then sin 𝐴 = \ntan 𝐴 = 4\n3 అయిన sin 𝐴 =",
+    "options": [
+      "3 5",
+      "4 5",
+      "5 4",
+      "3 4"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_170.webp"
+  },
+  {
+    "id": "maths_171",
+    "qno": 171,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "In ∆𝐴𝐵𝐶, right angled at B, 𝐴𝐵 = 24𝑐𝑚, 𝐵𝐶 = 7𝑐𝑚 \nthen cos 𝐶 = \n∆𝐴𝐵𝐶 లో లంబ కోణం B వదద ఉంది మరియు 𝐴𝐵 = 24సం. మీ, \n𝐵𝐶 = 7సం. మీ అయిన cos 𝐶 =",
+    "options": [
+      "25 24",
+      "24 25",
+      "7 25",
+      "7 24"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_171.webp"
+  },
+  {
+    "id": "maths_172",
+    "qno": 172,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "sin 45° + cos 45° =",
+    "options": [
+      "√2",
+      "1 2√2",
+      "1 √2",
+      "2√2"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_172.webp"
+  },
+  {
+    "id": "maths_173",
+    "qno": 173,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "2 tan 30°\n1+tan2 30° =",
+    "options": [
+      "sin 60°",
+      "sin 30°",
+      "cos 60°",
+      "tan 60°"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_173.webp"
+  },
+  {
+    "id": "maths_174",
+    "qno": 174,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If sin(𝐴 − 𝐵) = \n1\n2, cos(𝐴 + 𝐵) = \n1\n2 , \n 0° < 𝐴 + 𝐵 ≤ 90°, 𝐴 > 𝐵 then the value of 𝐴 \nsin(𝐴 − 𝐵) = \n1\n2, cos(𝐴 + 𝐵) = \n1\n2 , \n 0° < 𝐴 + 𝐵 ≤ 90°, 𝐴 > 𝐵 అయితే 𝐴 యొకక విలువ",
+    "options": [
+      "45°",
+      "15°",
+      "60°",
+      "30°"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_174.webp"
+  },
+  {
+    "id": "maths_175",
+    "qno": 175,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "tan2 𝜃 − sec2 𝜃 =",
+    "options": [
+      "1",
+      "-1",
+      "2",
+      "1 2"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_175.webp"
+  },
+  {
+    "id": "maths_176",
+    "qno": 176,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "In a right triangle ABC, right angled at B, if tan 𝐴 = 1 \nthen 2 sin 𝐴 cos 𝐴 = \n లంబ కోణ త్రిభుజం ABC లో B వదద లంబకోణం కలదు \n tan 𝐴 = 1 అయితే 2 sin 𝐴 cos 𝐴 =",
+    "options": [
+      "√2",
+      "1 √2",
+      "2√2",
+      "1"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_176.webp"
+  },
+  {
+    "id": "maths_177",
+    "qno": 177,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "tan 𝐴 × cot 𝐴 =",
+    "options": [
+      "sin 𝐴 × cos 𝐴",
+      "cos 𝐴 × sec 𝐴",
+      "sec 𝐴 × 𝑐𝑜𝑠𝑒𝑐 𝐴",
+      "sin 𝐴 × sec 𝐴"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_177.webp"
+  },
+  {
+    "id": "maths_178",
+    "qno": 178,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "sin 2𝐴 = 2 sin 𝐴 is true when A= \nsin 2𝐴 = 2 sin 𝐴 సతయమైతే A=",
+    "options": [
+      "0°",
+      "30°",
+      "45°",
+      "60°"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_178.webp"
+  },
+  {
+    "id": "maths_179",
+    "qno": 179,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Which of the following is ‘tan A’ ratio \n క్రంది వానిలో ‘tan A’ నిషపతిత",
+    "options": [
+      "𝑜𝑝𝑝𝑜𝑠𝑖𝑡𝑒 𝑠𝑖𝑑𝑒 𝑡𝑜 𝐴 ℎ𝑦𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑒  𝐴 కు ఎదుటి భుజం కరణము",
+      "𝐴𝑑𝑗𝑎𝑐𝑒𝑛𝑡 𝑠𝑖𝑑𝑒 𝑡𝑜 𝐴 ℎ𝑦𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑒  𝐴 కు ఆసనన భుజం కరణము",
+      "𝑜𝑝𝑝𝑜𝑠𝑖𝑡𝑒 𝑠𝑖𝑑𝑒 𝑡𝑜 𝐴 𝐴𝑑𝑗𝑎𝑐𝑒𝑛𝑡 𝑠𝑖𝑑𝑒 𝑡𝑜 𝐴  𝐴 కు ఎదుటి భుజం 𝐴 కు ఆసనన భుజం",
+      "𝐴𝑑𝑗𝑎𝑐𝑒𝑛𝑡 𝑠𝑖𝑑𝑒 𝑡𝑜 𝐴 𝑜𝑝𝑝𝑜𝑠𝑖𝑡𝑒 𝑠𝑖𝑑𝑒 𝑡𝑜 𝐴  𝐴 కు ఆసనన భుజం 𝐴 కు ఎదుటి భుజం"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_179.webp"
+  },
+  {
+    "id": "maths_180",
+    "qno": 180,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "sin 60° cos 30° + sin 30° cos 60° =",
+    "options": [
+      "0",
+      "2",
+      "1",
+      "2+√3 2"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_180.webp"
+  },
+  {
+    "id": "maths_181",
+    "qno": 181,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "If the length of the shadow of a person is equal to the \nheight of the person, then the angle of inclination of \nsun rays is \nఒక వయకిత న్నడ పొడవు ఆ వయకిత ఎతుత కు సమానమైన స్థరయ కిరణల \nపడే కోణము",
+    "options": [
+      "30°",
+      "60°",
+      "45°",
+      "90°"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_181.webp"
+  },
+  {
+    "id": "maths_182",
+    "qno": 182,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The length of the shadow of a tower is √3 times the \nheight of the tower then the angle of inclination is \nఒక ట్వర్ యొకక న్నడ పొడవు దాని ఎతుతకు √3 రటుల అయిన పతన \nకోణం విలువ",
+    "options": [
+      "30°",
+      "60°",
+      "45°",
+      "90°"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_182.webp"
+  },
+  {
+    "id": "maths_183",
+    "qno": 183,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "A person observes the top of a pole at a point on the \nground 15m away from the foot of the tower at the \nangle of 60° then the height of the pole is (in m) \nఒక సాంభ పాదం నుండ 15 మీ దూరంలో గల ఒక బందువు నుండ \nఒక వయకిత ఆ సాంభ పై కొనను 60° కోణం తో గమనిస్తత ఆ సాంభం ఎతుత \n(మీ లలో)",
+    "options": [
+      "45",
+      "15√3",
+      "15 √3",
+      "30"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_183.webp"
+  },
+  {
+    "id": "maths_184",
+    "qno": 184,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "When the length of the shadow of a tower and the \nangle of inclination ‘𝜃’ is given then the trigonometric \nratio used to find the height of the tower is \n ఒక ట్వర్ యొకక న్నడ పొడవు మరియు పతన కోణం ‘𝜃’ \nఇచిినప్పుడు ఆ ట్వర్ ఎతుత ను కనుగొనడానికి ఉపయోగంచు \nత్రికోణమితీయ నిషపతిత",
+    "options": [
+      "sin 𝜃",
+      "cos 𝜃",
+      "tan 𝜃",
+      "sec 𝜃"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_184.webp"
+  },
+  {
+    "id": "maths_185",
+    "qno": 185,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "A person observed the top of a flag pole at an angle of \n45° from the point on the ground which is 40m away \nfrom the foot of the flag pole then the height of flag \npole is (in m) \n ఒక వయకిత జండా సాంభం నుండ 40 మీ దూరంలో గల ఒక బందువు \nనుండ ఆ జండా సాంభం పై కొనను 45° కోణముతో గమనించిన \nఆయన జండా సాంభం ఎతుత (మీ. లలో)",
+    "options": [
+      "40√3",
+      "40 √3",
+      "45",
+      "40"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_185.webp"
+  },
+  {
+    "id": "maths_186",
+    "qno": 186,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The ratio of height of a tree to the shadow of the tree is \n√3: 1 then the angle of inclination at that time is \nఒక చెటుట యొకక ఎతుత మరియు ఆ సమయంలో న్నడ పొడవుల నిషపతిత \n√3 ∶ 1 అయిన పతన కోణము విలువ",
+    "options": [
+      "30°",
+      "60°",
+      "45°",
+      "90°"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_186.webp"
+  },
+  {
+    "id": "maths_187",
+    "qno": 187,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The length of metal wire required from the top of \nelectrical pole to a point which is 5m away from the \nfoot of an electrical pole making an angle of 60° with \nthe ground is (in m) \n ఒక విదుయత్ సతంభము యొకక పై కొన నుండ ఆ సతంభ పాదం నకు \n5 మీ దూరంలో గల బందువు కు ఒక లోహపు తీగను భూమితో 60° \nచేయూనటుల కటుటట్కు అవసరమగు తీగ పొడవు (మీ. లలో)",
+    "options": [
+      "5√3 2",
+      "10 √3",
+      "5√3",
+      "10"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_187.webp"
+  },
+  {
+    "id": "maths_188",
+    "qno": 188,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "An observer 1.5m tall is 28.5m away from a chimney. \nThe angle of elevation of the top of the chimney from \nher eyes is 45°, the height of the chimney is (in m) \n 1.5 మీ ఎతుత వునన ఒక పరిశీలకురాలు చిమీన నుండ 28.5 మీ \nదూరంలో వుననది. ఆమ తన కంటి నుండ చిమీన పై చివరకు చేస్త \nఊరధవ కోణం 45° అయిన ఆ చిమీన ఎతుత (మీ. లలో)",
+    "options": [
+      "28.5",
+      "30",
+      "57",
+      "27"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_188.webp"
+  },
+  {
+    "id": "maths_189",
+    "qno": 189,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The angle of elevation of the top of a tower from the \npoint on the ground, which is 30m away from the foot \nof the tower is 30° then the height of the tower (in m) \n ఒక ట్వర్ యొకక పై కొన ట్వర్ కు 30 మీ దూరం లో వునన బందువు \nనుండ 30° ఊరధవ కోణము చేసిన ట్వర్ యొకక ఎతుత (మీ. లలో)",
+    "options": [
+      "10 √3",
+      "20√3",
+      "30√3",
+      "10√3"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_189.webp"
+  },
+  {
+    "id": "maths_190",
+    "qno": 190,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The angle formed by the line of sight with the \nhorizontal when the point being viewed is above the \nhorizontal level is \nపరిశీలకుడు చూస్త బందువు క్షితిజ సమాంతర రేఖ్కు ఎగువన వుంటే \nదృష్టట రేఖ్ క్షితిజ సమాంతర రేఖ్తో చేస్త కోణము",
+    "options": [
+      "Angle of elevation ఊరధవ కోణము",
+      "Angle of depression నిమన కోణము",
+      "Angle of inclination పతన కోణము",
+      "Alternate angle ఏకాంతర కోణము"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_190.webp"
+  },
+  {
+    "id": "maths_191",
+    "qno": 191,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The angle formed by the line of sight with the \nhorizontal when the point being viewed is below the \nhorizontal level is \nపరిశీలకుడు చూస్త బందువు క్షితిజ సమాంతర రేఖ్కు దిగువన వుంటే \nదృష్టట రేఖ్ క్షితిజ సమాంతర రేఖ్తో చేస్త కోణము",
+    "options": [
+      "Angle of elevation ఊరధవ కోణము",
+      "Angle of depression నిమన కోణము",
+      "Angle of inclination పతన కోణము",
+      "Alternate angle ఏకాంతర కోణము"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_191.webp"
+  },
+  {
+    "id": "maths_192",
+    "qno": 192,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "In ∆𝑃𝑄𝑅, right angle at ‘Q’. 𝑃𝑄 = 3𝑐𝑚 and \n𝑃𝑅 = 6𝑐𝑚 then the value of ∠𝑄𝑃𝑅 = \n∆𝑃𝑄𝑅 లో ‘Q’ వదద లంబకోణము కలదు. 𝑃𝑄 = 3సం. మీ \nమరియు 𝑃𝑅 = 6సం. మీ అయిన ∠𝑄𝑃𝑅 విలువ",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_192.webp"
+  },
+  {
+    "id": "maths_193",
+    "qno": 193,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "“Mathematics is the mirror of civilization” these are \nthe words given by \n“గణితము సాంసృతికి అదదము వంటిది” ఈ మాట్లు అననవారు",
+    "options": [
+      "Hogben హ్యబేన్",
+      "Aristotil అరిసాటటిల్",
+      "Lindsay ల్ండ్ స్త",
+      "Gauss గాస్"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_193.webp"
+  },
+  {
+    "id": "maths_194",
+    "qno": 194,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "“Mathematics is gateway and key to all sciences”, \nStated by the mathematician is \n“సకల శసారలకు మూలం ‘గణితం’ అని చెపిపనది",
+    "options": [
+      "Becon బేకన్",
+      "Locke లాక",
+      "Gauss గాస్",
+      "Lindsay ల్ండ్ స్త"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_194.webp"
+  },
+  {
+    "id": "maths_195",
+    "qno": 195,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Author of the book “Elements” \n“ఎల్మంట్స” గ్రంధ్ రచయిత",
+    "options": [
+      "Pythagoras పైథాగరస్",
+      "Thales థేల్స",
+      "Rene Descarte రనెడెకారట",
+      "Euclid యూకిలడ్"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_195.webp"
+  },
+  {
+    "id": "maths_196",
+    "qno": 196,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Mathematics derived from two Greek words. One is \nmanthanien the other one is \n Mathematics అనే ఆంగల పదం గ్రీకు భాషలోని రండు పదాల \nకలయికతో ఏరపడనది. అందులో ఒకటి manthanien అయిన \nరండవది",
+    "options": [
+      "Technie",
+      "Tichnee",
+      "Techne",
+      "Tecne"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_196.webp"
+  },
+  {
+    "id": "maths_197",
+    "qno": 197,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "A mathematician who defined “Mathematics is the \nscience that draws necessary conclusions”, is \n “గణితం అంటే అవసరం అయిన నిరాదరణలను రాబటేట శసరం” అని \nనిరవచించిన గణిత శసరవేతత",
+    "options": [
+      "Benjamin peirce బంజిమన్ పియర్స",
+      "Aristotle అరిసాటటిల్",
+      "Locke లాక్",
+      "Lindsay ల్ండ్ స్త"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_197.webp"
+  },
+  {
+    "id": "maths_198",
+    "qno": 198,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Which of the following does not belong to the ‘nature \nof mathematics’ \nక్రంది వాటిలో గణిత సవభావానికి చెందని అంశం",
+    "options": [
+      "Chance to check సరిచూస్తకొనే అవకాశం",
+      "Mathematics is not logical   గణిత తారికక మైనది కాదు",
+      "Accuracy ఖ్చిితతవం",
+      "Abstractness అమూరత లక్షణం"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_198.webp"
+  },
+  {
+    "id": "maths_199",
+    "qno": 199,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The objective that does not belongs to ‘Affective \ndomain’ is \n ‘భావావేశ రంగానికి’ చెందని లక్షయము",
+    "options": [
+      "Receiving గ్రహించడం",
+      "Precision / sensitive స్తనిశ్చతతవం",
+      "Organisation వయవసాాపనం",
+      "Responding ప్రతిసపందించడం"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_199.webp"
+  },
+  {
+    "id": "maths_200",
+    "qno": 200,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "This objective belongs to ‘Affective domain’ is \n ‘భావావేశ రంగానికి’ చెందిన లక్షయము",
+    "options": [
+      "Manipulation హసతలాఘవం",
+      "Naturalization సహజీకరణం",
+      "Sensitive స్తనిశ్చతతవం",
+      "Valuing విలువకట్టడం"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_200.webp"
+  },
+  {
+    "id": "maths_201",
+    "qno": 201,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The name of the mathematician who revealed \napproximately the value of 𝜋 as 3.1416 is \n 𝜋 విలువ స్థమారుగా 3.1416 అని మొదటిసారిగా తెల్పిన గణిత \nశసరవేతత",
+    "options": [
+      "Brahmagupta బ్రహి గుపత",
+      "Aryabhata ఆరయభట్ట",
+      "Bhaskracharya భాసకరాచారయ",
+      "Euclid యూకిలడ్"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_201.webp"
+  },
+  {
+    "id": "maths_202",
+    "qno": 202,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "“For common calculation, we can take 𝜋 = √10”. This \nstatement was proposed by the mathematician \nసామానయ గణనలకు 𝜋 = √10 గా తీస్తకొనవచుినని \nప్రతిపాదించిన గణిత శసరవేతత",
+    "options": [
+      "Bhaskaracharya భాసకరచారయ",
+      "Aryabhata ఆరయభట్ట",
+      "Brahma gupta బ్రహిగుపత",
+      "Euclid యూకిలడ్"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_202.webp"
+  },
+  {
+    "id": "maths_203",
+    "qno": 203,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "“Prime numbers are infinite” statement was given by \n“ప్రధాన సంఖ్యలు అనంతం” అని చెపిపనవారు",
+    "options": [
+      "Srinivasa Ramanujan శ్రీనివాస రామానుజన్",
+      "Euclid యూకిలడ్",
+      "Aryabhata ఆరయభట్ట",
+      "Bhaskracharya భాసకరాచారయ"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_203.webp"
+  },
+  {
+    "id": "maths_204",
+    "qno": 204,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "“The sum of three angles in a triangle is 180° or two \nright angles”. This statement was given by \n“త్రిభుజంలోని మూడు కోణల మొతతం 180° లేదా రండు \nలంబకోణలు”. అని చెపిపనవారు",
+    "options": [
+      "Pythagoras పైథాగరస్",
+      "Euclid యూకిలడ్",
+      "Brahmagupta బ్రహిగుపత",
+      "Aryabhata ఆరయభట్ట"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_204.webp"
+  },
+  {
+    "id": "maths_205",
+    "qno": 205,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The teaching method considered as the ‘Product of \nthinking’ is \n‘ఆలోచన ఫల్తంగా’ వయవహరింపబడే గణిత బోధ్న పదదతి",
+    "options": [
+      "Laboratory method ప్రయోగశల పదదతి",
+      "Heuristic method అనేవషణ పదదతి",
+      "Analysis method విశ్శలషణ పదదతి",
+      "Synthesis method సంశ్శలషణ పదదతి"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_205.webp"
+  },
+  {
+    "id": "maths_206",
+    "qno": 206,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Who propagated Deductive method in mathematics \nగణిత శసరంలో ఎవరు నిగమన పదదతిని ప్రతిపాదించారు",
+    "options": [
+      "Armstrong ఆర్ి సారంగ్",
+      "Cominius కొమిన్నయస్",
+      "Pestalozzi పెసాటలజీ",
+      "Bellord బలార్ీ"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_206.webp"
+  },
+  {
+    "id": "maths_207",
+    "qno": 207,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Who said that “Education is life” \n“విదయయ్య జీవితం” అని చెపిపనవారు",
+    "options": [
+      "Young యంగ్",
+      "Kilpatric కిల్ పాట్రిక్",
+      "John Dewey జాన్ డ్యయయి",
+      "Stevenson స్టటవెనసన్"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_207.webp"
+  },
+  {
+    "id": "maths_208",
+    "qno": 208,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The method which leads from “particular to general” is \n “ప్రతేయక అంశం నుండ సాధారణ అంశనికి” దారి తీయు పదదతి",
+    "options": [
+      "Inductive ఆగమన",
+      "Deductive నిగమన",
+      "Analysis విశ్శలషణ",
+      "Synthesis సంశ్శలషణ"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_208.webp"
+  },
+  {
+    "id": "maths_209",
+    "qno": 209,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "By using this method we come to know that the \n“problem solving procedure” only \n ఈ పదదతి దావరా “సమసయ పరిషాకర విధానం మాత్రమే” తెలుస్తతంది",
+    "options": [
+      "Synthesis సంశ్శలషణ",
+      "Analysis విశ్శలషణ",
+      "Project ప్రాజకుట",
+      "Deductive నిగమన"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_209.webp"
+  },
+  {
+    "id": "maths_210",
+    "qno": 210,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "This method proceeds from particular examples to \ngeneral rules of formulas is \nఉదాహరణ నుండ స్థత్రానిన తయారు చేస్త పదదతి",
+    "options": [
+      "Deductive నిగమన",
+      "Inductive ఆగమన",
+      "Synthesis సంశ్శలషణ",
+      "Analytic విశ్శలషణ"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_210.webp"
+  },
+  {
+    "id": "maths_211",
+    "qno": 211,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "This is the convenient method to derive formula for \ncompound interest is \n చక్రవడ్డీ స్థత్రానిన రాబట్టటానికి అనువైన బోధ్న పదదతి",
+    "options": [
+      "Inductive method అగమన పదదతి",
+      "Deductive method నిగమన పదదతి",
+      "Analytic method విశ్శలషణ పదదతి",
+      "Synthetic method సంశ్శలషణ పదదతి"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_211.webp"
+  },
+  {
+    "id": "maths_212",
+    "qno": 212,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "This method is based on the principles “learning by \ndoing” and “learning by observing” is \n “చేయడం దావరా నేరుికోవడం” , “పరిశీలన దావరా నేరుికోవడం” \nఅనే స్థత్రాలను కల్గ వునన బోధ్న పదదతి",
+    "options": [
+      "Inductive అగమన",
+      "Deductive నిగమన",
+      "Analytic విశ్శలషణ",
+      "Laboratory ప్రయోగశల"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_212.webp"
+  },
+  {
+    "id": "maths_213",
+    "qno": 213,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "This method is based on the principle “learning by \ndoing” is \n “చేయుట్ దావరా నేరుికోవట్ం” అనే స్థత్రం ఆధారంగా పనిచెయు \nపదదతి",
+    "options": [
+      "Project method ప్రాజక్ట పదదతి",
+      "Heuristic method అనేవషణ పదదతి",
+      "Problem solving సమసాయ సాధ్న",
+      "Deductive నిగమన"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_213.webp"
+  },
+  {
+    "id": "maths_214",
+    "qno": 214,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "“A project is a bit of real life that has been imported \ninto school”. This definition was given by \n“పాఠశలలోనికి దిగుమతి చేసిన నిజ జీవిత భాగమే ప్రకలపన” అని \nనిరవచించినది",
+    "options": [
+      "Kilpatrick కిల్ పాట్రిక్",
+      "Ballard బలార్ీ",
+      "Stevenson స్టటవెన్ సన్",
+      "Armstrong ఆర్ి సారంగ్"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_214.webp"
+  },
+  {
+    "id": "maths_215",
+    "qno": 215,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "This is not a limitation to analytic method \nవిశ్శలషణ పదదతి పరిమితి కానిది",
+    "options": [
+      "Lengthy method ఇది ఒక స్తదీరఘ పదదతి",
+      "It takes more time   దీనికి ఎకుకవ సమయం పడుతుంది",
+      "We cannot solve problems with speed   సమసయలను వేగంగా సాధించలేము",
+      "This is suitable for all kinds of problem   ఇది అన్నన రకాల సమసయల సాధ్నకు అనువైనది"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_215.webp"
+  },
+  {
+    "id": "maths_216",
+    "qno": 216,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "This is the time-saving teaching method \nసమయానిన పొదుపు చేస్త బోధ్న పదదతి",
+    "options": [
+      "Inductive method ఆగమన పదదతి",
+      "Synthetic method సంశ్శలషణ పదదతి",
+      "Analytic method విశ్శలషణ పదదతి",
+      "Heuristic method అనేవషణ పదదతి"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_216.webp"
+  },
+  {
+    "id": "maths_217",
+    "qno": 217,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "This item does not included in the unit plan \nసమగ్ర యూనిట్ పథకం లో లేని అంశం",
+    "options": [
+      "Content analysis విషయ విశ్శలషణ",
+      "Teaching learning material  బోధ్నభయసన సామగ్రి",
+      "Teaching method బోధ్న పదదతి",
+      "Objectives and specifications  లక్ష్యయలు మరియు సపష్టటకరణలు"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_217.webp"
+  },
+  {
+    "id": "maths_218",
+    "qno": 218,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "“The student explains in his own words”. Belongs to \nthis academic standard \n“విదాయరిధ సంత మాట్లోల వివరించుట్”. అనేది ఈ \nవిదాయప్రమాణమునకు చెందును",
+    "options": [
+      "Connection అను సంధానము",
+      "Communication వయకతపరచడం",
+      "Reasoning - proof  కారణలు చెపపడం-నిరూపణలు",
+      "Representation - visualisation  ప్రాతినిధ్య పరచడం - దృశీయకరణ"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_218.webp"
+  },
+  {
+    "id": "maths_219",
+    "qno": 219,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Which of the following item does not belong to \n5E – learning model? \nక్రంది వాటిలో 5E- అభయసన నమూన కు చెందని అంశం ఏది?",
+    "options": [
+      "Engage నిమగనం కావడం",
+      "Explore అనేవష్టంచడం",
+      "Explain వివరించడం",
+      "Experience అనుభవం"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_219.webp"
+  },
+  {
+    "id": "maths_220",
+    "qno": 220,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "“Pupils will prepare meaningful problems and solve \nthem”. This as one of the vision of school \nmathematics, is stated in \n “పిలలలే అరధవంతమైన సమసయలు తయారు చేస్తకొని వారే సవయంగా \nపరిషకరిసాతరు”. వేనిలో ఇది పాఠశల సాాయి గణిత దృకపథంగా \nపేర్కకనబడంది",
+    "options": [
+      "NPE – 1986 & POA – 1982",
+      "NCF – 2005 & APSCF – 2011",
+      "NPE – 1986 & NCF – 2005",
+      "POA – 1992 & NCF – 2005"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_220.webp"
+  },
+  {
+    "id": "maths_221",
+    "qno": 221,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "“Importance to core elements and reduction in course \ncontent in curriculum”, proposed by \n “ పాఠయ ప్రణళిక విషయ భారానిన తగగంచి మౌల్క అంశలకు \nప్రాధానయత” ఇవావలనే ప్రతిపాదన దీనిలోన్నది",
+    "options": [
+      "NPE – 1986",
+      "POA – 1992",
+      "NCF – 2005",
+      "NEP – 2020"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_221.webp"
+  },
+  {
+    "id": "maths_222",
+    "qno": 222,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "“Education must move towards less content and more \ntowards learning”. This is proposed by \n“తకుకవ విషయం, ఎకుకవ ఆలోచన దిశగా విదయ సాగట్ం” అని \nప్రతిపాదించినది",
+    "options": [
+      "NEP – 2020",
+      "NCF – 2005",
+      "POA – 1992",
+      "NPE – 1986"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_222.webp"
+  },
+  {
+    "id": "maths_223",
+    "qno": 223,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "“A problem corner can be started by the maths club, \nwith suitable puzzles and mathematical problems at all \nlevels”. This recommendation is made by \n “అన్నన సాాయిలకు ఉపయుకతమైన పజిల్స, గణిత సమసయలలో సమసయ \nకారనర్ ను గణిత కలబ్ ప్రారంభించవచుి “. అని సిఫ్యరస్త చేసినది",
+    "options": [
+      "NPE – 1986",
+      "POA – 1992",
+      "NEP – 2020",
+      "APSCF – 2011"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_223.webp"
+  },
+  {
+    "id": "maths_224",
+    "qno": 224,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "“Bilingual teaching learning material should be \navailable”. In which of the following this was \nmentioned \n “దివ భాషా బోధ్నభయసన సామగ్రి ని అందుబాటులో ఉంచాల్”. అని \nదేనిలో ప్రసాతవించబడనది",
+    "options": [
+      "NCF – 2005",
+      "APSCF – 2011",
+      "NEP – 2020",
+      "NPE – 1986"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_224.webp"
+  },
+  {
+    "id": "maths_225",
+    "qno": 225,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "In the Herbartian steps of a lesson plan, the step \n“Generalization” comes before this step \nపాఠయపథకం లోని హెరాారిాయన్ సోపానలలో \n“సాధారణీకరించుట్” అనే సోపానం, ఈ సోపాననికి ముందు \nవెంట్నే ఉంటుంది",
+    "options": [
+      "Presentation సమరపణ",
+      "Preparation సననహం",
+      "Recapitulation పునరివమరే",
+      "Association సంసరగం"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_225.webp"
+  },
+  {
+    "id": "maths_226",
+    "qno": 226,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "“Children learn to enjoy mathematics rather than fear \nit”. This suggestion is form \n“గణిత అభయసన భయం కల్గంచేలా కాక, పిలలలు ఆనందించేదిగా \nఉండాల్” అని స్థచించినది",
+    "options": [
+      "NCF – 2005, APSCF – 2011",
+      "NCF – 2005, RTE – 2009",
+      "RTE – 2009, APSCF – 2011",
+      "NCF – 2005, NPE – 1986"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_226.webp"
+  },
+  {
+    "id": "maths_227",
+    "qno": 227,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The educationist who suggested to follow certain rules \nin framing mathematical instructional objectives \nగణిత బోధ్న లక్ష్యయలను రూపొందించుట్లో కొనిన నియమాలు \nపాటించాలని స్థచించిన విదాయవేతత",
+    "options": [
+      "Breslich బ్రెసిలచ్",
+      "Munnik మునినక్",
+      "Frust ఫ్రస్ట",
+      "Herbart హెరాార్ట"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_227.webp"
+  },
+  {
+    "id": "maths_228",
+    "qno": 228,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "In the Herbartian steps of a lesson plan, the step \nAssociation comes before this step \nపాఠయపథకం లోని హెరాారిాయన్ సోపానలలో “సంసరగం” అనే \nసోపానం, ఈ సోపాననికి ముందుగా ఉంటుంది",
+    "options": [
+      "Presentation సమరపణ",
+      "Application వినియోగం",
+      "Recapitulation పునరివమరే",
+      "Generalisation సాధారణీకరణ"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_228.webp"
+  },
+  {
+    "id": "maths_229",
+    "qno": 229,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The evaluation tool that reflect a student’s personality \nis \nఒక విదాయరిధ యొకక వయకితతవం ప్రతి బంబంచే మూలాయంకన \nసాధ్నము",
+    "options": [
+      "Check list చెక్ ల్స్తట",
+      "Rating scale రేటింగు స్తకలు",
+      "Anecdotal record ఏనకోీట్ల్ రికారుీ",
+      "Questionnaire ప్రశనవళి"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_229.webp"
+  },
+  {
+    "id": "maths_230",
+    "qno": 230,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "“Evaluation is continuous process”. This statement \nwas given by \n“మూలాయంకనము అనేది అవిరళ ప్రక్రయ” అని పేర్కకననది",
+    "options": [
+      "Secondary Education Committee  సకండరీ విదాయ కమీషన్",
+      "Eshwarbai Patel ఈశవరభాయ్ పటేల్ కమిటీ",
+      "Kothari commission కోఠారి కమీషన్",
+      "Yashpal committee యష్ పాల్ కమిటీ"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_230.webp"
+  },
+  {
+    "id": "maths_231",
+    "qno": 231,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "This evaluation conducted after the completion of the \nteaching learning process \nబోధ్నభయసన ప్రక్రయ పూరిత అయినపుడు చేస్త మూలాయంకనము",
+    "options": [
+      "Summative సంగ్రహణతిక",
+      "Formative నిరాిణతిక",
+      "Diagnostic లోపనిరాధరణ",
+      "Prognostic ప్రాగుపితక"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_231.webp"
+  },
+  {
+    "id": "maths_232",
+    "qno": 232,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "This evaluation conducted during the completion of \nthe teaching learning process \n బోధ్నభయసన ప్రక్రయ జరుగుతుననప్పుడు చేస్త మూలాయంకనము",
+    "options": [
+      "Summative సంగ్రహణతిక",
+      "Formative నిరాిణతిక",
+      "Diagnostic లోపనిరాధరణ",
+      "Progrostic ప్రాగుపితక"
+    ],
+    "correct": 2,
+    "image": "assets/maths/q_232.webp"
+  },
+  {
+    "id": "maths_233",
+    "qno": 233,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The tool which is not used in formative assessment \n నిరాిణతిక మదింపులో ఉపయోగంచని సాధ్నం",
+    "options": [
+      "Pupils written work విదాయరుధల రాత పని",
+      "Project work ప్రాజకుట పని",
+      "slip test సిలప్ ట్స్ట",
+      "Teacher’s written work ఉపాధాయయుల రాత పని"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_233.webp"
+  },
+  {
+    "id": "maths_234",
+    "qno": 234,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "The tool which has more weightage in formative \nassessment \nనిరాిణతిక మదింపులో అధిక భారతవం కల్గన మూలాయంకన \nసాధ్నం",
+    "options": [
+      "Student’s participation-responses   పిలలల భాగసావమయం – ప్రతిసపందనలు",
+      "Students written work విదాయరుధల రాతపని",
+      "Project work ప్రాజకుట పని",
+      "Slip test సిలప్ ట్స్ట"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_234.webp"
+  },
+  {
+    "id": "maths_235",
+    "qno": 235,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Which of the following does not belong to objective \ntype questions? \n క్రంది వాటిలో విషయ నిషఠ ప్రశనలు రకానికి చెందనిది?",
+    "options": [
+      "Multiple choice questions   బాహుళైచిిక ప్రశనలు",
+      "Matching జత పరచడం",
+      "Odd man out విభినన అంశనిన గురితంచుట్",
+      "Association form సంసరగ రూపం"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_235.webp"
+  },
+  {
+    "id": "maths_236",
+    "qno": 236,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Which of the following does not belong to very short \nanswer type questions? \n క్రంది వాటిలో లఘు సమాధాన ప్రశనల రకానికి చెందనిది?",
+    "options": [
+      "Completion form పూరణం",
+      "Association form సంసరగం",
+      "Analogy form సాదృశయ రూపం",
+      "Odd man out విభినన అంశనిన గురితంచుట్"
+    ],
+    "correct": 4,
+    "image": "assets/maths/q_236.webp"
+  },
+  {
+    "id": "maths_237",
+    "qno": 237,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Which of the following belong to objective type \nquestions? \n క్రంది వాటిలో విషయ నిషఠ ప్రశనలు రకానికి చెందినది ఏది?",
+    "options": [
+      "Alternative response type   ప్రతాయమానయం ప్రశనలు",
+      "Completion form పూరణం",
+      "Association form సంసరగం",
+      "Analogy form సాదృశయ రూపం"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_237.webp"
+  },
+  {
+    "id": "maths_238",
+    "qno": 238,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Which of the following belong to very short answer \ntype questions? \nక్రంది వాటిలో లఘు సమాధాన ప్రశనల రకానికి చెందినది ఏది ?",
+    "options": [
+      "Association form సంసరగం",
+      "Matching జతపరచడం",
+      "Multiple choice బాహుళైచిిక ప్రశనలు",
+      "Odd man out విభినన అంశనిన గురితంచుట్"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_238.webp"
+  },
+  {
+    "id": "maths_239",
+    "qno": 239,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "Circle : 2𝜋𝑟 :: square : ? . This type of question \nbelongs to \nవృతతం : 2𝜋𝑟 :: చతురస్రం : ? . ఈ రకమైన ప్రశన దీనికి చెందును",
+    "options": [
+      "Completion question పూరకం",
+      "Association form సంసరగం",
+      "Analogy form సాదృశయ రూపం",
+      "Matching జతపరచడం"
+    ],
+    "correct": 3,
+    "image": "assets/maths/q_239.webp"
+  },
+  {
+    "id": "maths_240",
+    "qno": 240,
+    "subject": "maths",
+    "subject_name": "Mathematics",
+    "subject_te": "గణితము",
+    "question": "This learning aid is used to understand that \nmultiplication is repeated addition, and division is \nrepeated subtraction \nగుణకారానిన పునరావృత సంకలనంగా, భాగహ్యరం పునరావృత \nవయవకలనంగా ను అరధం చేస్తకోవడానికి ఉపయోగంచే బోధ్న \nసామగ్రి",
+    "options": [
+      "Peg board పెగ్ బోరుీ",
+      "Geo board జియో బోరుీ",
+      "Grid paper గళళ కాగతం",
+      "Beads frame పూసల చట్రం"
+    ],
+    "correct": 1,
+    "image": "assets/maths/q_240.webp"
+  }
+]

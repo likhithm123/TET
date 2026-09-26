@@ -1,0 +1,3842 @@
+[
+  {
+    "id": "phys_1",
+    "qno": 1,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The speed of a car is 36 Kmph. Its speed in m/s. \n \nఒక కారు వడి 36 కి . మీ. /గం. దాని వడి మీ/సె లలో",
+    "options": [
+      "18",
+      "72",
+      "5",
+      "10"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_1.webp"
+  },
+  {
+    "id": "phys_2",
+    "qno": 2,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "A car travels 16m in 3s and another 16m in 5s. The average speed of car \nis (in m/s) \n \nఒక కారు 3 సె. లలో 16 మీ. లు ప్రయాణిస్తంది. ఆ పై మరొక 5 సె. లలో మరో 16 \nమీ.లు ప్రయాణిస్తత, ఆ కారు సరాసరి వడి (మీ/సె లలో)",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "2"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_2.webp"
+  },
+  {
+    "id": "phys_3",
+    "qno": 3,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The formula for average velocity is \n \nసరాసరి వేగానికి సూత్రం",
+    "options": [
+      "Initial velocity + Final velocity  తొలి వేగం + తుది వేగం",
+      "Initial velocity – Final velocity  తొలి వేగం - తుది వేగం",
+      "𝐼𝑛𝑖𝑡𝑖𝑎𝑙 𝑣𝑒𝑙𝑜𝑐𝑖𝑡𝑦 + 𝐹𝑖𝑛𝑎𝑙 𝑣𝑒𝑙𝑜𝑐𝑖𝑡𝑦 2  తొలి వేగం+ తుది వేగం  2",
+      "𝐼𝑛𝑖𝑡𝑖𝑎𝑙 𝑣𝑒𝑙𝑜𝑐𝑖𝑡𝑦− 𝐹𝑖𝑛𝑎𝑙 𝑣𝑒𝑙𝑜𝑐𝑖𝑡𝑦 2 తొలి వేగం − తుది వేగం 2"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_3.webp"
+  },
+  {
+    "id": "phys_4",
+    "qno": 4,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The units of Acceleration in S.I System \n \nS.I పద్దతిలో త్వరణానికి ప్రమాణాలు",
+    "options": [
+      "m మీ.",
+      "m/s మీ/సె",
+      "m/s2 మీ/సె2",
+      "m s2 మీ. సె2"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_4.webp"
+  },
+  {
+    "id": "phys_5",
+    "qno": 5,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The initial velocity of a freely falling object is \n \nస్తవచ్చా పత్న వస్తవు యొకక తొలి వేగం",
+    "options": [
+      "Zero శూనయం",
+      "Maximum గరిష్టం",
+      "One ఒకటి",
+      "Cannot say చెపపలేము"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_5.webp"
+  },
+  {
+    "id": "phys_6",
+    "qno": 6,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "An athlete is running in a circular track of radius 120 m and reaches the \nstarting point in 1 minute. The displacement of the athlete is (in meters) \n \nఒక క్రీడాకారుడు 120 మీ. ల వ్యయసారధం గల ఒక వృత్తతకార ట్రాక్ పై పరిగెడుతూ, పరుగు \nమొద్లు పెటిటన సాానానికి ఒక నిముష్ం లో చేరాడు. అయిన ఆ క్రీడాకారుడు పందిన \nసాానబ్రంశం (మీ. లలో)",
+    "options": [
+      "120",
+      "60",
+      "2",
+      "0"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_6.webp"
+  },
+  {
+    "id": "phys_7",
+    "qno": 7,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "In the formula v2 – u2 = 2as, ‘a’ represents \n \nv2 – u2 = 2as సమీకరణము నందు ‘a’ సూచంచేది",
+    "options": [
+      "Initial velocity  తొలివేగం",
+      "Final velocity  తుదివేగం",
+      "Acceleration  త్వరణం",
+      "Distance  దూరం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_7.webp"
+  },
+  {
+    "id": "phys_8",
+    "qno": 8,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "A train starting from rest gains a velocity 20m/s in 5 seconds. The \nacceleration of train is (in m/s2) \n \nనిశాల స్థాతి నండి బయలుదేరిన ఒక రైలు బండి 5 సెకనలలో 20 మీ/సె వేగానిి \nపందినది. ఆ రైలు బండి త్వరణం (మీ/సె2 లలో)",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_8.webp"
+  },
+  {
+    "id": "phys_9",
+    "qno": 9,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Five kilometres is equal to (in m.) \n \nఐదు కిలోమీటరుు దీనికి సమానం (మీ. లలో)",
+    "options": [
+      "5",
+      "50",
+      "500",
+      "5000"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_9.webp"
+  },
+  {
+    "id": "phys_10",
+    "qno": 10,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Motion of the needle of a sewing machine is in \n \nకుట్టట మిష్న్ సూది యొకక కద్లిక ఈ చలనానిి కలిగి ఉంట్టంది",
+    "options": [
+      "Rectilinear motion సరళ రేఖీయ చలనం",
+      "Oscillatory motion డోలన చలనం",
+      "Rotatory motion భ్రమణ చలనం",
+      "Circulatory motion వృత్తతకార చలనం"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_10.webp"
+  },
+  {
+    "id": "phys_11",
+    "qno": 11,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "While measuring the length of knitting needle, the reading of the scale at \none end is 3.0cm and the other end is 33.1cm. The length of the needle is \n(in cm) \n \nఒక అలిున సూది పడవున కొలిచేటప్పపడు, స్తకలు యొకక ఒక చవరి రీడింగు 3.0సెం. \nమీ., మరొక చవర రీడింగు 33.1 సెం. మీ. అయిన ఆ సూది పడవు (సెం. మీ.లలో)",
+    "options": [
+      "3.1",
+      "36.1",
+      "30.1",
+      "11.1"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_11.webp"
+  },
+  {
+    "id": "phys_12",
+    "qno": 12,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The correct order of the following lengths. \n \nక్రంది పడవుల సరియైన క్రమం.",
+    "options": [
+      "1cm < 1mm < 1m < 1km  1 సెం. మీ < 1 మి . మీ <1 మీ <1 కి. మీ.",
+      "1mm < 1cm < 1m < 1km  1 మి. మీ < 1 సెం. మీ <1 మీ <1 కి. మీ.",
+      "1km < 1m < 1cm < 1mm  1 కి. మీ < 1 మీ <1 సెం. మీ < 1 మి. మీ",
+      "1km < 1m < 1mm < 1cm  1 కి. మీ < 1 మీ <1 మి. మీ < 1 సెం. మీ"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_12.webp"
+  },
+  {
+    "id": "phys_13",
+    "qno": 13,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The frictional force between a wooden box and floor is 20N. The force \nrequired to move the wooden box is \n \nచెకక పెట్టటకు మరియు నేలకు మధ్యలో గల ఘరషణ బలం 20 N. ఆ చెకక పెట్టటన \nకదుప్పటకు కావలస్థన బలం",
+    "options": [
+      "10 N",
+      "15 N",
+      "21 N",
+      "0 N"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_13.webp"
+  },
+  {
+    "id": "phys_14",
+    "qno": 14,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "If the force applied on the object is in the direction of motion, then the \nspeed of object \n \nవస్తవుపై ప్రయోగింపబడిన బలదిశలోనే వస్తవు కదులుతుంటే, ఆ వస్తవు యొకక వడి",
+    "options": [
+      "Increases పెరుగుతుంది",
+      "Decreases త్గుుతుంది",
+      "First increases and then decreases  మొద్ట పెరిగి త్రువ్యత్ త్గుుతుంది",
+      "First decreases and then increases  మొద్ట త్గిు త్రువ్యత్ పెరుగుతుంది"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_14.webp"
+  },
+  {
+    "id": "phys_15",
+    "qno": 15,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The force applied by an archer to stretch the bow is an example of \n \nవిలుకారిణి విలుు సాగదీయడానికి ఉపయోగించే బలం ఈ రకమైన బలానికి ఉదాహరణ",
+    "options": [
+      "Frictional force ఘరషణ బలం",
+      "Muscular force కండర బలం",
+      "Gravitational force గురుత్తవకరషణ బలం",
+      "Magnetic force అయసాకంత్ బలం"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_15.webp"
+  },
+  {
+    "id": "phys_16",
+    "qno": 16,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Pressure is the ratio of force and \n \nపీడనం అనేది బలం మరియు దీని నిష్పతిత",
+    "options": [
+      "Area వైశాలయం",
+      "Volume ఘనపరిమాణం",
+      "Density సాంద్రత్",
+      "Length పడవు"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_16.webp"
+  },
+  {
+    "id": "phys_17",
+    "qno": 17,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The force exerted by a charged body on another charged body is known as \n \nఒక ఆవేశ పూరిత్ వస్తవు మరొక ఆవేశ పూరిత్ వస్తవుపై కలుగ జేస్త బలానిి ఇలా \nపిలుసాతరు.",
+    "options": [
+      "Muscular force కండర బలం",
+      "Frictional force ఘరషణ బలం",
+      "Electrostatic force సాావర విదుయత్ బలం",
+      "Magnetic force అయసాకంత్ బలం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_17.webp"
+  },
+  {
+    "id": "phys_18",
+    "qno": 18,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "This is an example for Non-contact force \n \nఇది సపరిశంచని బలానికి ఒక ఉదాహరణ",
+    "options": [
+      "Muscular force కండర బలం",
+      "Frictional force ఘరషణ బలం",
+      "Gravitational force గురుత్తవకరషణ బలం",
+      "Tension force త్నయత్త బలం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_18.webp"
+  },
+  {
+    "id": "phys_19",
+    "qno": 19,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "This is an example for contact force \n \nసపరాశ బలానికి ఇది ఒక ఉదాహరణ",
+    "options": [
+      "Muscular force కండర బలం",
+      "Gravitational force గురుత్తవకరషణ బలం",
+      "Electrostatic force సాావర విదుయత్ బలం",
+      "Magnetic force అయసాకంత్ బలం"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_19.webp"
+  },
+  {
+    "id": "phys_20",
+    "qno": 20,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "This is not an example for muscular force \n \nకండర బలానికి ఉదాహరణ కానిది",
+    "options": [
+      "squeezing a piece of lemon between fingers  చేతివేళళన ఉపయోగించ నిమమకాయన పిండుట",
+      "Taking out toothpaste from toothpaste  టూత్ పేస్ట టూయబు నండి టూత్ పేస్ట తీయుట",
+      "Lifting the bucket containing water with hands  చేతులతో నీటిని కలిగి ఉని బక్కకట్ న ఎతుతట",
+      "Charged balloon attracting the pieces of paper  ఆవేశ పూరిత్ బెలూన్ చని పేపరు ముకకలన ఆకరిషంచుట"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_20.webp"
+  },
+  {
+    "id": "phys_21",
+    "qno": 21,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The decreasing order of frictional forces \n \nఘరషణ బలాల అవరోహణాక్రమం",
+    "options": [
+      "rolling, static, sliding దొరుుడు, సెథాతిక, జారుడు",
+      "rolling, sliding, static దొరుుడు, జారుడు, సెథాతిక",
+      "static, sliding, rolling సెథాతిక, జారుడు, దొరుుడు",
+      "sliding, static, rolling జారుడు, సెథాతిక, దొరుుడు"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_21.webp"
+  },
+  {
+    "id": "phys_22",
+    "qno": 22,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The reason for sprinkling of powder on the carom board \n \nకాయరమ్ బోరుుపై పౌడర్ న చలకరించుటకు కారణం",
+    "options": [
+      "To increase the friction ఘరషణన పెంచుటకు",
+      "To decrease the friction ఘరషణన త్గిుంచుటకు",
+      "To decorate carom board కాయరమ్ బోరుున అలంకరించుటకు",
+      "To decrease force బలానిి త్గిుంచుటకు"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_22.webp"
+  },
+  {
+    "id": "phys_23",
+    "qno": 23,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The correct statement among the following \n \nక్రంది వ్యటిలో సరియైన ప్రవచనం",
+    "options": [
+      "Rolling friction is smaller than sliding friction  జారుడు ఘరషణ కనాి దొరుుడు ఘరషణ త్కుకవ",
+      "Sliding friction is smaller than rolling friction  దొరుుడు ఘరషణ కనాి జారుడు ఘరషణ త్కుకవ",
+      "Rolling friction is equal to sliding friction  జారుడు ఘరషణ, దొరుుడు ఘరషణకు సమానం",
+      "Rolling friction is larger than sliding friction  జారుడు ఘరషణ కనాి దొరుుడు ఘరషణ ఎకుకవ"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_23.webp"
+  },
+  {
+    "id": "phys_24",
+    "qno": 24,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The reason that tyres are treaded \n \nటైరుపై గల గాడులకు కారణం",
+    "options": [
+      "To decrease the friction ఘరషణన త్గిుంచుటకు",
+      "To increase the friction ఘరషణన పెంచుటకు",
+      "To obtain good looking అంద్ంగా కనిపించుటకు",
+      "To increase speed వేగానిి పెంచుటకు"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_24.webp"
+  },
+  {
+    "id": "phys_25",
+    "qno": 25,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "S.I Unit of Universal gravitational constant (G) is \n \nవిశవగురుత్వ స్థారాంకం (G) యొకక S.I ప్రమాణం",
+    "options": [
+      "N.m2.Kg2",
+      "N.m2 Kg–2",
+      "N m–2 Kg2",
+      "N m–2 Kg–2"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_25.webp"
+  },
+  {
+    "id": "phys_26",
+    "qno": 26,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The value of ‘g’ on earth \n \nభూమిపై ‘g’ విలువ",
+    "options": [
+      "9.8 ms–2",
+      "9.8 cms–2",
+      "98 ms–2",
+      "98 cms–2"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_26.webp"
+  },
+  {
+    "id": "phys_27",
+    "qno": 27,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "If the weight of an object is 60 N on earth, then the weight of same object \non moon is \n \nభూమి పై ఒక వస్తవు భారం 60 N అయిన అదే వస్తవు భారం చంద్రునిపై",
+    "options": [
+      "6 N",
+      "10 N",
+      "0 N",
+      "36 N"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_27.webp"
+  },
+  {
+    "id": "phys_28",
+    "qno": 28,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The mass of an object is 10 Kg. The weight of the object on the earth is \n(g=9.8m/s2) \n \nఒక వస్తవు యొకక ద్రవయరాశి 10 కి. గ్రా. భూమి పై దాని భారం (g=9.8 మీ /సె2)",
+    "options": [
+      "9.8 N",
+      "0.2 N",
+      "98 N",
+      "0 N"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_28.webp"
+  },
+  {
+    "id": "phys_29",
+    "qno": 29,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The thrust per unit area is called \n \nప్రమాణ వైశాలయం పై కలుగజేస్త ఒతితడిని ఈ విధ్ంగా పిలుసాతరు.",
+    "options": [
+      "Force బలం",
+      "Pressure పీడనం",
+      "Weight భారం",
+      "Mass ద్రవయరాశి"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_29.webp"
+  },
+  {
+    "id": "phys_30",
+    "qno": 30,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "S.I unit of pressure is \n \nపీడనానికి S.I ప్రమాణం",
+    "options": [
+      "Newton న్యయటన్",
+      "Pascal పాసకల్",
+      "dyne డైన్",
+      "Watt వ్యట్"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_30.webp"
+  },
+  {
+    "id": "phys_31",
+    "qno": 31,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "A stone is released from the top of a tower of height 20m. The final \nvelocity before touching the ground is (g=10m/s2) \n \n20 మీ. ఎతుత గల టవర్ పై నండి ఒక రాయి వద్లబడింది. భూమిని చేరేముందు దాని \nతుది వేగం. (g=10 మీ./ సె2)",
+    "options": [
+      "0 m/s",
+      "10 m/s",
+      "20 m/s",
+      "40 m/s"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_31.webp"
+  },
+  {
+    "id": "phys_32",
+    "qno": 32,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The buoyant force acts on an object immersed in a liquid in this direction \n \nద్రవంలో మునిగిన వస్తవుపై ఉత్పలవన బలం ఈ దిశలో పనిచేస్తంది.",
+    "options": [
+      "In upward direction పై వైప్పకు",
+      "In downward direction క్రంది వైప్పకు",
+      "Towards right కుడి వైప్పకు",
+      "Towards left ఎడమ వైప్పకు"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_32.webp"
+  },
+  {
+    "id": "phys_33",
+    "qno": 33,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The principle used in the designing of ships and submarines \n \nనౌకలు మరియు జలాంత్రాుముల రూపకలపనలో ఉపయోగపడు సూత్రం",
+    "options": [
+      "Newton’s principle న్యయటన్ సూత్రం",
+      "Pascal’s principle పాసకల్ సూత్రం",
+      "Archimedes’ principle ఆర్కకమెడీస్ సూత్రం",
+      "Boyle’s principle బాయిల్ సూత్రం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_33.webp"
+  },
+  {
+    "id": "phys_34",
+    "qno": 34,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "A: Mass of the body does not change from place to place \n B: Weight of the body changes from place to place \n \nA: వస్తవు యొకక ద్రవయరాశి ప్రదేశానిి బటిట మారదు \nB: వస్తవు భారం ఒక ప్రదేశం నండి మరో ప్రదేశానికి మారుతుంది",
+    "options": [
+      "Both A and B are correct  A మరియు B లు ర్కండూ సరైనవి",
+      "Both A and B are incorrect  A మరియు B లు ర్కండూ సరికావు",
+      "A is correct, B is incorrect  A సరైనది, B సరికాదు",
+      "A is incorrect, B is correct  A సరికాదు, B సరైనది"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_34.webp"
+  },
+  {
+    "id": "phys_35",
+    "qno": 35,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "According to Newton’s Universal law of gravitation, Force acts between \ntwo bodies is \n \nన్యయటన్ విశవ గురుత్వ నియమం ప్రకారం, ర్కండు వస్తవుల మధ్య పనిచేస్త బలం",
+    "options": [
+      "Directly proportional to the Square of the distance between them  వ్యటిమధ్య దూరవరాునికి అనలోమానపాత్ంలో ఉంట్టంది",
+      "Inversely proportional to the Square of the distance between them  వ్యటిమధ్య దూరవరాునికి విలోమానపాత్ంలో ఉంట్టంది",
+      "Directly proportional to the distance between them  వ్యటిమధ్య దూరానికి అనలోమానపాత్ంలో ఉంట్టంది",
+      "Inversely proportional to the distance between them  వ్యటిమధ్య దూరానికి విలోమానపాత్ంలో ఉంట్టంది"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_35.webp"
+  },
+  {
+    "id": "phys_36",
+    "qno": 36,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The formula to find ‘g’ value on earth \n \nభూమిపై ‘g’ విలువ కనగొనటకు సూత్రం",
+    "options": [
+      "g= 𝐺𝑅2 𝑀",
+      "g= 𝐺𝑀 𝑅2",
+      "g= 𝑀𝑅2 𝐺",
+      "g= 𝑅𝑀2 𝐺"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_36.webp"
+  },
+  {
+    "id": "phys_37",
+    "qno": 37,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The physical quantity work has \nపని అనే భౌతిక రాశికి",
+    "options": [
+      "Only magnitude పరిమాణం మాత్రమే ఉంట్టంది",
+      "Only direction దిశ మాత్రమే ఉంట్టంది",
+      "Both magnitude and direction  పరిమాణం మరియు దిశ ర్కండూ ఉంటాయి",
+      "Neither magnitude nor direction  పరిమాణం గాని , దిశ గాని ఉండవు"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_37.webp"
+  },
+  {
+    "id": "phys_38",
+    "qno": 38,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "A force of 5N acting on an object to displace it through 2m in the \ndirection of force. The work done becomes \nఒక వస్తవుపై 5 N బలం పని చేస్థ బల ప్రయోగ దిశలోనే ఆ వస్తవున 2 మీ \nసాానబ్రంశం చెందించంది. జరిగిన పని",
+    "options": [
+      "2.5 J",
+      "10 J",
+      "0.4 J",
+      "20 J"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_38.webp"
+  },
+  {
+    "id": "phys_39",
+    "qno": 39,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Unit of work in S.I system \nపనికి S.I ప్రమాణం",
+    "options": [
+      "Newton న్యయటన్",
+      "Erg ఎర్ు",
+      "Joule జౌల్",
+      "Watt వ్యట్"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_39.webp"
+  },
+  {
+    "id": "phys_40",
+    "qno": 40,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Mechanical work is equals to \nయాంత్రిక శకిత దీనికి సమానం",
+    "options": [
+      "Potential energy × kinetic energy స్థాతి శకిత × గతి శకిత",
+      "Potential energy ÷ kinetic energy స్థాతి శకిత ÷ గతి శకిత",
+      "Potential energy ˗ kinetic energy స్థాతి శకిత ˗ గతి శకిత",
+      "Potential energy + kinetic energy స్థాతి శకిత + గతి శకిత"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_40.webp"
+  },
+  {
+    "id": "phys_41",
+    "qno": 41,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Formula of potential energy స్థాతి శకితకి సూత్రం",
+    "options": [
+      "mgh",
+      "1 2mv2",
+      "ma",
+      "F s"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_41.webp"
+  },
+  {
+    "id": "phys_42",
+    "qno": 42,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Formula of kinetic energy గతి శకితకి సూత్రం",
+    "options": [
+      "mgh",
+      "1 2mv2",
+      "ma",
+      "F s"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_42.webp"
+  },
+  {
+    "id": "phys_43",
+    "qno": 43,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Formula of power is సామరాధానికి సూత్రం",
+    "options": [
+      "Work × time పని × కాలం",
+      "Work / time పని / కాలం",
+      "Force × distance బలం × దూరం",
+      "Force / distance బలం / దూరం"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_43.webp"
+  },
+  {
+    "id": "phys_44",
+    "qno": 44,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The following two quantities has same units \nఈ క్రంది ర్కండు రాశులకు ఒకే ప్రమాణాలు ఉంటాయి",
+    "options": [
+      "Work , Force పని , బలం",
+      "Work , Power పని , సామరధాం",
+      "Power , Force సామరధాం , బలం",
+      "Work , Energy పని , శకిత"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_44.webp"
+  },
+  {
+    "id": "phys_45",
+    "qno": 45,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Water stored in the reservoir at a certain height has this energy \nరిజరావయర్ నందు కొంత్ ఎతుతలో నిలవ చేయబడిన నీటికి ఈ శకిత ఉంట్టంది",
+    "options": [
+      "Potential energy స్థాతి శకిత",
+      "Kinetic energy గతి శకిత",
+      "Both potential and kinetic energies స్థాతి మరియు గతి శకుతలు ర్కండూ",
+      "Neither potential nor kinetic energies స్థాతిశకిత గాని గతిశకిత గాని ఉండవు"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_45.webp"
+  },
+  {
+    "id": "phys_46",
+    "qno": 46,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "For a freely falling body, during its free fall \nస్తవచ్చా పత్న వస్తవుకు, స్తవచ్చా పత్న సమయంలో",
+    "options": [
+      "Potential energy is maximum స్థాతిశకిత గరిష్టం",
+      "Kinetic energy is maximum గతిశకిత గరిష్టం",
+      "Potential energy decreases and kinetic energy increases  స్థాతిశకిత త్గుుతూ గతిశకిత పెరుగుతూ వుంట్టంది",
+      "Potential energy increases and kinetic energy decreases  స్థాతిశకిత పెరుగుతూ గతిశకిత త్గుుతూ వుంట్టంది"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_46.webp"
+  },
+  {
+    "id": "phys_47",
+    "qno": 47,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "One of the following object has potential energy \nకింది వ్యటిలో ఒకవస్తవు స్థాతిశకితని కలిగి వుంది",
+    "options": [
+      "Blowing wind వీస్తని గాలి",
+      "Rotating wheel తిరుగుతుని చక్రం",
+      "Flowing water ప్రవహిస్తని నీరు",
+      "Stretched spring సాగదీయబడిన స్పపరంగ్"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_47.webp"
+  },
+  {
+    "id": "phys_48",
+    "qno": 48,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "One of the following object has kinetic energy \nకింది వ్యటిలో ఒకవస్తవు గతి శకితని కలిగి వుంది",
+    "options": [
+      "Stretched rubber band సాగదీయబడిన రబబరు బాయండు",
+      "Water stored in dam ఆనకటటలో నిలవచేయబడిన నీరు",
+      "Ball kept at a height on the wall  గోడపై కొంత్ ఎతుతలో ఉంచబడిన బంతి",
+      "Flowing water ప్రవహిస్తని నీరు"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_48.webp"
+  },
+  {
+    "id": "phys_49",
+    "qno": 49,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "S. I unit of wavelength is \nత్రంగ ధైరుాం యొకక S. I ప్రమాణం",
+    "options": [
+      "Centimetre సెంటీ మీటరు",
+      "Metre మీటర్",
+      "Hertz హెర్ట్",
+      "Second సెకన"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_49.webp"
+  },
+  {
+    "id": "phys_50",
+    "qno": 50,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "S. I unit of frequency \nపౌనః ప్పనయం యొకక S. I ప్రమాణం",
+    "options": [
+      "Metre మీటరు",
+      "Hertz హెర్ట్",
+      "Second సెకన",
+      "Meter / Second మీటర్/సెకన"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_50.webp"
+  },
+  {
+    "id": "phys_51",
+    "qno": 51,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Magnitude of maximum disturbance in the medium on either side of \nmean value is called \nసగట్ట విలువకు ఇరు వైప్పలా యానకం లో ఏరపడిన గరిష్ట అలజడిని ఈ విద్ంగా \nపిలుసాతరు",
+    "options": [
+      "Frequency పౌనః ప్పనయం",
+      "Amplitude కంపన పరిమితి",
+      "Wavelength త్రంగ ధైరుాం",
+      "Time period కాల పరిమితి"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_51.webp"
+  },
+  {
+    "id": "phys_52",
+    "qno": 52,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "If λ is the wavelength and υ is the frequency of sound produced then the \nformula for speed of sound wave is \nత్రంగ ధైరుాం λ మరియు పౌనః ప్పనయం υ గల ధ్వని త్రంగంలో ధ్వని వేగం v \nకనగొనటకు సూత్రం",
+    "options": [
+      "v =   λ υ",
+      "υ =   λ v",
+      "V = υ λ",
+      "λ =   υ v"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_52.webp"
+  },
+  {
+    "id": "phys_53",
+    "qno": 53,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The amount of sound energy passing through unit are in each second is \ncalled \nప్రమాణ వైశాలయం గుండా ప్రతి సెకనలో ప్రయాణించే ధ్వని శకిత మొత్తతనిి ఈ విధ్ంగా \nపిలుసాతరు",
+    "options": [
+      "Frequency పౌనః ప్పనయం",
+      "Amplitude కంపన పరిమితి",
+      "Intensity తీవ్రత్",
+      "Wave length త్రంగ ధైర్ాం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_53.webp"
+  },
+  {
+    "id": "phys_54",
+    "qno": 54,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "A sound wave has a frequency of 20Hz and a wave length 35m then the \nspeed of sound is \nఒక ధ్వని త్రంగం 20 హెర్ట్ పౌనః ప్పనాయనిి మరియు 35 మీటరు త్రంగ ధైరా్ానిి కలిగి \nఉంది. అయిన ఆ ధ్వని త్రంగ వేగం",
+    "options": [
+      "70 m/s 70 మీ/సె",
+      "700 m/s 700 మీ/సె",
+      "7000 m/s 7000 మీ/సె",
+      "7 m/s 7 మీ/సె"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_54.webp"
+  },
+  {
+    "id": "phys_55",
+    "qno": 55,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The repeated reflection that results in the persistence of sound is calle \nపలు మారుు పరావరతనం కారణంగా సాగదీయబడిన ధ్వనిని ఈ విధ్ంగా పిలుసాతరు",
+    "options": [
+      "Echo ప్రతిధ్వని",
+      "Multiple reflections బహుళ పరావరతనాలు",
+      "Reverberation ప్రతినాద్ం",
+      "Frequency పౌనఃప్పనయం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_55.webp"
+  },
+  {
+    "id": "phys_56",
+    "qno": 56,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The frequency of sound wave is 60 Hz. The number of times does it \nvibrate in one second is \nఒక ధ్వని త్రంగం యొకక పౌనఃప్పనయం 60 Hz. అది ఒక సెకనలో చేస్త కంపనాల \nసంఖ్య",
+    "options": [
+      "6",
+      "10",
+      "60",
+      "1/60"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_56.webp"
+  },
+  {
+    "id": "phys_57",
+    "qno": 57,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Temperature of an object is 250C. Its temperature in kelvin scale \nఒక వస్తవు యొకక ఉష్ణోగ్రత్ 250C. దాని ఉష్ణోగ్రత్ క్కలివన్ స్తకలులో",
+    "options": [
+      "298 K",
+      "248 K",
+      "300 K",
+      "25 K"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_57.webp"
+  },
+  {
+    "id": "phys_58",
+    "qno": 58,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Two objects A and B are in thermal equilibrium. If the temperature of A \nis 300C , Then the temperature of B is \nA మరియు B అనే వస్తవులు ఉష్ో సమత్తస్థాతిలో ఉనాియి. A యొకక ఉష్ణోగ్రత్ 300C \nఅయిన B యొకక ఉష్ణోగ్రత్",
+    "options": [
+      "00C",
+      "300C",
+      "3000C",
+      "600C"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_58.webp"
+  },
+  {
+    "id": "phys_59",
+    "qno": 59,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "1 Calorie is equal to \n1 క్కలోరీ దీనికి సమానం",
+    "options": [
+      "4186 J",
+      "418.6 J",
+      "41.86 J",
+      "4.186 J"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_59.webp"
+  },
+  {
+    "id": "phys_60",
+    "qno": 60,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Boiling point of water at normal atmospheric pressure is \nసాదారణ వ్యత్తవరణ పీడనం వద్ద నీటి మరుగు సాానం",
+    "options": [
+      "00C",
+      "1000C",
+      "1100C",
+      "-50C"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_60.webp"
+  },
+  {
+    "id": "phys_61",
+    "qno": 61,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "A spherical mirror whose reflecting surface curved inwards is called \nఒక గోళాకార ద్రపణ పరావరతన త్లం లోపలివైప్పకు వంగి వుంటే దానిని ఈ విధ్ంగా \nపిలుసాతరు",
+    "options": [
+      "Concave mirror ప్పటాకార ద్రపణం",
+      "Convex mirror కుంభాకార ద్రపణం",
+      "Plane mirror సమత్ల ద్రపణం",
+      "Plano convex mirror సమత్ల కుంభాకార ద్రపణం"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_61.webp"
+  },
+  {
+    "id": "phys_62",
+    "qno": 62,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "If an object is placed at centre of curvature in front of a concave mirror \nthen the characteristics of image \nఒక ప్పటాకార ద్రపణం ముందు దాని వక్రత్ కేంద్రం వద్ద వస్తవున ఉంచనప్పపడు \nప్రతిబంబ లక్షణాలు",
+    "options": [
+      "Real , inverted and diminished  నిజ , త్లక్రందులు మరియు క్షయీకృత్",
+      "Real , inverted and magnified  నిజ , త్లక్రందులు మరియు వృదీదకృత్",
+      "Real , inverted and same size  నిజ , త్లక్రందులు మరియు సమాన పరిమాణం",
+      "Virtual , erect and same size  మిధ్యయ , నిటారు మరియు సమాన పరిమాణం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_62.webp"
+  },
+  {
+    "id": "phys_63",
+    "qno": 63,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "To form an image at infinite distance, the object should be placed in front \nof a concave mirror at \nప్రతిబంబం అనంత్ దూరంలో ఏరపడటానికి వస్తవున ప్పటాకార ద్రపణం ముందు ఈ \nసాానం లో ఉంచ్చలి",
+    "options": [
+      "At focus నాభి వద్ద",
+      "At pole ధ్ృవం వద్ద",
+      "At centre of curvature వక్రత్ కేంద్రం వద్ద",
+      "Between pole and focus ధ్ృవం మరియు నాభి మధ్యలో"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_63.webp"
+  },
+  {
+    "id": "phys_64",
+    "qno": 64,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "This lens is called converging lens \nఈ కటకానిి కేంద్రీకరణ కటకం అని పిలుసాతరు",
+    "options": [
+      "Concave lens ప్పటాకార కటకం",
+      "Convex lens కుంభాకార కటకం",
+      "Plano concave lens సమత్ల ప్పటాకార కటకం",
+      "Plano convex lens సమత్ల కుంభాకార కటకం"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_64.webp"
+  },
+  {
+    "id": "phys_65",
+    "qno": 65,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Lens formula among the following \nకింది వ్యటిలో కటక సూత్రం",
+    "options": [
+      "1 𝑢 +  1 𝑣 =  1 𝑓",
+      "1 𝑣 -  1 𝑢 =  1 𝑓",
+      "1 𝑣 =  1 𝑓 -  1 𝑢",
+      "1 𝑢 =  1 𝑓 -  1 𝑣"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_65.webp"
+  },
+  {
+    "id": "phys_66",
+    "qno": 66,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The power of the lens with focal length 2metres ( in diapters) \n2 మీటరు నాబాయంత్రం గల కటక సామరధాం ( డై అపటర్ లలో)",
+    "options": [
+      "0.1",
+      "0.2",
+      "0.5",
+      "2"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_66.webp"
+  },
+  {
+    "id": "phys_67",
+    "qno": 67,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The following material cannot be used to make a lens \nకటక త్యారీకి ఉపయోగ పడని పదారదం",
+    "options": [
+      "Water నీరు",
+      "Glass గాజు",
+      "Plastic పాుస్థటక్",
+      "Clay బంక మటిట"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_67.webp"
+  },
+  {
+    "id": "phys_68",
+    "qno": 68,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The human eye forms the image of an object at its \nమానవుని కని ఒక వస్తవు యొకక ప్రతి బంబానిి ఇకకడ ఏరపరుస్తంది",
+    "options": [
+      "Cornea కారిియా",
+      "Iris కనపాప",
+      "Pupil త్తరక",
+      "Retina ర్కటీనా"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_68.webp"
+  },
+  {
+    "id": "phys_69",
+    "qno": 69,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The change in the focal length of the eye lens is caused by the action of \nదీని వలన కంటి కటకం యొకక నాబాయంత్రం మారుతుంది",
+    "options": [
+      "Pupil త్తరక",
+      "Retina ర్కటీనా",
+      "Ciliary muscles స్థలియరీ కండరాలు",
+      "Iris కనపాప"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_69.webp"
+  },
+  {
+    "id": "phys_70",
+    "qno": 70,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The splitting of white light into component colours is \nతెలుని కాంతి దాని అంశీబూత్ రంగులుగా విడిపోవడానిి ఈ విద్ంగా పిలుసాతరు",
+    "options": [
+      "Scattering పరిక్షేపణము",
+      "Dispersion విక్షేపణము",
+      "Reflection పరావరతనము",
+      "Refraction వక్రీభవనము"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_70.webp"
+  },
+  {
+    "id": "phys_71",
+    "qno": 71,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The defect arises due to gradual weakening of ciliary muscles and \ndiminishing the flexibility of eye lens is \nస్థలియారీ కండరాలు క్రమంగా బలహీన పడడం మరియు కంటి కటకం యొకక సాగే \nగుణం త్గుడం వలన ఏరపడే లోపం",
+    "options": [
+      "Myopia హ్రసవ ద్ృష్టట",
+      "Hypermetropia ధీర్ద్ృష్టట",
+      "Presbyopia చత్తవరం",
+      "blindness అంధ్త్వం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_71.webp"
+  },
+  {
+    "id": "phys_72",
+    "qno": 72,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The lens used to correct the eye defect myopia \nహ్రసవ ద్ృష్టట లోపానిి సవరించుటకు వ్యడే కటకం",
+    "options": [
+      "concave lens ప్పటాకార కటకం",
+      "convex lens కుంభాకార కటకం",
+      "plano convex lens సమత్ల కుంభాకార కటకం",
+      "plano concave lens సమత్ల ప్పటాకార కటకం"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_72.webp"
+  },
+  {
+    "id": "phys_73",
+    "qno": 73,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The S.I unit of potential difference \nపట్టనిషయల్ బేధ్యనికి S.I ప్రమాణం",
+    "options": [
+      "Ampere ఆంపియర్",
+      "Volt వోల్ట",
+      "Joule జౌల్",
+      "Ohm ఓమ్"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_73.webp"
+  },
+  {
+    "id": "phys_74",
+    "qno": 74,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Work done in moving a charge of 2C across two points having a \npotential difference 12V is \n12 V పట్టనిషయల్ భేద్ం గల ర్కండు బందువుల మధ్య 2 C ఆవేశానిి కదిలించుటకు \nజరగవలస్థన పని",
+    "options": [
+      "6 J",
+      "12 J",
+      "24 J",
+      "10 J"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_74.webp"
+  },
+  {
+    "id": "phys_75",
+    "qno": 75,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "If the length of the wire increased by 2 times, then the resistance of the \nwire increases by \nతీగ పడవున 2 ర్కట్టు పెంచనప్పపడు ఆ తీగ నిరోధ్ం విలువ ఇనిి ర్కట్టు పెరుగున",
+    "options": [
+      "2 times 2 ర్కట్టు",
+      "4 times 4 ర్కట్టు",
+      "½ times ½ ర్కట్టు",
+      "¼ times ¼ ర్కట్టు"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_75.webp"
+  },
+  {
+    "id": "phys_76",
+    "qno": 76,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "If the area of the cross section of the wire increases by 2 times, then the \nresistance increases by \nతీగ మధ్యచేేద్న వైశాలాయనిి 2 ర్కట్టు పెంచనప్పడు దాని నిరోధ్ం విలువ ఇనిి ర్కట్టు \nపెరుగుతుంది",
+    "options": [
+      "2 times 2 ర్కట్టు",
+      "4 times 4 ర్కట్టు",
+      "½ times ½ ర్కట్టు",
+      "¼ times ¼ ర్కట్టు"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_76.webp"
+  },
+  {
+    "id": "phys_77",
+    "qno": 77,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Resistors with resistance values 2 Ὠ, 4Ὠ are connected in series then the \nresultant resistance will be \n2 Ὠ , 4Ὠ నిరోధ్ విలువలు కలిగిన నిరోధ్యలన శ్రేణిలో కలిపినప్పడు ఫలిత్ నిరోధ్ \nవిలువ",
+    "options": [
+      "2 Ω",
+      "4 Ω",
+      "6 Ω",
+      "1/6 Ω"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_77.webp"
+  },
+  {
+    "id": "phys_78",
+    "qno": 78,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Resistors with resistances 5 Ω and 10 Ω are connected in parallel then the \nresultant resistance will be \n5 Ω మరియు 10 Ω నిరోధ్ విలువలు కలిగిన నిరోధ్యలన సమాంత్రంగా కలిపినప్పడు \nఫలిత్ నిరోధ్ం విలువ",
+    "options": [
+      "5 Ω",
+      "15 Ω",
+      "3/10 Ω",
+      "10/3 Ω"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_78.webp"
+  },
+  {
+    "id": "phys_79",
+    "qno": 79,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "When a current of 2A passed through the resistance of 5 Ω then the \npotential difference between the terminals of resistor is \n5 Ω ల నిరోధ్ం గుండా 2 A కర్కంట్ ప్రవహిస్తనిప్పడు ఆ నిరోధ్ం ర్కండు కొనల మధ్య \nపట్టనిషయల్ భేధ్ం",
+    "options": [
+      "3 V",
+      "2.5 V",
+      "0.4 V",
+      "10 V"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_79.webp"
+  },
+  {
+    "id": "phys_80",
+    "qno": 80,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "One kilo watt hour (KWH) is equal to \nఒక కిలో వ్యట్ అవర్ (KWH ) దీనికి సమానం",
+    "options": [
+      "3.6×106 erg 3.6×106 ఎర్ు",
+      "3.6×106 joul 3.6×106 జౌల్",
+      "3.6 erg 3.6 ఎర్ు",
+      "3.6 joule 3.6 జౌల్"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_80.webp"
+  },
+  {
+    "id": "phys_81",
+    "qno": 81,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The following terms does not represent electrical power in a circuit \nకింది వ్యనిలో ఒక విదుయత్ వలయంలో విదుయత్ సామరధామున సూచంచనిది",
+    "options": [
+      "i2R",
+      "iR2",
+      "V i",
+      "V2/ R"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_81.webp"
+  },
+  {
+    "id": "phys_82",
+    "qno": 82,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The S.I unit of resistivity \nనిరోద్కత్ యొకక S . I ప్రమాణం",
+    "options": [
+      "Ω",
+      "Ω - m",
+      "Ω m2",
+      "Ω / m2"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_82.webp"
+  },
+  {
+    "id": "phys_83",
+    "qno": 83,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "1 Volt = 1 𝑐𝑜𝑢𝑙𝑢𝑚𝑏 \n1 వోల్ట = 1 కులుంబ్",
+    "options": [
+      "1 joule",
+      "1 ohm",
+      "1 watt",
+      "1 ampere"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_83.webp"
+  },
+  {
+    "id": "phys_84",
+    "qno": 84,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "1 ohm = 1 𝑎𝑚𝑝𝑒𝑟𝑒 \n1 ఓమ్ = 1 ఆుంపియర్",
+    "options": [
+      "1 coulomb",
+      "1 joule",
+      "1 volt",
+      "1 watt"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_84.webp"
+  },
+  {
+    "id": "phys_85",
+    "qno": 85,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The physical quantity magnetic field has \nఅయసాకంత్ క్షేత్రం అనే భౌతిక రాశికి",
+    "options": [
+      "Only magnitude పరిమాణం మాత్రమే ఉంట్టంది",
+      "Only direction దిశ మాత్రమే ఉంట్టంది",
+      "Both magnitude and direction  పరిమాణం మరియు దిశ ర్కండు వుంటాయి",
+      "Neither magnitude nor direction  పరిమాణం కానీ దిశ కానీ ఉండదు"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_85.webp"
+  },
+  {
+    "id": "phys_86",
+    "qno": 86,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "In right hand thumb rule, thumb indicates the direction of \nకుడిచేతి బొటన వేలి నిబంధ్నలో బొటన వేలు ఈ దిశన చూప్పతుంది",
+    "options": [
+      "Magnetic field అయసాకంత్ క్షేత్రం",
+      "Electric current విదుయత్ ప్రవ్యహం",
+      "Induced current నివేశ విదుయత్",
+      "Induced magnetic field నివేశ అయసాకంత్ క్షేత్రం"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_86.webp"
+  },
+  {
+    "id": "phys_87",
+    "qno": 87,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The direction of magnetic lines of force outside the bar magnet \nద్ండయసాకంత్ వెలుపల అయసాకంత్ బలరేఖ్ల దిశ",
+    "options": [
+      "From north to south ఉత్తరం నండి ద్క్షిణం వైప్ప",
+      "From south to north ద్క్షిణం నండి ఉత్తరం వైప్ప",
+      "From east to west తూరుప నండి పడమరకు",
+      "From west to east పడమర నండి తూరుపకు"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_87.webp"
+  },
+  {
+    "id": "phys_88",
+    "qno": 88,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "If a current passes through the horizontal powerline from east to west \nthen the direction of magnetic field at a point below the wire when \nviewed from east to west \nక్షితిజ సమాంత్ర విధ్యయత్ తీగలో విధ్యయత్ ప్రవ్యహం తూరుప నండి పడమర వైప్ప \nప్రవహిస్తంటే దాని కింద్ ఒక బందువు వద్ద తూరుప నండి చూస్థనప్పపడు అయసాకంత్ \nక్షేత్ర దిశ",
+    "options": [
+      "In clockwise direction in a plane perpendicular to the wire  తీగకు లంబ దిశలో గల త్లంలో సవయ దిశలో",
+      "In anti clockwise direction in a plane perpendicular to the wire  తీగకు లంబ దిశలో గల త్లంలో అపసవయదిశలో",
+      "In clockwise direction in a plane parallel to the wire  తీగకు సమాంత్ర దిశలో గల త్లంలో సవయ దిశలో",
+      "In anti clockwise direction in a plane parallel to the wire  తీగకు సమాంత్ర దిశలో గల త్లంలో అపసవయదిశలో"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_88.webp"
+  },
+  {
+    "id": "phys_89",
+    "qno": 89,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "In Flemings left hand rule central finger indicates the direction of \nఫ్లుమింగ్ ఎడమ చేతి నిబంద్నలో మధ్య వేలు ఈ దిశన చూపిస్తంది",
+    "options": [
+      "Magnetic field అయసాకంత్ క్షేత్రం",
+      "Current విదుయత్ ప్రవ్యహం",
+      "Force on the conductor వ్యహకంపై పనిచేస్త బలం",
+      "Induced current నివేశ విదుయత్"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_89.webp"
+  },
+  {
+    "id": "phys_90",
+    "qno": 90,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "In Flemings left hand rule fore finger indicates the direction of \nఫ్లుమింగ్ ఎడమ చేతి నిబంద్నలో చూప్పడు వేలు ఈ దిశన చూపిస్తంది",
+    "options": [
+      "Magnetic field అయసాకంత్ క్షేత్రం",
+      "Current electricity విదుయత్ ప్రవ్యహం",
+      "Force on the conductor వ్యహకంపై పనిచేస్త బలం",
+      "Induced current నివేశ విదుయత్"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_90.webp"
+  },
+  {
+    "id": "phys_91",
+    "qno": 91,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "In Flemings left hand rule, thumb indicates the direction of \nఫ్లుమింగ్ ఎడమ చేతి నిబంద్నలో బొటన వేలు ఈ దిశన చూపిస్తంది",
+    "options": [
+      "Magnetic field అయసాకంత్ క్షేత్రం",
+      "Current electricity విదుయత్ ప్రవ్యహం",
+      "Force on the conductor వ్యహకంపై పనిచేస్త బలం",
+      "Induced current నివేశ విదుయత్"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_91.webp"
+  },
+  {
+    "id": "phys_92",
+    "qno": 92,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "At the time of short circuit , the current in the circuit \nషార్ట సరూకాట్ సమయంలో వలయంలో విదుయత్ ప్రవ్యహం",
+    "options": [
+      "Reduces substantially గణనీయంగా త్గుుతుంది",
+      "Does not change మారదు",
+      "Increases heavily బారీగా పెరుగుతుంది",
+      "Vary continuously నిరంత్రంగా మారుతూ ఉంట్టంది"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_92.webp"
+  },
+  {
+    "id": "phys_93",
+    "qno": 93,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Units of magnetic flux density is \nఅయసాకంత్ అభివ్యహ సాంద్రత్కు ప్రమాణాలు",
+    "options": [
+      "Weber వెబర్",
+      "Weber- meter వెబర్- మీటర్",
+      "Weber/meter వెబర్/మీటర్",
+      "Weber/meter2 వెబర్/మీటర్2"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_93.webp"
+  },
+  {
+    "id": "phys_94",
+    "qno": 94,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "If a charge ‘q’ move with a velocity ‘v’ perpendicular to the magnetic \nfield ‘B’ then the magnetic force on the charge is \n‘q’ ఆవేశం ‘v’ వేగంతో ‘B’ అయసాకంత్ క్షేత్రానికి లంబంగా కదులుతుంటే ఆ ఆవేశం \nపై పనిచేస్త అయసాకంత్ బలం",
+    "options": [
+      "qvB",
+      "𝑞𝑣𝐵 2",
+      "𝑞𝑣𝐵 3",
+      "0"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_94.webp"
+  },
+  {
+    "id": "phys_95",
+    "qno": 95,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Non-magnetic material among the following is \nకింది వ్యటిలో అనయసాకంత్ పదారధం",
+    "options": [
+      "Iron ఐరన్",
+      "Cobalt కోబాల్ట",
+      "Nickel నిక్కల్",
+      "Wood చెకక"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_95.webp"
+  },
+  {
+    "id": "phys_96",
+    "qno": 96,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "If you cut the magnet into two pieces number of poles does each piece \nhas \nఒక ఆయసాకంత్తనిి మీరు ర్కండు ముకకలుగా చేస్తత ప్రతి ముకకలో గల ద్ృవ్యల సంఖ్య",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_96.webp"
+  },
+  {
+    "id": "phys_97",
+    "qno": 97,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Bauxite is an ore of this metal \nబాక్కథైట్ అనేది ఈ లోహము యొకక దాతువు",
+    "options": [
+      "Zinc జంక్",
+      "Barium బేరియం",
+      "Aluminium అలూయమినియం",
+      "Iron ఐరన్"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_97.webp"
+  },
+  {
+    "id": "phys_98",
+    "qno": 98,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Formula of cinnabar is \nస్థనిబార్ యొకక ఫారుమలా",
+    "options": [
+      "HgS",
+      "PbS",
+      "AlCl3",
+      "MnO2"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_98.webp"
+  },
+  {
+    "id": "phys_99",
+    "qno": 99,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The impurity present in the ore is called \nదాతువులో ఉని మలినాలన ఈ విధ్ంగా పిలుసాతరు",
+    "options": [
+      "Gangue గాయంగ్",
+      "Flux ద్రవకారి",
+      "Slag లోహ మలం",
+      "Mineral ఖ్నిజం"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_99.webp"
+  },
+  {
+    "id": "phys_100",
+    "qno": 100,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The reducing agent in thermite process is \nధ్రిమట్ విధ్యనంలో క్షయకరణ కారకం",
+    "options": [
+      "Al",
+      "Mg",
+      "Fe",
+      "Si"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_100.webp"
+  },
+  {
+    "id": "phys_101",
+    "qno": 101,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The correct formula of gypsum \nజపైమ్ యొకక సరియైన ఫారుమలా",
+    "options": [
+      "CuSO4 . 2H2O",
+      "CaSO4 . 1/2H2O",
+      "CuSO4 . 5H2O",
+      "CaSO4 . 2H2O"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_101.webp"
+  },
+  {
+    "id": "phys_102",
+    "qno": 102,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Corrosion occurs in the presence of \nలోహ క్షయం వీటి సమక్షంలో జరుగుతుంది",
+    "options": [
+      "Oxygen and Carbon dioxide ఆకిైజన్ మరియు కారబన్ డై ఆక్కథైడ్",
+      "Oxygen and Water ఆకిైజన్ మరియు నీరు",
+      "Nitrogen and Water నైట్రోజన్ మరియు నీరు",
+      "Oxygen and Nitrogen ఆకిైజన్ మరియు నైట్రోజన్"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_102.webp"
+  },
+  {
+    "id": "phys_103",
+    "qno": 103,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Heating the ore in the absence of air or oxygen is called \nధ్యతువున గాలి లేదా ఆకిైజన్ లేకుండా వేడిచేయడానిి ఈ విధ్ంగా పిలుసాతరు",
+    "options": [
+      "Roasting భరజనము",
+      "Smelting ప్రగలనము",
+      "Calcination భస్మమకరణము",
+      "Refining శుదిధచేయడము"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_103.webp"
+  },
+  {
+    "id": "phys_104",
+    "qno": 104,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Heating the ore strongly in the presence of air or oxygen is called \nధ్యతువున గాలి లేదా ఆకిైజన్ సమక్షములో అధిక ఉష్ణోగ్రత్కు వేడి చేయడానిి ఈ \nవిధ్ంగా పిలిసాతరు",
+    "options": [
+      "Roasting భరజనము",
+      "Smelting ప్రగలనము",
+      "Calcination భస్మమకరణము",
+      "Refining శుదిధచేయడము"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_104.webp"
+  },
+  {
+    "id": "phys_105",
+    "qno": 105,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Heating the ore strongly by adding flux is called \nధ్యతువున ద్రవకారితో కలిపి అధిక ఉష్ణోగ్రత్కు వేడిచేయడానిి ఈ విధ్ంగా పిలుసాతరు",
+    "options": [
+      "Roasting భరజనము",
+      "Smelting ప్రగలనము",
+      "Calcination భస్మమకరణము",
+      "Refining శుదిధచేయడము"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_105.webp"
+  },
+  {
+    "id": "phys_106",
+    "qno": 106,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The most abundant metal in earth crust is \nభూపటలంలో అతి సమృదిదగా లభించే లోహం",
+    "options": [
+      "Silver వెండి",
+      "Aluminium అలూయమినియం",
+      "Zinc జంకు",
+      "Iron ఐరన్"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_106.webp"
+  },
+  {
+    "id": "phys_107",
+    "qno": 107,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Bronze is an alloy of these metals \nకంచు అనేది ఈ లోహాల మిశ్రమ లోహం",
+    "options": [
+      "Iron and Copper ఐరన్ మరియు రాగి",
+      "Copper and Aluminium రాగి మరియు అలూయమినియం",
+      "Copper and Tin రాగి మరియు త్గరం",
+      "Zinc and Tin జంక్ మరియు త్గరం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_107.webp"
+  },
+  {
+    "id": "phys_108",
+    "qno": 108,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The oil used in froth floatation process is \nపువన ప్రక్రయలోవ్యడే న్యనె",
+    "options": [
+      "Kerosene oil కిరోస్థన్ న్యనె",
+      "Pine oil పైన్ న్యనె",
+      "Coconut oil కొబబరి న్యనె",
+      "Olive oil ఆలివ్ న్యనె"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_108.webp"
+  },
+  {
+    "id": "phys_109",
+    "qno": 109,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Formula of chloroform \nకోురోఫామ్ యొకక ఫారుమలా",
+    "options": [
+      "CH3COOH",
+      "CHCl3",
+      "CH3CH2OH",
+      "CH4"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_109.webp"
+  },
+  {
+    "id": "phys_110",
+    "qno": 110,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The major component of biogas and compressed natural gas is \nబయో గాయస్ మరియు సంపీడయ సహజ వ్యయువు నందు ముఖ్య అనఘటకం",
+    "options": [
+      "Ehane ఈథేన్",
+      "Methane మీథేన్",
+      "Propane ప్రొపేన్",
+      "Butane బూయటేన్"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_110.webp"
+  },
+  {
+    "id": "phys_111",
+    "qno": 111,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Butanone is a four carbon compound with the functional group \nబుయటనోన్ అనేది ఈ ప్రమేయ సమూహమున కలిగి ఉని నాలుగు కారబను సమేమళనం",
+    "options": [
+      "Carboxylic acid కారాబకిైలిక్ ఆముం",
+      "Aldehyde ఆలిుహైడ్",
+      "Ketone కీటోన్",
+      "Alcohol ఆలకహాల్"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_111.webp"
+  },
+  {
+    "id": "phys_112",
+    "qno": 112,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Saturated hydrocarbon among the following \nకింది వ్యనిలో సంత్ృపత హైడ్రో కారబన్",
+    "options": [
+      "Ethane ఈథెన్",
+      "Ethene ఈథీన్",
+      "Ethyne ఇథైన్",
+      "Methene మీథీన్"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_112.webp"
+  },
+  {
+    "id": "phys_113",
+    "qno": 113,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Chemical formula of benzene is \nబెంజీన్ యొకక రసాయన ఫారుమలా",
+    "options": [
+      "C4H10",
+      "C5H6",
+      "C6H6",
+      "C6H12"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_113.webp"
+  },
+  {
+    "id": "phys_114",
+    "qno": 114,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Formula of alcohol functional group \nఆలకహాల్ ప్రమేయ సమూహం ఫారుమలా",
+    "options": [
+      "-OH",
+      "-COOH",
+      "-CHO",
+      "-NH2"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_114.webp"
+  },
+  {
+    "id": "phys_115",
+    "qno": 115,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Catalyst used in the hydrogenation of oils \nన్యనెల హైడ్రోజనీకరణం నందు ఉపయోగపడే ఉత్ప్పరరకం",
+    "options": [
+      "Iron ఐరన్",
+      "Nickle నిక్కల్",
+      "Chromium క్రోమియం",
+      "Manganese మాంగనీస్"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_115.webp"
+  },
+  {
+    "id": "phys_116",
+    "qno": 116,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Ethanol is commonly called as \nఇథనోల్ న సాదారణంగా ఇలా పిలుసాతరు",
+    "options": [
+      "Alcohol ఆలకహాల్",
+      "Acid ఆముం",
+      "Ketone కీటోన్",
+      "Ester ఎసటర్"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_116.webp"
+  },
+  {
+    "id": "phys_117",
+    "qno": 117,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Ethanoic acid is commonly called as \nఇథనోయిక్ ఆమాునిి సాధ్యరణంగా ఇలా కూడా పిలుసాతరు",
+    "options": [
+      "Hydrochloric acid హైడ్రో కోురిక్ ఆముం",
+      "Sulphuric acid సలూయారిక్ ఆముం",
+      "Acetic acid ఎస్థటిక్ ఆముం",
+      "Nitric acid నైట్రిక్ ఆముం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_117.webp"
+  },
+  {
+    "id": "phys_118",
+    "qno": 118,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The name of hydrocarbon C4H8 \nC4H8 హైడ్రోకారబన్ యొకక పేరు",
+    "options": [
+      "Butane బూయటేన్",
+      "Butene బూయటీన్",
+      "Butyne బూయటైన్",
+      "Propane ప్రోపేన్"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_118.webp"
+  },
+  {
+    "id": "phys_119",
+    "qno": 119,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Carbon has the ability to form long chains with other carbon elements \ncalled \nకారబన్ ఇత్ర పరమాణువులతో కలిస్థ పడవైన గొలుస్లు వంటి సమేమళనాలన \nఏరపరచుటన ఈ విధ్ంగా అంటారు",
+    "options": [
+      "Isomerism సాద్ృశయత్",
+      "Catenation శృంఖ్ల ధ్రమం",
+      "Formation of multiple bonds బహు బంధ్యల ఏరాపట్ట",
+      "Substitution ప్రతిక్షేపణ"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_119.webp"
+  },
+  {
+    "id": "phys_120",
+    "qno": 120,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Methane undergo substitution reaction with chlorine in the presence of \nsunlight to form \nమీథేన్ కోురిన్ తో సూరయకాంతి సమక్షంలో ప్రతిక్షేపణ చరయలలో పాల్గుని వీటిని \nఏరపరుసాతయి",
+    "options": [
+      "Methyl chloride and HCl మిథైల్ కోురైడ్ మరియు HCl",
+      "Ethyl chloride and HCl ఇథైల్ కోురైడ్ మరియు HCl",
+      "Methyl chloride and CO2 మిథైల్ కోురైడ్ మరియు CO2",
+      "Ethyl chloride and CO2 ఇథైల్ కోురైడ్ మరియు CO2"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_120.webp"
+  },
+  {
+    "id": "phys_121",
+    "qno": 121,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The following cannot be changed easily by friction \nఘరషణ దావరా ఈ కింది వ్యటిని త్వరగా ఆవేశిత్ం చేయలేము",
+    "options": [
+      "A plastic scale పాుస్థటక్ స్తకలు",
+      "A copper rod రాగి కడీు",
+      "An inflated balloon ఊదిన బెలూన్",
+      "A woollen cloth ఉనిి వస్త్రం"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_121.webp"
+  },
+  {
+    "id": "phys_122",
+    "qno": 122,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Choose the correct option \nA : Like charges repel each other \n B : Unlike charges attract each other \n సరైన ఐచేకానిి ఎనికోండి \nA : సజాతి ఆవేశాలు వికరిషంచుకుంటాయి \nB : విజాతి ఆవేశాలు ఆకరిషంచుకుంటాయి",
+    "options": [
+      "Both A and B are correct",
+      "Both A and B are incorrect",
+      "A is correct, B is incorrect",
+      "A is incorrect, B is correct"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_122.webp"
+  },
+  {
+    "id": "phys_123",
+    "qno": 123,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "A device used to test whether an object is carrying a charge or not is \nఒక వస్తవు ఆవేశానిి కలిగి ఉందా లేదా అని పరీక్షించుటకు ఉపయోగపడే పరికరం",
+    "options": [
+      "Microscope మైక్రోస్కకప్",
+      "Colonoscope కొలనొస్కకప్",
+      "Electroscope ఎలకోోస్కకప్",
+      "Telescope ట్టలిస్కకప్"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_123.webp"
+  },
+  {
+    "id": "phys_124",
+    "qno": 124,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "When a glass rod rubbed with silk cloth \nగాజు కడీుని స్థలుక గుడుతో రుదిదనప్పపడు",
+    "options": [
+      "The glass rod and the silk cloth both acquire positive charge  గాజు కడీు మరియు స్థలుక గుడు ర్కండూ ధ్నావేశానిి పందుత్తయి",
+      "The glass rod and the silk cloth both acquire negative charge   గాజు కడీు మరియు స్థలుక గుడు ర్కండూ ఋణావేశానిి పందుత్తయి",
+      "The rod acquire positive charge and the cloth acquire negative  charge  కడీు ధ్నావేశానిి మరియు గుడు రుణావేశానిి పందుత్తయి",
+      "The rod acquire negative charge and the cloth acquire positive  charge  కడీు ఋణావేశానిి మరియు గుడు ధ్నావేశానిి పందుత్తయి"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_124.webp"
+  },
+  {
+    "id": "phys_125",
+    "qno": 125,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The uppermost layer of the earth \nభూమి యొకక పరలలో అనిిటికనాి పైన ఉని పర",
+    "options": [
+      "Crust భూపటలం",
+      "Mantle భూ ప్రావ్యరము",
+      "Inner core అంత్ర కేంద్రం",
+      "Outer core బాహయ కేంద్రం"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_125.webp"
+  },
+  {
+    "id": "phys_126",
+    "qno": 126,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Physical change among the following is \nకింది వ్యటిలో బౌతిక మారుప",
+    "options": [
+      "Converting ice into water మంచు నీరుగా మారుాట",
+      "Rusting of iron ఇనము తుప్పప పట్టటట",
+      "Burning of magnesium ribbon మెగ్నిష్టయం రిబబనన మండించుట",
+      "Changing milk into curd పాలన పెరుగుగా మారుాట"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_126.webp"
+  },
+  {
+    "id": "phys_127",
+    "qno": 127,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The gas released by the action of vinegar with baking soda \nవెనిగర్ న బేకింగ్ స్కడాతో కలిపి చరయ నొందించడం దావరా విడుద్లయ్యయ వ్యయువు",
+    "options": [
+      "Hydrogen హైడ్రోజన్",
+      "Oxygen ఆకిైజన్",
+      "Carbon dioxide కారబన్ డైఆక్కథైడ్",
+      "Nitrogen నైట్రోజన్"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_127.webp"
+  },
+  {
+    "id": "phys_128",
+    "qno": 128,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The chemical change among the following is \nకింది వ్యటిలో రసాయన మారుప",
+    "options": [
+      "Converting ice into water మంచుగడు నీరుగా మారుాట",
+      "Cutting a paper into four parts పేపరున నాలుగు భాగాలుగా చేయుట",
+      "Stretching a rubber band రబబరు బాయండున సాగదీయుట",
+      "Burning crackers బాణాసంచ్చ కాలుాట"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_128.webp"
+  },
+  {
+    "id": "phys_129",
+    "qno": 129,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The process of depositing this metal layer on iron articles called as \ngalvanisation \nఇనముపై ఈ లోహ పూత్ పూస్త ప్రక్రయన గాలవనీకరణము అంటారు",
+    "options": [
+      "Aluminium అలూయమినియం",
+      "Chromium క్రోమియం",
+      "Zinc జంక్",
+      "Copper రాగి"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_129.webp"
+  },
+  {
+    "id": "phys_130",
+    "qno": 130,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The chemical name of baking soda is \nవంట స్కడా రసాయన నామము",
+    "options": [
+      "Sodium carbonate స్కడియం కారోబనేట్",
+      "Sodium bicarbonate స్కడియం బై కారోబనేట్",
+      "Sodium sulphate స్కడియం సలేయట్",
+      "Sodium chloride స్కడియం కోురైడ్"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_130.webp"
+  },
+  {
+    "id": "phys_131",
+    "qno": 131,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Choose the correct option \nA : Iron and rust are different substances \n B : Condensation is a physical change \nసరైన ఐచేకానిి ఎనికోండి \nA : ఇనము మరియు తుప్పప వేరు వేరు పదారాదలు \nB : సాంద్రీకరణం ఒక భౌతిక మారుప",
+    "options": [
+      "Both A and B are correct",
+      "Both A and B are incorrect",
+      "A is correct , B is incorrect",
+      "A is incorrect , B is correct"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_131.webp"
+  },
+  {
+    "id": "phys_132",
+    "qno": 132,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Freezing mixture is a combination of \nఘనీభవన మిశ్రమం ఈ ర్కండింటి యొకక కలయిక",
+    "options": [
+      "Ice and water మంచు మరియు నీరు",
+      "Ice and common salt మంచు మరియు ఉప్పప",
+      "Water and common salt నీరు మరియు ఉప్పప",
+      "Water and starch నీరు మరియు పిండి పదారధం"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_132.webp"
+  },
+  {
+    "id": "phys_133",
+    "qno": 133,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The surface phenomenon among the following \nక్రంది వ్యటిలో ఉపరిత్ల ద్ృగివష్యం",
+    "options": [
+      "Melting ద్రవీభవనం",
+      "Boiling మరుగుట",
+      "Evaporation భాష్పపభవనం",
+      "Deposition నిక్షేపణం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_133.webp"
+  },
+  {
+    "id": "phys_134",
+    "qno": 134,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Metal present in liquid state at room temperature \nగది ఉష్ణోగ్రత్ వద్ద ద్రవస్థాతిలో ఉండే లోహం",
+    "options": [
+      "Sodium స్కడియం",
+      "Potassium పటాష్టయం",
+      "Calcium కాలిషయం",
+      "Mercury పాద్రసం"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_134.webp"
+  },
+  {
+    "id": "phys_135",
+    "qno": 135,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Among the following example for metalloid \nక్రంది వ్యనిలో అరధలోహానికి ఉదాహరణ",
+    "options": [
+      "Silicon స్థలికాన్",
+      "Iron ఐరన్",
+      "Sulphur సలయర్",
+      "Chlorine కోురిన్"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_135.webp"
+  },
+  {
+    "id": "phys_136",
+    "qno": 136,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Example for homogeneous mixture \nసజాతీయ మిశ్రమానికి ఉదాహరణ",
+    "options": [
+      "Sand and salt ఇస్క మరియు ఉప్పప",
+      "Sugar and salt చక్కకర మరియు ఉప్పప",
+      "Water and oil నీరు మరియు న్యనె",
+      "Salt and water ఉప్పప మరియు నీరు"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_136.webp"
+  },
+  {
+    "id": "phys_137",
+    "qno": 137,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Example for heterogenous mixture \nవిజాతీయ మిశ్రమానికి ఉదాహరణ",
+    "options": [
+      "Water in alcohol ఆలకహాల్ లో ఉని నీరు",
+      "Salt in water నీటిలో ఉప్పప",
+      "Sulphur in carbon disulphide కారబన్ డై సల్థయడ్ లో సలయర్",
+      "Water in oil న్యనెలో కలిస్థ ఉని నీరు"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_137.webp"
+  },
+  {
+    "id": "phys_138",
+    "qno": 138,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The percentage of Oxygen and Nitrogen in air respectively \nగాలిలో ఆకిైజన్ మరియు నైట్రోజన్ శాత్తలు వరుసగా",
+    "options": [
+      "21, 78",
+      "78, 21",
+      "10, 80",
+      "80, 10"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_138.webp"
+  },
+  {
+    "id": "phys_139",
+    "qno": 139,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "CNG means \nCNG అనగా",
+    "options": [
+      "Controlled Natural Gas",
+      "Compressed Natural Gas",
+      "Compressed Nature Gas",
+      "Controlled Nature Gas"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_139.webp"
+  },
+  {
+    "id": "phys_140",
+    "qno": 140,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The melting point of Ice is nearly ( in Kelvin) \nమంచు ద్రవీభవన సాానం స్మారుగా ( క్కలివనులో )",
+    "options": [
+      "100",
+      "273.15",
+      "0",
+      "373.15"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_140.webp"
+  },
+  {
+    "id": "phys_141",
+    "qno": 141,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Example of a substance that Sublimise \nఉత్పత్నం చెందు పదారధమునకు ఉదాహరణ",
+    "options": [
+      "Camphor కరూపరం",
+      "Common salt సాధ్యరణ ఉప్పప",
+      "Ice మంచు",
+      "Magnesium మెగ్నిష్టయం"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_141.webp"
+  },
+  {
+    "id": "phys_142",
+    "qno": 142,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Changing directly from gaseous state to solid state without converting \ninto liquid state called \nద్రవస్థాతిలోకి మారకుండా వ్యయు స్థాతి నండి నేరుగా ఘన స్థాతికి మారడానిి ఈ విధ్ంగా \nపిలుసాతరు",
+    "options": [
+      "Melting ద్రవీభవనం",
+      "Sublimation ఉత్పత్నం",
+      "Deposition నిక్షేపణం",
+      "Crystallization సపటికీకరణం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_142.webp"
+  },
+  {
+    "id": "phys_143",
+    "qno": 143,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The rate of evaporation increases with \nభాష్పపభవన రేట్ట దీనితో పెరుగుతుంది",
+    "options": [
+      "Increase in surface area ఉపరిత్ల వైశాలయంలో పెరుగుద్ల",
+      "Decrease in temperature ఉష్ణోగ్రత్లో త్గుుద్ల",
+      "High humidity అధిక ఆర్దదరత్",
+      "Decrease in wind speed గాలి వేగంలో త్గుుద్ల"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_143.webp"
+  },
+  {
+    "id": "phys_144",
+    "qno": 144,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "300 K value in Celsius scale \n300 K విలువ సెలిైయస్ స్తకలు నందు",
+    "options": [
+      "1000C",
+      "2730C",
+      "270C",
+      "5730C"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_144.webp"
+  },
+  {
+    "id": "phys_145",
+    "qno": 145,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The chemical formula of Magnesium Chloride \nమెగ్నిష్టయం కోురైడ్ రసాయన సాంకేతికం",
+    "options": [
+      "MgCl",
+      "MgCl2",
+      "Mg2Cl",
+      "Mg2Cl2"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_145.webp"
+  },
+  {
+    "id": "phys_146",
+    "qno": 146,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Molecular mass of CaCl2 CaCl2 అణుద్రవయ రాశి",
+    "options": [
+      "75 u",
+      "11 u",
+      "106 u",
+      "111 u"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_146.webp"
+  },
+  {
+    "id": "phys_147",
+    "qno": 147,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Among the following the element with atomicity One \nక్రంది వ్యనిలో పరమాణుకత్ విలువ ఒకటి గల మూలకం",
+    "options": [
+      "Helium హీలియం",
+      "Oxygen ఆకిైజన్",
+      "Hydrogen హైడ్రోజన్",
+      "Nitrogen నైట్రోజన్"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_147.webp"
+  },
+  {
+    "id": "phys_148",
+    "qno": 148,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The ratio of Nitrogen and Hydrogen in Ammonia by mass \nఅమ్మమనియాలో నైట్రోజన్ మరియు హైడ్రోజన్ ల ద్రవయరాశి నిష్పతిత",
+    "options": [
+      "14:3",
+      "7:3",
+      "7:1",
+      "14:1"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_148.webp"
+  },
+  {
+    "id": "phys_149",
+    "qno": 149,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The symbol of Carbonate ion is \nకారోబనేట్ అయాన్ సంకేత్ం",
+    "options": [
+      "CO3-",
+      "CO3-2",
+      "CO3-3",
+      "CO+2"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_149.webp"
+  },
+  {
+    "id": "phys_150",
+    "qno": 150,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Tetra atomic element among the following is \nక్రంది వ్యటిలో చతు:పరమాణుక మూలకం",
+    "options": [
+      "Oxygen ఆకిైజన్",
+      "Sulphur సలపర్",
+      "Argon ఆరాున్",
+      "Phosphorous పాసయరస్"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_150.webp"
+  },
+  {
+    "id": "phys_151",
+    "qno": 151,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The number of valency shell electrons present in Chlorine atom \nకోురిన్ పరమాణువు బాహయ కక్షాలో గల ఎలకాోన్ ల సంఖ్య",
+    "options": [
+      "1",
+      "2",
+      "7",
+      "8"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_151.webp"
+  },
+  {
+    "id": "phys_152",
+    "qno": 152,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The number of protons present in Tritium (1H3 ) \nట్రిటియం (1H3)లో గల ప్రొటాన్ ల సంఖ్య",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_152.webp"
+  },
+  {
+    "id": "phys_153",
+    "qno": 153,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The correct electron configuration of Sodium (Na) \nస్కడియం (Na) యొకక సరైన ఎలకాోన్ వినాయసం",
+    "options": [
+      "2 , 8",
+      "2 , 8 ,1",
+      "2 , 1 , 8",
+      "8 , 2, 1"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_153.webp"
+  },
+  {
+    "id": "phys_154",
+    "qno": 154,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Rutherford’s Alpha particle scattering experiment was responsible for the \ndiscovery of \nరూథర్ ఫర్ు ఆలాయ కణ పరిక్షేపణ ప్రయోగం దావరా కనగొనబడినది",
+    "options": [
+      "Atomic nucleus పరమాణు కేంద్రకం",
+      "Electron ఎలకాోన్",
+      "Proton ప్రొటాన్",
+      "Neutron న్యయట్రాన్"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_154.webp"
+  },
+  {
+    "id": "phys_155",
+    "qno": 155,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Isotopes of an element have \nమూలక ఐస్కటోప్పలు కలిగి ఉండునది",
+    "options": [
+      "The same physical properties ఒకే భౌతిక ధ్రామలు",
+      "Different chemical properties వేరేవరు రసాయన ధ్రామలు",
+      "Different number of neutrons వేరేవరు న్యయట్రాను సంఖ్య",
+      "Different atomic numbers వేరేవరు పరమాణు సంఖ్యలు"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_155.webp"
+  },
+  {
+    "id": "phys_156",
+    "qno": 156,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Isotope used as a fuel in nuclear reactors \nన్యయకిుయర్ రియాకటరులో ఇంధ్నంగా వ్యడే ఐస్కటోప్ప",
+    "options": [
+      "Cobalt కోబాల్ట",
+      "Uranium యురేనియం",
+      "Iodine అయోడిన్",
+      "Carbon కారబన్"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_156.webp"
+  },
+  {
+    "id": "phys_157",
+    "qno": 157,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The ability of metals to be drawn into thin wires is called \nలోహాలన సనిని తీగలుగా మారాగలిగే ధ్రామనిి ఇలా పిలుసాతరు",
+    "options": [
+      "Malleability సారణీయత్",
+      "Ductility త్తంత్వత్",
+      "Sonority ధ్వనిగుణం",
+      "Lustrous దుయతిగుణం"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_157.webp"
+  },
+  {
+    "id": "phys_158",
+    "qno": 158,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "All metals exist as solids at room temperature except \nఈ లోహం త్పప మిగిలిన లోహాలనీి గది ఉష్ణోగ్రత్ వద్ద ఘన స్థాతిలో ఉంటాయి",
+    "options": [
+      "Sodium స్కడియం",
+      "Magnesium మెగ్నిష్టయం",
+      "Zinc జంకు",
+      "Mercury పాద్రసం"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_158.webp"
+  },
+  {
+    "id": "phys_159",
+    "qno": 159,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Most non metals produce these when dissolves in water \nఅలోహాలనీి నీటిలో కరిగినప్పపడు వీటిని ఇసాతయి",
+    "options": [
+      "Acidic oxides ఆము ఆక్కథైడుు",
+      "Basic oxides క్షార ఆక్కథైడుు",
+      "Neutral oxides త్టసా ఆక్కథైడుు",
+      "peroxides పెరాక్కథైడుు"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_159.webp"
+  },
+  {
+    "id": "phys_160",
+    "qno": 160,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Metals that have low melting points \nఅలప ద్రవీభవన సాానాలు గల లోహాలు",
+    "options": [
+      "Sodium , Magnesium స్కడియం , మెగ్నిష్టయం",
+      "Zinc , Potassium జంక్ , పటాష్టయం",
+      "Gallium , Caesium గాలియం , స్మజయం",
+      "Calcium , Barium కాలిషయం , బేరియం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_160.webp"
+  },
+  {
+    "id": "phys_161",
+    "qno": 161,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Metal that reacts with water \nనీటితో చరయ జరిపే లోహం",
+    "options": [
+      "Sodium స్కడియం",
+      "Gold బంగారం",
+      "Silver వెండి",
+      "Copper కాపర్"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_161.webp"
+  },
+  {
+    "id": "phys_162",
+    "qno": 162,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Cation present in NaCl \n NaCl లో ఉండే కేటయాన",
+    "options": [
+      "Na+",
+      "Na+2",
+      "Cl-1",
+      "Cl-2"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_162.webp"
+  },
+  {
+    "id": "phys_163",
+    "qno": 163,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Cation present in MgCl2 \n MgCl2 నందు గల కేటయాన",
+    "options": [
+      "Mg+",
+      "Mg+2",
+      "Cl-1",
+      "Cl-2"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_163.webp"
+  },
+  {
+    "id": "phys_164",
+    "qno": 164,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Bond formed by the transfer of electrons from metals to nonmetal is \nలోహాల నండి అలోహాలకు ఎలకాోను బదిలీవలు ఏరపడే బంధ్ం",
+    "options": [
+      "Ionic bond అయానిక బంధ్ం",
+      "Covalent bond సంయోజనీయ బంధ్ం",
+      "Polar covalent bond ధ్ృవ సంయోజనీయ బంధ్ం",
+      "Non polar covalent bond అద్ృవ సంయోజనీయ బంధ్ం"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_164.webp"
+  },
+  {
+    "id": "phys_165",
+    "qno": 165,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The layer of the earth that is major source of metals \nలోహాల ప్రధ్యన వనరైన భూమి యొకక పర",
+    "options": [
+      "Crust భూపటలం",
+      "Mantle భూప్రావ్యరం",
+      "Inner core అంత్ర కేంద్రం",
+      "Outer core బాహయ కేంద్రం"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_165.webp"
+  },
+  {
+    "id": "phys_166",
+    "qno": 166,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Galvanization is a method of coating a thin layer of this metal \nపలుచని ఈ లోహప్ప పరన పూత్గా పూయడానిి గాలవనీకరణం అంటారు",
+    "options": [
+      "Iron ఇనము",
+      "Zinc జంక్",
+      "Aluminium అలూయమినియం",
+      "Chromium క్రోమియం"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_166.webp"
+  },
+  {
+    "id": "phys_167",
+    "qno": 167,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "To get Stainless steel, Iron is added to \nఉకుకన పందుటకు ఇనముకు వీటిని కలుప్పత్తరు",
+    "options": [
+      "Nickel and Copper నిక్కల్ మరియు కాపర్",
+      "Nickel and Chromium నిక్కల్ మరియు క్రోమియం",
+      "Chromium and Platinum క్రోమియం మరియు పాుటినం",
+      "Nickel and Platinum నిక్కల్ మరియు పాుటినం"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_167.webp"
+  },
+  {
+    "id": "phys_168",
+    "qno": 168,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Example of molecule with Covalent bond \nసంయోజనీయ బంధ్ అణువుకు ఉదాహరణ",
+    "options": [
+      "NaCl",
+      "AlCl3",
+      "MgCl2",
+      "HCl"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_168.webp"
+  },
+  {
+    "id": "phys_169",
+    "qno": 169,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "This fibre is called artificial silk \nఈ దారానిి కృత్రిమ పట్టట అని పిలుసాతరు",
+    "options": [
+      "Nylon నైలాన్",
+      "Rayon రేయాన్",
+      "Acrylic ఆక్రలిక్",
+      "Polyester పాలిసటర్"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_169.webp"
+  },
+  {
+    "id": "phys_170",
+    "qno": 170,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Polycot is a mixture of \nపాలికాట్ అనేది వీటి మిశ్రమం",
+    "options": [
+      "Polyester and wool పాలిసటర్ మరియు ఉనిి",
+      "Polyester and cotton పాలిసటర్ మరియు న్యలు",
+      "Polyester and silk పాలిసటర్ మరియు స్థల్క",
+      "Polyester and nylon పాలిసటర్ మరియు నైలాన్"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_170.webp"
+  },
+  {
+    "id": "phys_171",
+    "qno": 171,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Thermosetting plastic used in the preparation of electrical switches, \nhandles of utensils \nవిదుయత్ స్థవచ్ లు, వంట పాత్రల పిడుల త్యారీలో వ్యడే థరోమ సెటిటంగ్ పాుస్థటక్",
+    "options": [
+      "Bakelite బేకలైట్",
+      "Melamine మెలమైన్",
+      "Polythene పాలిథీన్",
+      "PVC పీవీస్మ"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_171.webp"
+  },
+  {
+    "id": "phys_172",
+    "qno": 172,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Artificial fibre used in the preparation of Parachutes and ropes for rock \nclimbing \nపారాచూట్ ల త్యారీలో మరియు పరవత్తరోహణకు ఉపయోగించే త్తళు త్యారీలో \nవ్యడే కృత్రిమ దారం",
+    "options": [
+      "Rayon రేయాన్",
+      "Nylon నైలాన్",
+      "Acrylic ఆక్రలిక్",
+      "Polyester పాలిసటర్"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_172.webp"
+  },
+  {
+    "id": "phys_173",
+    "qno": 173,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Inexhaustible natural resource among the following \nక్రంది వ్యనిలో త్రగని శకిత వనరు",
+    "options": [
+      "Forest అడవులు",
+      "Minerals ఖ్నిజాలు",
+      "Petroleum పెట్రోలియం",
+      "Sunlight సూరయరశిమ"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_173.webp"
+  },
+  {
+    "id": "phys_174",
+    "qno": 174,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The process of conversion of dead vegetation into coal is called \nవృక్ష సంపద్ నెమమదిగా నేలబొగుుగా మారే ప్రక్రయన ఈ విధ్ంగా పిలుసాతరు",
+    "options": [
+      "Carbonisation కారోబనైజేష్న్",
+      "Oxidation ఆకీైకరణం",
+      "Calcination భస్మమకరణం",
+      "Reduction క్షయకరణం"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_174.webp"
+  },
+  {
+    "id": "phys_175",
+    "qno": 175,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The purest form of carbon is \nకారబన్ యొకక సవచేమైన రూపం",
+    "options": [
+      "Coal నేల బొగుు",
+      "Coke కోక్",
+      "Coal tar కోల్ త్తరు",
+      "Coal gas కోల్ వ్యయువు"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_175.webp"
+  },
+  {
+    "id": "phys_176",
+    "qno": 176,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "CNG means \nCNG అనగా",
+    "options": [
+      "Compressed Natural Gas",
+      "Contract Natural Gas",
+      "Compressed Nano Gas",
+      "Contract Nano Gas"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_176.webp"
+  },
+  {
+    "id": "phys_177",
+    "qno": 177,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "This is not an inflammable substance \nఇది ద్హనశీలి పదారధం కాదు",
+    "options": [
+      "Wood చెకక",
+      "Petrol పెట్రోల్",
+      "Alcohol ఆలకహాల్",
+      "LPG ఎల్. పి. జ"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_177.webp"
+  },
+  {
+    "id": "phys_178",
+    "qno": 178,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The best fire extinguisher for fires involving electrical equipment and \ninflammable materials \nవిదుయత్ పరికరాలు మరియు ద్హనశీలి పదారాధలు మండుతునిప్పపడు వ్యటిని ఆరపడానికి \nఉత్తమమైనది",
+    "options": [
+      "Water నీరు",
+      "Oxygen ఆకిైజన్",
+      "Coconut oil కొబబరిన్యనె",
+      "Carbon dioxide కారబన్ డై ఆక్కథైడ్"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_178.webp"
+  },
+  {
+    "id": "phys_179",
+    "qno": 179,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The dangerous gas released by the incomplete combustion of fuels is \nఇంధ్నాల అసంపూరో ద్హనం వలన విడుద్లయ్యయ ప్రమాద్కర వ్యయువు",
+    "options": [
+      "Carbon monoxide కారబన్ మ్మనాక్కథైడ్",
+      "Carbon dioxide కారబన్ డై ఆక్కథైడ్",
+      "Oxygen ఆకిైజన్",
+      "Hydrogen హైడ్రోజన్"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_179.webp"
+  },
+  {
+    "id": "phys_180",
+    "qno": 180,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The cleaner fuel among the following is \nక్రంది వ్యటిలో సవచేమైన ఇంధ్నం",
+    "options": [
+      "Petrol పెట్రోల్",
+      "Diesel డీజల్",
+      "Coal నేలబొగుు",
+      "CNG స్మ. ఎన్ . జ"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_180.webp"
+  },
+  {
+    "id": "phys_181",
+    "qno": 181,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Acid among the following \nక్రంది వ్యనిలో ఆముం",
+    "options": [
+      "NaOH",
+      "CH3COOH",
+      "KOH",
+      "NH4OH"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_181.webp"
+  },
+  {
+    "id": "phys_182",
+    "qno": 182,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "This cannot be used as an olfactory indicator \nదీనిని ఘ్రాణ సూచకగా ఉపయోగించలేము",
+    "options": [
+      "Vanilla essence వెనీలా ఎసెన్ై",
+      "Clove oil లవంగ న్యనె",
+      "Hibiscus మందారం",
+      "Onion ఉలిుపాయ"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_182.webp"
+  },
+  {
+    "id": "phys_183",
+    "qno": 183,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The gas released by the reaction of zinc with hydrochloric acid \nజంక్ హైడ్రోకోురిక్ ఆముంతో చరయ వలన విడుద్లయ్యయ వ్యయువు",
+    "options": [
+      "Oxygen ఆకిైజన్",
+      "Hydrogen హైడ్రోజన్",
+      "Nitrogen నైట్రోజన్",
+      "Carbon dioxide కారబన్ డై ఆక్కథైడ్"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_183.webp"
+  },
+  {
+    "id": "phys_184",
+    "qno": 184,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Acids reacts with bases to form \nఆమాులు క్షారాలతో చరయ జరపడం వలన ఏరపడేవి",
+    "options": [
+      "Only salts లవణాలు మాత్రమే",
+      "Only water నీరు మాత్రమే",
+      "Salt and water లవణం మరియు నీరు",
+      "Bases క్షారాలు"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_184.webp"
+  },
+  {
+    "id": "phys_185",
+    "qno": 185,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Bases that are soluble in water are called \nనీటిలో కరిగే క్షారాలన ఈవిధ్ంగా పిలుసాతరు",
+    "options": [
+      "Alcohols ఆలకహాల్ లు",
+      "Alkaloids ఆలకలాయిడుు",
+      "Alkalis ఆలకలీలు",
+      "Alkyls ఆల్థకల్ై"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_185.webp"
+  },
+  {
+    "id": "phys_186",
+    "qno": 186,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Acidic solution among the following is \nక్రంది వ్యనిలో ఆము ద్రావణం",
+    "options": [
+      "Gastric juice జీరోరసం",
+      "Pure water సవచేమైన నీరు",
+      "Milk of magnesia మిల్క ఆఫ్ మెగ్నిష్టయ",
+      "Sodium hydroxide స్కడియం హైడ్రాక్కథైడ్"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_186.webp"
+  },
+  {
+    "id": "phys_187",
+    "qno": 187,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Milk of magnesia is a \nమిల్క ఆఫ్ మెగ్నిష్టయ అనేది ఒక",
+    "options": [
+      "Strong Acid బలమైన ఆముం",
+      "Weak Acid బలహీన ఆముం",
+      "Strong Base బలమైన క్షారం",
+      "Weak Base బలహీన క్షారం"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_187.webp"
+  },
+  {
+    "id": "phys_188",
+    "qno": 188,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The acid present in Tomato \nటోమాటోలో ఉండే ఆముం",
+    "options": [
+      "Oxalic acid ఆకాజలిక్ ఆముం",
+      "Tartaric acid టారాటరిక్ ఆముం",
+      "Citric acid స్థట్రిక్ ఆముం",
+      "Acetic acid ఎస్థటిక్ ఆముం"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_188.webp"
+  },
+  {
+    "id": "phys_189",
+    "qno": 189,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Number of water molecules present in Washing soda formula \nవ్యష్టంగ్ స్కడా ఫారుమలా నందు గల నీటి అణువుల సంఖ్య",
+    "options": [
+      "2",
+      "5",
+      "8",
+      "10"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_189.webp"
+  },
+  {
+    "id": "phys_190",
+    "qno": 190,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Plaster of Paris is derived by heating \nదీనిని వేడి చేయడం దావరా పాుసటర్ ఆఫ్ పారిస్ న పంద్వచుా",
+    "options": [
+      "Sodium carbonate స్కడియం కారోబనేట్",
+      "Copper sulphate కాపర్ సలేయట్",
+      "Gypsum జపైం",
+      "Sodium chloride స్కడియం కోురైడ్"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_190.webp"
+  },
+  {
+    "id": "phys_191",
+    "qno": 191,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The substance that turns the red litmus into blue colour is \nఎరుప్ప లిటమస్ న నీలి రంగులోకి మారేా పదారధం",
+    "options": [
+      "Acid ఆముం",
+      "Base క్షారం",
+      "Neutral త్టసాం",
+      "Water నీరు"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_191.webp"
+  },
+  {
+    "id": "phys_192",
+    "qno": 192,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The type of medicines used for treating indigestion \nఈ రకమైన మందులన అజీరాోనికి చకిత్ై చేయడానికి వ్యడత్తరు",
+    "options": [
+      "Antibiotic యాంటీ బయోటిక్",
+      "Analgesic ఏనాలిజస్థక్",
+      "Antacid యాంటాస్థడ్",
+      "Antiseptic యాంటీ సెపిటక్"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_192.webp"
+  },
+  {
+    "id": "phys_193",
+    "qno": 193,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The statement of an actual event or a physical event is \nఒక భౌతిక వస్తవు లేదా యధ్యరధ సంఘటనన వివరించే ప్రవచనమే ఒక",
+    "options": [
+      "Fact యధ్యరధం",
+      "Generalization సాదారణీకరణం",
+      "Concept భావన",
+      "Hypothesis ప్రాకలపన"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_193.webp"
+  },
+  {
+    "id": "phys_194",
+    "qno": 194,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "“Magnets attracts iron objects” this statement is an example for \n“ అయసాకంత్ం ఇనప వస్తవులన ఆకరిషస్తంది” అనే వ్యఖ్యం దీనికి ఉదాహరణ",
+    "options": [
+      "Fact యధ్యరధం",
+      "Generalization సాదారణీకరణం",
+      "Concept భావన",
+      "Hypothesis ప్రాకలపన"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_194.webp"
+  },
+  {
+    "id": "phys_195",
+    "qno": 195,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "‘Can water be boiled at any temperature?’ this statement is an example \nfor this type of hypothesis \n‘నీటిని ఏ ఉష్ణోగ్రత్ వద్ద నైనా మరిగించవచ్చా?’ ప్రవచనం ఈ రకమైన ప్రాకలపనకు \nఉదాహరణ",
+    "options": [
+      "Null hypothesis నల్ ప్రాకలపన",
+      "Declarative hypothesis ప్రకటనాత్మక ప్రాకలపన",
+      "Prediction hypothesis ప్రాగుకిత ప్రాకలపన",
+      "Question hypothesis ప్రశి ప్రాకలపన"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_195.webp"
+  },
+  {
+    "id": "phys_196",
+    "qno": 196,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "‘There is relation between pressure and boiling point of water’ this \nstatement is an example for this type of hypothesis \n‘నీరు మరిగే ఉష్ణోగ్రత్కు పీడనానికి సంబంద్ం ఉంది’అనే ప్రవచనం ఈ రకమైన \nప్రాకలపనకు ఉదాహరణ",
+    "options": [
+      "Null hypothesis నల్ ప్రాకలపన",
+      "Declarative hypothesis ప్రకటనాత్మక ప్రాకలపన",
+      "Prediction hypothesis ప్రాగుకిత ప్రాకలపన",
+      "Question hypothesis ప్రశి ప్రాకలపన"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_196.webp"
+  },
+  {
+    "id": "phys_197",
+    "qno": 197,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "‘Science learning is useful for entering into different professions like \nDoctors, Engineers and Teachers’ indicates this value \n‘డాకటరుు, ఇంజనీరుు మరియు ఉపాధ్యయయులు మొద్లైన వృతుతలలోనికి ప్రవేశించుటకు \nవిజాానశాస్త్ర అభయసనం తోడపడుతుంది’ ఇది ఈ రకమైన విలువన తెలుప్పతుంది",
+    "options": [
+      "Intellectual value బౌదిధక విలువ",
+      "Cultural value సాంసకృతిక విలువ",
+      "Moral value నైతిక విలువ",
+      "V ocational value వృతితపరమైన విలువ"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_197.webp"
+  },
+  {
+    "id": "phys_198",
+    "qno": 198,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "‘Learning science develops discipline in taking readings in laboratory \nand while working in laboratory’ indicates this value \n‘విజాాన శాస్త్ర అధ్యయనం దావరా ప్రయోగశాలలో పనిచేస్తప్పపడు మరియు రీడింగులు \nతీస్కునేటప్పపడు విధ్యయరిధ క్రమశిక్షణగా వయవహరిసాతరు’ అని తెలియజేస్త విలువ",
+    "options": [
+      "Moral value నైతిక విలువ",
+      "Aesthetic value సంద్రాయత్మక విలువ",
+      "Disciplinary value క్రమశిక్షణ విలువ",
+      "Utilitarian value ఉపయోగిత్ విలువ"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_198.webp"
+  },
+  {
+    "id": "phys_199",
+    "qno": 199,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "First step in ‘Scientific method’ is \n‘శాస్త్రీయ పద్దతిలోని’ మొద్టి స్కపానం",
+    "options": [
+      "Identification of problem సమసయన గురితంచడం",
+      "Analysing problem సమసయన విశ్లుష్టంచడం",
+      "Testing Hypothesis ప్రాకలపనన పరీక్షించడం",
+      "Generalization of results ఫలిత్తలన సాధ్యరణీకరించడం"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_199.webp"
+  },
+  {
+    "id": "phys_200",
+    "qno": 200,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The cognitive domain was explained by \n జాానాత్మక రంగానిి వివరించన వ్యరు",
+    "options": [
+      "B.S. Blooms బ.యస్. బూుమ్ై",
+      "David R. Krathwohl డేవిడ్. ఆర్. క్రాత్ వోల్",
+      "R. H. Dawey ఆర్. హెచ్ . డేవి",
+      "Jeevan జీవన్"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_200.webp"
+  },
+  {
+    "id": "phys_201",
+    "qno": 201,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The first step in cognitive domain of Blooms classification of educational \nobjectives \nబూుమ్ై విదాయలక్షాయల వరీుకరణలోని జాానాత్మకరంగం లోని మొద్టి స్కపానం",
+    "options": [
+      "Understanding అవగాహన",
+      "Application అనవయము",
+      "Knowledge జాానం",
+      "Evaluation మూలాయంకనం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_201.webp"
+  },
+  {
+    "id": "phys_202",
+    "qno": 202,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The first step in ‘Affective domain’ of Blooms classification of \neducational objectives \nబూుమ్ై విదాయలక్షాయల వరీుకరణలో భావ్యవేశరంగం లోని మొద్టి స్కపానం",
+    "options": [
+      "Responding ప్రతిసపంద్న",
+      "Valuing విలువకటటడం",
+      "Organisation వయవసాాపనం",
+      "Receiving గ్రహించడం"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_202.webp"
+  },
+  {
+    "id": "phys_203",
+    "qno": 203,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The first step in ‘Psychomotor domain’ of Blooms classification of \neducational objectives \nబూుమ్ై విదాయలక్షాయల వరీుకరణలో భావ్యవేశరంగం లోని మొద్టి స్కపానం",
+    "options": [
+      "Imitation అనకరణ",
+      "Manipulation హసతలాఘవం",
+      "Precision స్నిశిత్త్వం",
+      "Articulation ఉచ్చేరణ"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_203.webp"
+  },
+  {
+    "id": "phys_204",
+    "qno": 204,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The specification “Recall” belongs to this objective \n“జాపితకి తెచుాకుంటారు” అనే సపష్పటకరణ ఈ లక్షాయనికి చెందింది",
+    "options": [
+      "Knowledge జాానం",
+      "Understanding అవగాహన",
+      "Application అనవయము",
+      "Skill నైప్పణయము"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_204.webp"
+  },
+  {
+    "id": "phys_205",
+    "qno": 205,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "‘Teaching is an interaction process’ defined by \n‘ బోధ్న ఒక పరసపర చరాయ ప్రక్రయ’ అని నిరవచంచన వ్యరు",
+    "options": [
+      "Edmund Amidon ఎడమండ్ అమిడాన్",
+      "A. Flander ఎ. ఫాుండర్",
+      "B.O. Smith బ. ఓ . స్థమత్",
+      "H. C. Morrison హెచ్. స్థ . మ్మరిసన్"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_205.webp"
+  },
+  {
+    "id": "phys_206",
+    "qno": 206,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "‘Memory level of Teaching’ designed by \n‘సమృతి సాాయి బోధ్నా నమూనా’ న రూపందించన వ్యరు",
+    "options": [
+      "Edmund Amidon ఎడమండ్ అమిడాన్",
+      "A. Flander ఎ. ఫాుండర్",
+      "J. F. Herbart జె. ఎఫ్. హెరాబర్ట",
+      "H. C. Morrison హెచ్. స్థ . మ్మరిసన్"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_206.webp"
+  },
+  {
+    "id": "phys_207",
+    "qno": 207,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Student centred teaching method among the following \nక్రంది వ్యనిలో విదాయరిధ కేంద్రక బోధ్నా పద్దతి",
+    "options": [
+      "Heuristic method అనేవష్ణా పద్దతి",
+      "Lecture method ఉపనాయస పద్దతి",
+      "Lecture demonstration method ఉపనాయస-ప్రద్రశనా పద్దతి",
+      "Historical method చ్చరిత్రక పద్దతి"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_207.webp"
+  },
+  {
+    "id": "phys_208",
+    "qno": 208,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Teacher centred teaching method among the following \nక్రంది వ్యనిలో ఉపాధ్యయయ కేంద్రక బోధ్నా పద్దతి",
+    "options": [
+      "Lecture method ఉపనాయస పద్దతి",
+      "Heuristic method అనేవష్ణా పద్దతి",
+      "Project method ప్రాజెకుట పద్దతి",
+      "Laboratory method ప్రయోగశాల పద్దతి"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_208.webp"
+  },
+  {
+    "id": "phys_209",
+    "qno": 209,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The first step in Project method is \nప్రాకలపన పద్దతిలో మొద్టి స్కపానం",
+    "options": [
+      "Planning ప్రణాళిక",
+      "Execution నిరవహణ",
+      "Evaluation మూలాయంకనం",
+      "Providing a situation పరిస్థాతిని కలిపంచడం"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_209.webp"
+  },
+  {
+    "id": "phys_210",
+    "qno": 210,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The last step in Project method is \nప్రాకలపన పద్దతిలో చవరి స్కపానం",
+    "options": [
+      "Preparing a report నివేదిక త్యారుచేయుట",
+      "Evaluation మూలాయంకనం",
+      "Planning ప్రణాళిక",
+      "Providing a situation పరిస్థాతిని కలిపంచడం"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_210.webp"
+  },
+  {
+    "id": "phys_211",
+    "qno": 211,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "In this method students learn the lesson by doing experiment on their \nown \nఈ పద్దతిలో విదాయరుధలు సవయంగా ప్రయోగానిి చేసూత పాఠ్యంశాలన నేరుాకుంటారు",
+    "options": [
+      "Lecture demonstration method ఉపనాయస-ప్రద్రశనా పద్దతి",
+      "Lecture method ఉపనాయస పద్దతి",
+      "Historical method చ్చరిత్రక పద్దతి",
+      "Laboratory method ప్రయోగశాల పద్దతి"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_211.webp"
+  },
+  {
+    "id": "phys_212",
+    "qno": 212,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The first step in ‘Problem solving method’ is \nసమసాయ పరిషాకర పద్దతిలో మొద్టి స్కపానం",
+    "options": [
+      "Conclusion ముగింప్ప",
+      "Analysing problem సమసయన విశ్లుష్టంచడం",
+      "Defining problem సమసయన నిరవచంచడం",
+      "Identifying problem సమసయన గురితంచడం"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_212.webp"
+  },
+  {
+    "id": "phys_213",
+    "qno": 213,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "‘Heuristic’ is derived from the Greek word Heurisco. The meaning of \nHeurisco is \nహ్యయరిస్థటక్ అనే పద్ం హ్యయరిస్కక అనే గ్రీకు పద్ం నండి గ్రహించ్చరు. హ్యయరిస్కక అంటే \nఅరధం",
+    "options": [
+      "Experiment ప్రయోగం",
+      "Investigation పరిశోధించుట",
+      "Doing work పని చేయడం",
+      "Hypothesis ప్రకలపన"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_213.webp"
+  },
+  {
+    "id": "phys_214",
+    "qno": 214,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "‘Communication’ is derived from the following Latin word \n‘కమూయనికేష్న్’ అనే పద్ం ఈ క్రంది లాటిన్ పద్ం నండి రాబటాటరు",
+    "options": [
+      "Comments కామెంట్ై",
+      "Communis కమూయనిస్",
+      "Commons కామన్ై",
+      "Connections కనెక్షన్ై"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_214.webp"
+  },
+  {
+    "id": "phys_215",
+    "qno": 215,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "In this teaching method, the teacher explains the concept by showing the \nexperiment to him \nఈ బోధ్నా పద్దతిలో ఉపాధ్యయయుడు ప్రయోగానిి చేస్థ చూపిసూత భావనన వివరిసాతడు",
+    "options": [
+      "Lecture method ఉపనాయస పద్దతి",
+      "Lecture demonstration method ఉపనాయస-ప్రద్రశనా పద్దతి",
+      "Heuristic method అనేవష్ణా పద్దతి",
+      "Problem solving method సమసాయ పరిషాకర పద్దతి"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_215.webp"
+  },
+  {
+    "id": "phys_216",
+    "qno": 216,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "‘Heuristic method’ was first introduced by \nఅనేవష్ణా పద్దతిని మొటటమొద్టిగా ప్రవేశపెటిటనది",
+    "options": [
+      "H. E. Armstrong హెచ్. ఈ . ఆర్మ సాోంగ్",
+      "F. W. Westway ఎఫ్. డబుు. వెస్ట వే",
+      "Kilpatrick కిల్ పాట్రిక్",
+      "H. C. Morrison హెచ్. స్థ . మ్మరిసన్"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_216.webp"
+  },
+  {
+    "id": "phys_217",
+    "qno": 217,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Plan prepared to teach the lessons present in the curriculum year long \n విదాయ ప్రణాళికలోని పాఠ్యంశాలన సంవత్ైరం పడవునా బోధించడానికి \nత్యారుచేస్కునే పథకం",
+    "options": [
+      "Unit plan యూనిట్ పథకం",
+      "Period plan పీరియడ్ పథకం",
+      "Year plan వ్యరిషక పథకం",
+      "Monthly plan నెలవ్యరీ పథకం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_217.webp"
+  },
+  {
+    "id": "phys_218",
+    "qno": 218,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "‘A unit is a large block of related subject matter as can be over viewed by \nthe learner’ said by \n‘విదాయరిా చూడగల పరసపర సంబంధ్ం గల పాఠ్యవిష్యం గల ఒక సమైకయభాగం \nయూనిట్’ అని చెపిపనది",
+    "options": [
+      "Bossing బాస్థంగ్",
+      "Preston ప్రెసటన్",
+      "Bagley బాగేు",
+      "Morrison మ్మరిసన్"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_218.webp"
+  },
+  {
+    "id": "phys_219",
+    "qno": 219,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The educationalist who prepared the steps in ‘Lesson planning’ \nపాఠ్యపధ్కంలోని స్కపానాలన త్యారు చేస్థన విదాయవేత్త",
+    "options": [
+      "Herbert హెరాబర్ట",
+      "Bassing బాస్థైంగ్",
+      "Morrison మ్మరిసన్",
+      "Bagley బాగెు"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_219.webp"
+  },
+  {
+    "id": "phys_220",
+    "qno": 220,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The first step in the execution of ‘Steps in lesson planning’ \n‘పాఠ్యపధ్కంలోని ద్శల’ అమలులోని మొద్టి ద్శ",
+    "options": [
+      "Preparation సనాిహం",
+      "Presentation హాజరుపరచడం",
+      "Association సంసరుం",
+      "Generalization సాదారణీకరణం"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_220.webp"
+  },
+  {
+    "id": "phys_221",
+    "qno": 221,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "‘Curriculum should be prepared based on the Physical and Mental levels \nof students’. The principle involved in this is sentence \n‘పాఠ్యప్రణాళిక విధ్యయరిధ శారీరక, మానస్థక సాాయిలన అనసరించ రూపందించ్చలి’ ఈ \nవ్యకయంలో ఇమిడి ఉని సూత్రం.",
+    "options": [
+      "Principle of Balance సమతౌలయత్త సూత్రం",
+      "Principle of Articulation కలుపబడే సూత్రం",
+      "Principle of Utility ఉపయోగిత్త సూత్రం",
+      "Principle of Maturity పరిపకవత్త సూత్రం"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_221.webp"
+  },
+  {
+    "id": "phys_222",
+    "qno": 222,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Curriculum must include “Learning by doing” activities. The principle \ninvolved in this is sentence \nపాఠ్యప్రణాళికలో “చేయడం దావరా అభయసనం” కృత్తయలన ఉంచ్చలి. ఈ వ్యకయంలో \nఇమిడి ఉని సూత్రం",
+    "options": [
+      "Principle of Activity centredness కృత్యకేంద్రీకృత్ సూత్రం",
+      "Principle of Articulation కలుపబడే సూత్రం",
+      "Principle of Creativity సృజనాత్మక సూత్రం",
+      "Principle of Conservation పరిరక్షణ సూత్రం"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_222.webp"
+  },
+  {
+    "id": "phys_223",
+    "qno": 223,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "In Programmed learning, based on this principle The students will learn \nwith his own capacity based on individual differences \nకారయక్రమయుత్ అభయసనంలోని ఈ సూత్రం ఆధ్యరంగా విధ్యయరుధలు త్మ సామరాధానికి \nత్గిన వేగంతో వైయుకితక భేదాలకనగుణంగా అభయస్థంచవచుా",
+    "options": [
+      "Principle of Small steps చని స్కపానాల సూత్రం",
+      "Principle of Self pacing స్మవయగమన సూత్రం",
+      "Principle of Immediate self reinforcement  త్క్షణ ప్పనరభలనసూత్రం",
+      "Principle of Student testing విదాయరిధ పరీక్షా సూత్రం"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_223.webp"
+  },
+  {
+    "id": "phys_224",
+    "qno": 224,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The first step in micro teaching is \nసూక్షమ బోధ్నలోని మొద్టి స్కపానం",
+    "options": [
+      "Skill demonstration నైప్పణయ ప్రద్రశన",
+      "Micro teaching సూక్షమ బోధ్న",
+      "Defining the Skill నైప్పణాయనిి నిరవచంచడం",
+      "Transfer of Skill నైప్పణయ బదిలీ"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_224.webp"
+  },
+  {
+    "id": "phys_225",
+    "qno": 225,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The final step in micro teaching is \nసూక్షమ బోధ్నలోని చవరి స్కపానం",
+    "options": [
+      "Defining the Skill నైప్పణాయనిి నిరవచంచడం",
+      "Skill demonstration నైప్పణయ ప్రద్రశన",
+      "Micro teaching సూక్షమ బోధ్న",
+      "Transfer of Skill నైప్పణయ బదిలీ"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_225.webp"
+  },
+  {
+    "id": "phys_226",
+    "qno": 226,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The word ‘Curriculum’ is derived from Latin word ‘Currere’ means \n‘కర్రికులం’ అనే పద్ం ‘కర్కర్క’ అనే లాటిన్ పద్ం నండి వచానది. దాని అరధం",
+    "options": [
+      "To run పరిగెతుతటకు మారుం",
+      "To learn నేరుాకోవడానికి",
+      "To understand అరధంచేస్కోవడానికి",
+      "To write వ్రాయడానికి"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_226.webp"
+  },
+  {
+    "id": "phys_227",
+    "qno": 227,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "This occupied a major role in teaching learning process apart from \nteacher and student \nబోధ్నాభయసనా ప్రక్రయలో ఉపాధ్యయయుడు మరియు విదాయరిధతో పాట్ట ప్రముఖ్ సాానానిి \nఆక్రమించేది",
+    "options": [
+      "Black board నలు బలు",
+      "Laboratory ప్రయోగశాల",
+      "Text book పాఠ్య ప్పసతకం",
+      "Atmosphere వ్యత్తవరణం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_227.webp"
+  },
+  {
+    "id": "phys_228",
+    "qno": 228,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "This is not a mechanical feature of a text book \n పాఠ్యప్పసతకం యొకక యాంత్రిక లక్షణం కానిది",
+    "options": [
+      "Book binding should be neat  ప్పసతకం బైండింగ్ నీట్టగా ఉండాలి",
+      "The cover page of text book should be attractive  పాఠ్య ప్పసతక కవర్ పేజీ ఆకరషణీయంగా ఉండాలి",
+      "The size of letters in the text book should be visible  పాఠ్య ప్పసతకంలోని అక్షరాలు కనిపించేంత్ పరిమాణంలో ఉండాలి",
+      "The content in the text book should be logical and meaningful  పాఠ్య ప్పసతకంలో విష్యం త్తరికకంగాన్య మరియు అరధవంత్ంగాన ఉండాలి"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_228.webp"
+  },
+  {
+    "id": "phys_229",
+    "qno": 229,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "Choose the correct option \n సరి అయిన ఐచేకానిి ఎంచుకోండి \nA: Evaluation depends on Measurement \n మూలాయంకనం మాపనంపై ఆధ్యరపడుతుంది \nB: Measurement depends on Evaluation \n మాపనం మూలాయంకనంపై ఆధ్యరపడుతుంది",
+    "options": [
+      "Both A and B are Correct A మరియు B లు ర్కండూ సరైనవి",
+      "Both A and B are Incorrect A మరియు Bలు ర్కండూ సరైనవికావు",
+      "Ais correct, B is incorrect A సరైనది, B సరికాదు",
+      "Ais incorrect, B is correct A సరికాదు, B సరైనది"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_229.webp"
+  },
+  {
+    "id": "phys_230",
+    "qno": 230,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The evaluation occur during teaching learning process is called \nబోధ్నాభయసన ప్రక్రయ జరుగుతునిప్పపడే జరిగే మూలాయంకనానిి ఇలా పిలుసాతరు",
+    "options": [
+      "Placement evaluation సాాన నిరేధశిత్ మూలాయంకనం",
+      "Formative evaluation రూపణ మూలాయంకనం",
+      "Summative evaluation సంకలన మూలాయంకనం",
+      "Diagnostic evaluation సమసాయ నిరాధరణ మూలాయంకనం"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_230.webp"
+  },
+  {
+    "id": "phys_231",
+    "qno": 231,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The type of evaluation used before teaching learning process is \nబోధ్నాభయసన ప్రక్రయ ప్రారంభానికి ముందే జరిగే మూలాయంకన రకం",
+    "options": [
+      "Placement evaluation సాాన నిరేధశిత్ మూలాయంకనం",
+      "Formative evaluation రూపణ మూలాయంకనం",
+      "Diagnostic evaluation లోప నిరాధరణ మూలాయంకనం",
+      "Summative evaluation సంకలన మూలాయంకనం"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_231.webp"
+  },
+  {
+    "id": "phys_232",
+    "qno": 232,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The tests used to identify the problem faced by students in a particular \narea and its solution are \nఒక నిరిదష్ట విభాగంలో విదాయరిధ ఎదురొకనే సమసయల గురితంప్పకు మరియు వ్యటి సాధ్నకు \n(లోప నిరాధరణకు) ఉపయోగించే పరీక్షలు",
+    "options": [
+      "Achievement tests సాధ్నా పరీక్షలు",
+      "Diagnostic tests లోప నిరాధరణ పరీక్షలు",
+      "Aptitude tests సహజ సామరధా పరీక్షలు",
+      "Attitude tests వైఖ్రి పరీక్షలు"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_232.webp"
+  },
+  {
+    "id": "phys_233",
+    "qno": 233,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The type of evaluation that ‘Students evaluate their progress \nthemselves’ is called \nవిదాయరుధలు త్మంత్ట త్తమే త్మ ప్రగతిని మూలాయంకనం చేస్కునే రకమైన \nమూలాయంకనానిి ఇలా పిలుసాతరు",
+    "options": [
+      "Formative evaluation రూపణ మూలాయంకనం",
+      "Summative evaluation సంకలన మూలాయంకనం",
+      "Self evaluation స్మవయ మూలాయంకనం",
+      "Diagnostic evaluation లోప నిరాధరణ మూలాయంకనం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_233.webp"
+  },
+  {
+    "id": "phys_234",
+    "qno": 234,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "In the process of evaluation subject matter, learning experiences and \nevaluation are three components then the fourth component is \nవిదాయ మూలాయంకన ప్రక్రయలో విష్యం ,అభాయసనానభవ్యలు మరియు మూలాయంకనం \nమూడు అంశాలైతే నాలువ అంశం",
+    "options": [
+      "Educational objectives విదాయ లక్షాయలు",
+      "Laboratories ప్రయోగశాలలు",
+      "Attitudes వైఖ్రులు",
+      "Aptitudes సహజ సామరాధాలు"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_234.webp"
+  },
+  {
+    "id": "phys_235",
+    "qno": 235,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The evaluation used after the completion of some chapters \nకొనిి అధ్యయయాలు పూరిత అయిన త్రావత్ జరిపే మూలాయంకనం",
+    "options": [
+      "Self evaluation స్మవయ మూలాయంకనం",
+      "Formative evaluation రూపణ మూలాయంకనం",
+      "Summative evaluation సంకలన మూలాయంకనం",
+      "Diagnostic evaluation లోప నిరాదరణ మూలాయంకనం"
+    ],
+    "correct": 3,
+    "image": "assets/physics/q_235.webp"
+  },
+  {
+    "id": "phys_236",
+    "qno": 236,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "In this type of test the student will answer orally for the questions asked \norally \nఈ రకమైన పరీక్షలో మౌఖికంగా అడిగిన ప్రశిలకు విధ్యయరిధ మౌఖికంగానే \nసమాదానమిసాతడు",
+    "options": [
+      "Written tests రాత్ పరీక్షలు",
+      "Summative tests సంగ్రహణాత్మక పరీక్షలు",
+      "Rating scales రేటింగ్ స్తకల్ై",
+      "Oral tests మౌఖిక పరీక్షలు"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_236.webp"
+  },
+  {
+    "id": "phys_237",
+    "qno": 237,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "This is not a use of multiple choice questions \nబహుళ్థళచాక సమాధ్యన ప్రశిల వలు ప్రయోజనం కానిది",
+    "options": [
+      "Questions are objective ప్రశిలు లక్షాయత్మకమై ఉంటాయి",
+      "Importance given to identification గురితంప్పకే ప్రాధ్యనయత్",
+      "Take less time for scoring గణనకు త్కుకవ సమయం పడుతుంది",
+      "Students writing skills can be tested  విదాయరుధల రాత్ నైప్పణాయలన పరీక్షించవచుా"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_237.webp"
+  },
+  {
+    "id": "phys_238",
+    "qno": 238,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The teacher choose a test that fulfil the purpose of which it is meant for. \nThen the characteristic of this test is \nఉపాధ్యయయుడు ఎంచుకుని పరీక్ష ఏ ప్రయోజనం కోసం ఎనికునాిరో దానిని మాపనం \nచేస్థంది. అయిన ఆ పరీక్ష యొకక లక్షణం",
+    "options": [
+      "Validity సప్రమాణత్",
+      "Reliability విశవసనీయత్",
+      "Objectivity లక్షాయత్మకత్",
+      "Utility ఔపయోగికత్"
+    ],
+    "correct": 1,
+    "image": "assets/physics/q_238.webp"
+  },
+  {
+    "id": "phys_239",
+    "qno": 239,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The answer script is evaluated at different times or by different people \nwhere same marks are obtained. Then the test has this characteristic \nఒక సమాధ్యన పత్రానిి వేరువేరు సమయాలోు గాని లేదా వేరువేరు వయకుతలు దిదిదన గాని \nఒకే విధ్ంగా మారుకలు వచ్చాయి. అప్పడు ఆ పరీక్షకు ఈ లక్షణం ఉంట్టంది",
+    "options": [
+      "Validity సప్రమాణత్",
+      "Reliability విశవసనీయత్",
+      "Objectivity లక్షాయత్మకత్",
+      "Utility ఔపయోగికత్"
+    ],
+    "correct": 2,
+    "image": "assets/physics/q_239.webp"
+  },
+  {
+    "id": "phys_240",
+    "qno": 240,
+    "subject": "physics",
+    "subject_name": "Physical Science",
+    "subject_te": "భౌతిక రసాయన శాస్త్రాలు",
+    "question": "The science organisation working in our state for popularising Science \nమన రాష్ట్రంలో శాస్త్ర ప్రచ్చరం కోసం పనిచేస్తని సైన్ై సంసా",
+    "options": [
+      "Ekalavya ఏకలవయ",
+      "Jodo gyan జోడో జాాన్",
+      "Vikram shila విక్రమశిల",
+      "Jana vignana Vedika జనవిజాాన వేదిక"
+    ],
+    "correct": 4,
+    "image": "assets/physics/q_240.webp"
+  }
+]

@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+  <title>TET Paper 2A CBT Portal | 2,699 Practice Questions & Keys</title>
+  <meta name="description" content="Official AP & TS TET Paper 2A Practice Assessment Portal. 2,699 questions across CDP, Telugu, English, Maths, Physics, Biology with instant evaluation (+1 / 0) and bilingual support.">
+  
+  <!-- Google Fonts: Plus Jakarta Sans & Noto Sans Telugu -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎓</text></svg>">
+</head>
+<body>
+
+  <!-- Confetti Canvas -->
+  <canvas id="confetti-canvas"></canvas>
+
+  <!-- Sticky Header -->
+  <header class="app-header">
+    <div class="header-container">
+      <a href="#" id="brand-home-link" class="brand">
+        <div class="brand-icon">🎓</div>
+        <div class="brand-text">
+          <h1 data-i18n="brand_title">TET 2A Knowledge Master</h1>
+          <p data-i18n="brand_sub">AP & TS TET Question Bank</p>
+        </div>
+      </a>
+
+      <div class="header-actions">
+        <!-- Live Total Score Ticker -->
+        <div id="global-score-ticker" class="score-ticker" title="Total Score Across All Subjects">
+          <span>⚡</span>
+          <span id="global-score-val">+0</span>
+        </div>
+
+        <!-- Sound Toggle -->
+        <button id="sound-toggle-btn" class="icon-btn" title="Toggle Sound">🔊</button>
+
+        <!-- Theme Toggle -->
+        <button id="theme-toggle-btn" class="icon-btn" title="Toggle Theme">☀️</button>
+
+        <!-- Language Toggle -->
+        <button id="lang-toggle-btn" class="lang-toggle-btn" title="Switch Language">
+          <span>🌐</span>
+          <span>తెలుగు</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Viewports -->
+  <main class="main-content">
+    
+    <!-- VIEW 1: SUBJECT HUB / HOME -->
+    <section id="hub-view" class="view-section active">
+      <!-- Hero Banner -->
+      <div class="hero-banner">
+        <h2 class="hero-title" data-i18n="hero_title">Master Your TET Paper 2A Exam</h2>
+        <p class="hero-subtitle" data-i18n="hero_sub">
+          Comprehensive CBT platform covering all 2,699 questions across 6 subjects. Official question cards, instant feedback (+1 / 0), verified keys, bilingual viewing, and seamless subject navigation.
+        </p>
+
+        <div class="hero-stats-row">
+          <div class="hero-stat-card">
+            <span id="total-questions-stat" class="stat-val">2,699</span>
+            <span class="stat-lbl" data-i18n="stat_total_q">Total Questions</span>
+          </div>
+          <div class="hero-stat-card">
+            <span id="total-subjects-stat" class="stat-val">6</span>
+            <span class="stat-lbl" data-i18n="stat_subjects">Subjects</span>
+          </div>
+          <div class="hero-stat-card">
+            <span id="total-completed-stat" class="stat-val">0</span>
+            <span class="stat-lbl" data-i18n="stat_passed">Attempted</span>
+          </div>
+          <div class="hero-stat-card">
+            <span id="total-score-stat" class="stat-val" style="color: var(--color-correct);">+0</span>
+            <span class="stat-lbl" data-i18n="stat_avg_score">Total Score</span>
+          </div>
+        </div>
+
+        <div class="hero-actions-row">
+          <a href="TET_Paper_2A_Master_Question_Bank.pdf" download="TET_Paper_2A_Master_Question_Bank.pdf" class="download-pdf-btn" id="download-master-pdf-btn" title="Download Complete 2,699 Question Bank with Answers (PDF)">
+            <span class="btn-icon">📥</span>
+            <span>Download Master PDF (2,699 Questions + Keys)</span>
+          </a>
+          <button id="reset-progress-btn" class="reset-hub-btn" title="Reset all test progress and retake">
+            <span class="btn-icon">🔄</span>
+            <span data-i18n="btn_reset_all">Reset Test Progress</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Subject Selection Grid -->
+      <div class="subjects-header">
+        <h2 data-i18n="choose_subject_title">Choose a Subject to Begin</h2>
+      </div>
+
+      <div id="subjects-grid" class="subjects-grid">
+        <!-- Rendered via app.js -->
+      </div>
+    </section>
+
+    <!-- VIEW 2: TEST RUNNER -->
+    <section id="test-view" class="view-section">
+      <!-- Test Header Bar -->
+      <div class="test-top-bar">
+        <div class="test-subject-info">
+          <button id="test-back-btn" class="test-back-btn">
+            <span>←</span>
+            <span data-i18n="btn_hub">Hub</span>
+          </button>
+          <span class="test-subject-name" id="test-subject-name">Subject Name</span>
+        </div>
+
+        <div class="test-controls-right">
+          <!-- Language Display Pills -->
+          <div class="lang-mode-pills" title="Toggle Question View Language">
+            <button class="lang-mode-pill active" data-mode="both" data-i18n="lang_both">ENG + TEL</button>
+            <button class="lang-mode-pill" data-mode="en" data-i18n="lang_en">ENG Only</button>
+            <button class="lang-mode-pill" data-mode="te" data-i18n="lang_te">TEL Only</button>
+          </div>
+
+          <!-- Navigator Drawer Button -->
+          <button id="open-drawer-btn" class="icon-btn" title="Open Full Question Grid">☰</button>
+        </div>
+      </div>
+
+      <!-- QUESTION NUMBER WISE NAV BAR (DIRECT HORIZONTAL JUMP) -->
+      <div class="q-strip-container">
+        <div class="q-strip-actions">
+          <div class="q-jump-input-box">
+            <span class="q-jump-label" data-i18n="q_jump_lbl">Jump to Q#:</span>
+            <input type="number" id="quick-jump-input" class="quick-jump-input" min="1" placeholder="1" />
+            <button id="quick-jump-btn" class="quick-jump-btn">Go</button>
+          </div>
+          <div class="auto-advance-toggle-box">
+            <label class="switch-label">
+              <input type="checkbox" id="auto-advance-check" />
+              <span data-i18n="auto_advance">Auto-Next Question</span>
+            </label>
+          </div>
+        </div>
+
+        <!-- Scrollable Question Pill Strip -->
+        <div id="q-strip-scroll" class="q-strip-scroll">
+          <!-- Dynamic Q1, Q2, Q3 pills rendered by app.js -->
+        </div>
+      </div>
+
+      <!-- Progress Meta Row -->
+      <div class="question-meta-row">
+        <div id="qno-counter" class="qno-counter">Question 1 of 240</div>
+        <div class="score-badge-live">
+          <span id="live-correct-count" class="live-correct-tag">✓ 0</span>
+          <span id="live-wrong-count" class="live-wrong-tag">✗ 0</span>
+        </div>
+      </div>
+
+      <!-- Question Card -->
+      <article id="question-card" class="question-card">
+        <!-- OFFICIAL QUESTION PICTURE SNIPPET (For all questions) -->
+        <div id="question-image-box" class="question-image-box">
+          <img id="question-img" src="" alt="Official Question Card">
+        </div>
+
+        <!-- Text Question Container (Bilingual / Clean) -->
+        <div id="question-text-box" class="question-text-content">
+          <div id="question-text-en" class="question-text-en"></div>
+          <div id="question-text-te" class="question-text-te telugu-font"></div>
+        </div>
+
+        <!-- 4 Options -->
+        <div id="options-container" class="options-container">
+          <!-- Rendered dynamically -->
+        </div>
+
+        <!-- Instant Feedback Banner (+1 / 0) -->
+        <div id="instant-feedback" class="instant-feedback-card">
+          <div id="feedback-text" class="feedback-msg">
+            <span>✓</span>
+            <span>Correct! +1 Mark</span>
+          </div>
+          <span id="feedback-score" class="feedback-score-pill">+1</span>
+        </div>
+      </article>
+
+      <!-- Sticky Bottom Test Actions for Mobile Thumb Navigation -->
+      <div class="test-bottom-bar">
+        <button id="prev-q-btn" class="nav-btn nav-btn-secondary">
+          <span>←</span>
+          <span data-i18n="prev_q">Prev</span>
+        </button>
+
+        <button id="submit-subject-btn" class="submit-sub-btn">
+          <span>✓</span>
+          <span data-i18n="submit_sub">Submit Subject</span>
+        </button>
+
+        <button id="next-q-btn" class="nav-btn nav-btn-primary">
+          <span data-i18n="next_q">Next</span>
+          <span>→</span>
+        </button>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Question Navigator Drawer -->
+  <div id="drawer-backdrop" class="drawer-backdrop"></div>
+  <aside id="navigator-drawer" class="navigator-drawer">
+    <div class="drawer-header">
+      <h3 data-i18n="drawer_title">Question Navigator</h3>
+      <button id="close-drawer-btn" class="icon-btn">✕</button>
+    </div>
+
+    <div class="drawer-legend">
+      <div class="legend-item">
+        <span class="legend-dot correct"></span>
+        <span data-i18n="legend_correct">Correct</span>
+      </div>
+      <div class="legend-item">
+        <span class="legend-dot wrong"></span>
+        <span data-i18n="legend_wrong">Wrong</span>
+      </div>
+      <div class="legend-item">
+        <span class="legend-dot unanswered"></span>
+        <span data-i18n="legend_unanswered">Unanswered</span>
+      </div>
+      <div class="legend-item">
+        <span class="legend-dot current"></span>
+        <span data-i18n="legend_current">Current</span>
+      </div>
+    </div>
+
+    <div class="drawer-content">
+      <div id="grid-jump-container" class="grid-jump-container">
+        <!-- Rendered dynamically -->
+      </div>
+    </div>
+  </aside>
+
+  <!-- Subject Score & Submit Modal -->
+  <div id="score-modal" class="modal-overlay">
+    <div class="score-modal-card">
+      <div class="celebration-icon">🏆</div>
+      <h2 class="modal-title" data-i18n="modal_congrats">Subject Completed!</h2>
+      <p id="modal-sub-name" class="modal-subtitle">Subject Name</p>
+
+      <div class="score-highlight-box">
+        <div>
+          <div id="modal-big-score" class="score-big-num">+0</div>
+          <div id="modal-denom" class="score-denom">/ 240 Marks</div>
+        </div>
+      </div>
+
+      <div class="stats-grid-modal">
+        <div class="stat-modal-pill correct">
+          <div id="modal-correct-val" class="val">0</div>
+          <div class="lbl" data-i18n="stat_correct">Correct (+1)</div>
+        </div>
+        <div class="stat-modal-pill wrong">
+          <div id="modal-wrong-val" class="val">0</div>
+          <div class="lbl" data-i18n="stat_wrong">Wrong (0)</div>
+        </div>
+        <div class="stat-modal-pill accuracy">
+          <div id="modal-accuracy-val" class="val">0%</div>
+          <div class="lbl" data-i18n="stat_accuracy">Accuracy</div>
+        </div>
+      </div>
+
+      <div class="modal-actions">
+        <!-- Prominent Button: Navigate to Next Subject -->
+        <button id="next-sub-btn" class="next-sub-btn-prominent">
+          <span>Proceed to Next Subject</span>
+          <span>→</span>
+        </button>
+
+        <div class="modal-secondary-actions">
+          <button id="review-btn" data-i18n="btn_review">Review Questions</button>
+          <button id="return-hub-btn" data-i18n="btn_hub">Back to Subject Hub</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Reset Confirmation Modal -->
+  <div id="reset-modal" class="modal-overlay">
+    <div class="reset-modal-card">
+      <div class="reset-modal-icon">⚠️</div>
+      <h3 class="modal-title" data-i18n="reset_modal_title">Reset All Progress?</h3>
+      <p class="modal-subtitle" data-i18n="reset_modal_desc">
+        This will permanently clear all your saved answers, subject scores, and test history across all 6 subjects so you can start fresh.
+      </p>
+      <div class="modal-actions-horizontal">
+        <button id="cancel-reset-btn" class="modal-cancel-btn" data-i18n="btn_cancel">Cancel</button>
+        <button id="confirm-reset-btn" class="modal-danger-btn" data-i18n="btn_confirm_reset">Yes, Reset Everything</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification Container -->
+  <div id="toast-container" class="toast-container"></div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
